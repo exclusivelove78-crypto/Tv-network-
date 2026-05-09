@@ -30,7 +30,7 @@ http://kstv.us:8080/live/qdxkt3R5pH/5118349267/15965.m3u8
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTIMF:-1 tvg-id="Somoy tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="Bangla" tvg-server="Server 1",018. Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
-#EXTIMF:-1 tvg-id="Somoy tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="Bangla" tvg-server="Server 1",018. Somoy TV
+#EXTIMF:-1 tvg-id="Somoy tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="Bangla" tvg-server="Server 1",019. Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1",015. T Sports HD
 http://198.195.239.50:8095/Tsports/index.m3u8
