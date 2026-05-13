@@ -74,8 +74,6 @@ http://103.229.254.25:7001/play/a0dt/index.m3u8
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Zee_bangla_cinema.png/revision/latest?cb=20210509182053" group-title="Kolkata Bangla",Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Colors_Bangla_logo.png/200px-Colors_Bangla_logo.png" group-title="Kolkata Bangla",Colors Bangla
-http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Bangla",Aakash Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",& Pictures 
@@ -137,6 +135,7 @@ http://premimum.online:80/live/jen12345/jen54321/676385.ts
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports",Bein Sports 2
 http://premimum.online:80/live/jen12345/jen54321/652319.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="Sports",IPL 2026 4K (Server 1)
-http://premimum.online/live/jen12345/jen54321/124281.ts
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kolkata Bangla",Gopal Bhar  
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
