@@ -47,7 +47,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1",023. Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kolkata Bangla",Gopal Bhar  
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 
 
 
