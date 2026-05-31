@@ -1,6 +1,7 @@
 M3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1",01. Star Jalsha HD
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 2",02. ZEE Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
