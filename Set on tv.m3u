@@ -152,7 +152,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1393
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1",076. Sony Entertainment Television
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1",077. SONY MAX HD
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1",077. SONY MAX HD
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports" tvg-server="Server 1",078. Sky Sports Football
 http://premimum.online:80/live/jen12345/jen54321/122411.ts
