@@ -99,7 +99,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Bangla" tvg-server="Server 1",049. PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",050. Star Sports 1 HD
-http://103.229.254.25:7001/play/a0a0
+https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1",051. STAR SPORTS 2 HINDI HD
 http://103.229.254.25:7001/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1",052. Star Sports Khel
