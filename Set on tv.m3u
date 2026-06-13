@@ -178,8 +178,8 @@ http://198.195.239.50:8095/SonyMAX/index.m3u8
 http://premimum.online:80/live/jen12345/jen54321/122411.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick
-http://110.39.27.47:8001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick Bangla 
+http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movie" tvg-server="Server 1",081. BOLLYWOOD ACTION
 http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",082. Cartoon Network
