@@ -253,7 +253,9 @@ http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",127. FIFA IND
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",128. FIFA T-Sports
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Bioscope+
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",129. Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",130. FIFA 26 beIN Sports Direct 
