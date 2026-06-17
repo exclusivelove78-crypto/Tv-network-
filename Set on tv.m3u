@@ -1,31 +1,5 @@
 M3u
 #EXTM3U
-#EXTINF:-1,Unknown_1
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
-#EXTINF:-1,Unknown_2
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745078&extension=ts&play_token=kdzBAmG4rF
-#EXTINF:-1,Unknown_3
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745145&extension=ts&play_token=U39BPgOSLv
-#EXTINF:-1,Unknown_4
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745146&extension=ts&play_token=xUk5115HrD
-#EXTINF:-1,Unknown_5
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745147&extension=ts&play_token=bQjMsUa6IU
-#EXTINF:-1,Unknown_6
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745148&extension=ts&play_token=O3MpzproSq
-#EXTINF:-1,Unknown_7
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745149&extension=ts&play_token=7JxQakNpkc
-#EXTINF:-1,Unknown_8
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745150&extension=ts&play_token=bS73C2QPPC
-#EXTINF:-1,Unknown_9
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745152&extension=ts&play_token=cAyScXUAPF
-#EXTINF:-1,Unknown_10
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745142&extension=ts&play_token=U30j9BBkfC
-#EXTINF:-1,Unknown_11
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745143&extension=ts&play_token=deR7lJ0xoE
-#EXTINF:-1,Unknown_12
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&extension=ts&play_token=mVOHRuau3A
-#EXTINF:-1,Unknown_13
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1",001. BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="Bangla" tvg-server="Server 1",002. BTV News
@@ -282,6 +256,32 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Bioscope+
 https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+#EXTINF:-1,Unknown_1
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
+#EXTINF:-1,Unknown_2
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745078&extension=ts&play_token=kdzBAmG4rF
+#EXTINF:-1,Unknown_3
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745145&extension=ts&play_token=U39BPgOSLv
+#EXTINF:-1,Unknown_4
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745146&extension=ts&play_token=xUk5115HrD
+#EXTINF:-1,Unknown_5
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745147&extension=ts&play_token=bQjMsUa6IU
+#EXTINF:-1,Unknown_6
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745148&extension=ts&play_token=O3MpzproSq
+#EXTINF:-1,Unknown_7
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745149&extension=ts&play_token=7JxQakNpkc
+#EXTINF:-1,Unknown_8
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745150&extension=ts&play_token=bS73C2QPPC
+#EXTINF:-1,Unknown_9
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745152&extension=ts&play_token=cAyScXUAPF
+#EXTINF:-1,Unknown_10
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745142&extension=ts&play_token=U30j9BBkfC
+#EXTINF:-1,Unknown_11
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745143&extension=ts&play_token=deR7lJ0xoE
+#EXTINF:-1,Unknown_12
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&extension=ts&play_token=mVOHRuau3A
+#EXTINF:-1,Unknown_13
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",129. Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",130. FIFA 26 beIN Sports Direct 
