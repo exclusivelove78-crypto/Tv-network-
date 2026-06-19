@@ -248,8 +248,8 @@ http://103.229.254.25:7001/play/a09q/index.m3u8
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 #EXTINF:-1 tvg-id="FIFA English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",125. FIFA English 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",126. FIFA Plus
-http://202.70.146.135:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",126. UNITE8 Sports 2 HD
+http://premiumtvs.space:80/live/jen12345/Jen54321/745202.ts
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",127. FIFA IND
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",128. FIFA T-Sports
