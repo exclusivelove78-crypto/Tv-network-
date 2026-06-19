@@ -254,8 +254,8 @@ http://202.70.146.135:8000/play/a06s/index.m3u8
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",128. FIFA T-Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Bioscope+
-https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+#EXTINF:-1 , Unite Sports 1 HD
+http://premiumtvs.space:80/live/jen12345/Jen54321/741567.ts
 #EXTINF:-1,Unknown_1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
 #EXTINF:-1,Unknown_2
