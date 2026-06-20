@@ -232,8 +232,6 @@ http://103.229.254.25:7001/play/a038/index.m3u8
 http://103.157.248.140:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1",107. Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png" group-title="Drama" tvg-server="Server 1",109. ARY DIGITAL HD
-http://103.76.111.180:7780/play/a06m
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1",110. & Pictures
 http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1",111. AlJazeera
