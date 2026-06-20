@@ -256,22 +256,18 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Unite Sports 1 HD
 http://premiumtvs.space:80/live/jen12345/Jen54321/741567.ts
-#EXTINF:-1,Unknown_1
+#EXTINF:-1,Fussball TV 1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
-#EXTINF:-1,Unknown_2
+#EXTINF:-1, NPP1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745078&extension=ts&play_token=kdzBAmG4rF
-#EXTINF:-1,Unknown_3
+#EXTINF:-1,itv sport unknown_3
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745145&extension=ts&play_token=U39BPgOSLv
-#EXTINF:-1,Unknown_4
+#EXTINF:-1,BBC Unknown_4
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745146&extension=ts&play_token=xUk5115HrD
-#EXTINF:-1,Unknown_5
+#EXTINF:-1, itv 1 Unknown_5
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745147&extension=ts&play_token=bQjMsUa6IU
-#EXTINF:-1,Unknown_6
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745148&extension=ts&play_token=O3MpzproSq
 #EXTINF:-1,Unknown_7
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745149&extension=ts&play_token=7JxQakNpkc
-#EXTINF:-1,Unknown_8
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745150&extension=ts&play_token=bS73C2QPPC
 #EXTINF:-1,Unknown_9
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745152&extension=ts&play_token=cAyScXUAPF
 #EXTINF:-1,Unknown_10
@@ -282,41 +278,19 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745143&e
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&extension=ts&play_token=mVOHRuau3A
 #EXTINF:-1,Unknown_13
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",129. Tapmad
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",130. FIFA 26 beIN Sports Direct 
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",131. Zee Bangla Cinema
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",132. Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 ,World cup &flix
+#EXTINF:-1 ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 ,World Cup HD 1
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
-#EXTINF:-1 ,World Cup FHD 3
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 ,World Cup 4k 4
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 ,World Cup 4k 5
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 ,World Cup 6
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 ,World Cup 7
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
-#EXTINF:-1 ,beIN SPORTS 4k
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
-#EXTINF:-1 ,Football World Cup 2026 link hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 ,Fifa'26 Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 ,Football World Cup 2026 (FOX SPORTS)
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 ,Football World Cup 2026 1
-http://202.70.146.135:8000/play/a06s/index.m3u8
 #EXTINF:-1 ,Football World Cup 2026 (4K)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1 ,PSL 2026 GEO SUPER
-http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
-#EXTINF:-1,Channel 98884
+#EXTINF:-1, Jalsha Movies 
 http://premiumtvs.space:80/live/jen12345/Jen54321/98884.ts
