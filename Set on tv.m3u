@@ -23,9 +23,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjyyFzi26mxd7qovXI6qge1TX2IR4Tr_dSQ&s" group-title="Bangla" tvg-server="Server 1",011. Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1",012. Ekhon TV
-http://103.229.254.25:7001/play/a09k/index.m3u8
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1",013. Global TV
-http://116.204.149.16/globaltv/index.m3u8
+https://sm-monirul.top/toffee/play/global_tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1",014. Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla" tvg-server="Server 1",015. Maasranga TV
@@ -52,7 +52,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1",026. Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1",027. Islamic TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1",027. Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4G-Aw-9Y2BiYRKQWIkTYWMp68o1XFiPn67SiKacsElkUnizh-75w9jLV7DKZWa6D4C5W8aicYA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1",028. Ekushey TV
 https://yupptv.rkdyiptv.workers.dev/live/1518.m3u8
@@ -302,10 +302,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 #EXTINF:-1 ,Fifa'26 Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 ,Football World Cup 2026 (4K)
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1, Korra City
-https://as.roomtu.store/rook1_720/index.m3u8
 #EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 , 4K
