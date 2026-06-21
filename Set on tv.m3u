@@ -136,7 +136,7 @@ http://premimum.online:80/live/jen12345/jen54321/2496.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/13141.ts
+http://premiumtvs.space/live/jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",070. ZEE Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",071. ZEE TV HD
@@ -184,7 +184,7 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",082. Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1",083. Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+http://premiumtvs.space/live/jen12345/Jen54321/271038.ts
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1",084. COLORS BANGLA HD
 http://premimum.online:80/live/jen12345/jen54321/98882.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1",085. COLORS HD
