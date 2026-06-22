@@ -247,6 +247,8 @@ https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports 1 Max Arabic (1)
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 ,Fifa'26 Go Live 1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Direct" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports Direct (1)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="D Sports" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",D Sports (1)
