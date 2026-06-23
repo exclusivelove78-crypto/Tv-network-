@@ -7,7 +7,7 @@ https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1",003. Sangsad Bangladesh
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1",004. Somoy TV
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/422.ts
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1",005. Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1",006.ATN Bangla
@@ -335,7 +335,5 @@ http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
-#EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" ,GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
