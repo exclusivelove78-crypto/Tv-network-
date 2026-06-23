@@ -97,6 +97,8 @@ http://103.229.254.25:7001/play/a0eo/index.m3u8
 https://sm-monirul.top/toffee/play/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Indian" tvg-server="Server 1",048. Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1",004. Somoy TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/422.ts
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",050. Star Sports 1 HD
 http://premiumtvs.space:80/live/jen12345/Jen54321/9397.ts
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1",051. STAR SPORTS 2 HINDI HD
