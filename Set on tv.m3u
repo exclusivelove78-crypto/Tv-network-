@@ -356,3 +356,5 @@ http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10" ,i screen
+http://sm-monirul.top/ott/iscreen/index.m3u8
