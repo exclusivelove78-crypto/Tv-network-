@@ -253,8 +253,8 @@ https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 
 -----------------World Cup'26----------------
 
-#EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports 1 Max Arabic (1)
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 , Bioscope 
+http://sm-monirul.top/ott/bioscope/index.m3u8
 #EXTINF:-1 , Fifa'26 Go Live 1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
