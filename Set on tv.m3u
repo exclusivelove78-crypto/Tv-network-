@@ -137,7 +137,7 @@ http://119.156.228.231:9983/stream/channelid/363433704?ticket=215AC4C7AD94EE684F
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1",065. Star Gold 2 HD
 http://119.156.228.231:9983/stream/channelid/282855773?ticket=DA9E56B48ED60751271B9CF8930975E3C50B84ED&profile=pass
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",066. STAR MOVIES HD
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports" tvg-server="Server 1",067. Super Sport Cricket
 http://premimum.online:80/live/jen12345/jen54321/2496.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",068. Willow
@@ -185,7 +185,7 @@ http://premimum.online:80/live/jen12345/jen54321/122411.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick Bangla 
-http://103.180.212.191:3500/live/1341.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movie" tvg-server="Server 1",081. BOLLYWOOD ACTION
 http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",082. Cartoon Network
