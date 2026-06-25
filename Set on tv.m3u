@@ -275,13 +275,13 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",T Sports HD (1)
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 2",T Sports HD (2)
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-name="TPV Sport" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",TPV Sport (1)
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Win Sports (1)
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-id="FIFA English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",125. FIFA English 
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 , T Sports 3
+http://197.149.148.18:3255/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",126. UNITE8 Sports 2 HD
 http://premiumtvs.space:80/live/jen12345/Jen54321/745202.ts
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",127. FIFA IND
