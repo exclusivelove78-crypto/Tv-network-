@@ -244,7 +244,7 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , CCTV 
 https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
 #EXTINF:-1 , Bioscope+
-https://bioscope.sm-monirulislam-exp.workers.dev/proxy?url=https%3A%2F%2Ffifa.keralive.workers.dev%2Fout%2Fv1%2F4e21d5a122c549289dd6feab259266e8%2Findex_1.m3u8
+http://sm-monirul.top/ott/bioscope1/index.m3u8
 #EXTINF:-1 , bdix somoy
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/2026/06/24/02/23/48-06000.ts
 #EXTINF:-1 , Bdix United8
