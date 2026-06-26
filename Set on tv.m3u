@@ -311,6 +311,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 , Toffee 
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782574753~Starts=1782488353~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=Hlfezch_iTMBFJP-4vXj2-PCVXtcDcKw18m3730s-m_aTUBsd7wnTFsKvSQfNrqHkt498MGUgjeXeDP-6XLdDw
 #EXTINF:-1 , Sports TV-1
 https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #EXTINF:-1 ,Caze tv
