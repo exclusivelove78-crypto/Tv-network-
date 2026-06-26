@@ -232,6 +232,9 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kolkata Bangla",Gopal Bhar  
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+#EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids", WowKidz (Motu Patlu)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
 
 -----------------World Cup'26----------------
 
@@ -246,7 +249,7 @@ https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
 #EXTINF:-1 , Bioscope+
 http://sm-monirul.top/ott/bioscope1/index.m3u8
 #EXTINF:-1 , bdix somoy
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/2026/06/24/02/23/48-06000.ts
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 , Bdix United8
 http://198.195.239.50:8095/unt-s/video.m3u8
 http://198.195.239.50:8095/unt-s/2026/06/24/02/29/38-06000.ts
@@ -328,8 +331,6 @@ http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 5 (1)
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
-#EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids",0. WowKidz (Motu Patlu)
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
