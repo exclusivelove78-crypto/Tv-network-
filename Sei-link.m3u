@@ -1,8 +1,5 @@
 m3u
 #EXTM3U
-#EXTINF:-1 tvg-id="promo-ch" tvg-name="DailyFlim.online" tvg-logo="https://dailyflim.online/genfavicon-512.png" tvg-language="Bangla" tvg-country="BD",DailyFlim.online
-http://dailyflim.online/ads/ads.mp4
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 xui-id="69473" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj",JAMUNA TV
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9kk5P56yCUOQCm6qSfQF8tGnaSxYJMhKz1iy0j2cMSAk
 #EXTINF:-1 xui-id="18816" tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj",JAMUNA TV HD
