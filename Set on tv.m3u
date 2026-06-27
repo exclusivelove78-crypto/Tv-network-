@@ -239,7 +239,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 -----------------World Cup'26----------------
 
 #EXTINF:-1 , Bioscope 
-http://sm-monirul.top/ott/bioscope/index.m3u8
+http://sm-monirul.top/fifa/bioscope/index.m3u8
 #EXTINF:-1 , Fifa'26 Go Live 1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
@@ -247,7 +247,7 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , CCTV 
 https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
 #EXTINF:-1 , Bioscope+
-http://sm-monirul.top/ott/bioscope1/index.m3u8
+http://sm-monirul.top/fifa/bioscope1/index.m3u8
 #EXTINF:-1 , bdix somoy
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 , Bdix United8
@@ -342,7 +342,7 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10" ,i screen
-http://sm-monirul.top/ott/iscreen/index.m3u8
+http://sm-monirul.top/fifa/iscreen/index.m3u8
 #EXTINF:-1 , willow
 https://cz-pli.hossainhridoy.workers.dev/proxy/https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=HY9C9x4pAT5XAwYHHr5L2g&expires=1782483615
 
