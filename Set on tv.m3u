@@ -1,17 +1,18 @@
 M3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="Bangla" tvg-server="Server 1", BTV News
-https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9urHvjM6SqAssQutuATcclY
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1",  Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN Bangla
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/431.ts
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9j-MuvNHLis-tXr2W4MXKN25iwvNhEBpdbWpl_1-QgMA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-news-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-24-bd.png" group-title="Bangla" tvg-server="Server 1", Channel 24
@@ -25,7 +26,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1", Ekhon TV
 https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1", Global TV
-https://sm-monirul.top/toffee/play/global_tv.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9ioLxzKs9ShTFPIMn2xLls0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1", Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla" tvg-server="Server 1", Maasranga TV
@@ -41,30 +42,30 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1", RTV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/401.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla" tvg-server="Server 1", SATV
-http://116.204.149.16/satv/index.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9lY8p-q9MV8PiJgkDCuYt0M
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Drama" tvg-server="Server 1", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/113069.ts
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
-https://sm-monirul.top/toffee/play/nexus_tv.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9gvpAby1BUeuE-SPUQ74-h4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1", Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9kkT1t7ayd-6cOJc1vbMN34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1", Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4G-Aw-9Y2BiYRKQWIkTYWMp68o1XFiPn67SiKacsElkUnizh-75w9jLV7DKZWa6D4C5W8aicYA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1", Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1", Duronto TV
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/433.ts
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9uiUxghWJSWv5DDReHP-A8A
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="Bangla" tvg-server="Server 1", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrTkRG2_z_5KHfI_ur5-Ev5Q4kVl3zKmcAQ&s" group-title="Bangla" tvg-server="Server 1", Channel S HD
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qbXCLuJ4WTlv0MLUjtpHe5qV5DH5zxPyO1ORtivVU1z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla" tvg-server="Server 1", Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1", Boishakhi TV
@@ -207,7 +208,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148161.ts
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1", HUM HD
 http://103.76.111.180:7780/play/a06u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9p8Fih8BuJck_0zIrYzsvlXfq7TC8tR9dIq7u7-4Z5lh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
