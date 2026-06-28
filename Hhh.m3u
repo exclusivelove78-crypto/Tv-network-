@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 , Bioscope 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
 http://sm-monirul.top/fifa/bioscope/index.m3u8
 #EXTINF:-1 , Fifa'26 Go Live 1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
