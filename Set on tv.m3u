@@ -220,7 +220,6 @@ http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9kNi8qg9XALYqVwbANA86q4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9tmPjqLrPRXyxXHXlso9Rfo
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1", ZEE TV HD
@@ -228,7 +227,6 @@ http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE4
 http://119.156.228.231:9983/stream/channelid/1098503157?ticket=2A0955D467EF1DEB566F0D4269D31348F11593CF&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE777Hzu9yZqcW2GbkFiVvYE
 http://119.156.228.231:9983/stream/channelid/1477567606?ticket=1BFF6B61CD818AB68A89742ED2DE9F0B57CF0368&profile=pass
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Indian" tvg-server="Server 1", YRF Music HD
@@ -262,9 +260,10 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nKSGhCPYv3xuqmYP_frqVc
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
+http://103.157.248.140:8000/play/a007/index.m3u8
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9tM2Ok0BAtzeMWEECydOVaGBaZILOWE6z4-_5DnG-Sz0
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
