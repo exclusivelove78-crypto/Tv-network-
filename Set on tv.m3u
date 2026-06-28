@@ -220,88 +220,128 @@ http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1", ZEE TV HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE47hgJ3_jBoxWFKhaA1pmaP
 http://119.156.228.231:9983/stream/channelid/1098503157?ticket=2A0955D467EF1DEB566F0D4269D31348F11593CF&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE777Hzu9yZqcW2GbkFiVvYE
 http://119.156.228.231:9983/stream/channelid/1477567606?ticket=1BFF6B61CD818AB68A89742ED2DE9F0B57CF0368&profile=pass
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Indian" tvg-server="Server 1", YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1", SUN BANGLA HD
 http://103.159.180.34:5001/live/1669.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1", Sony Wah
 http://live.balajibroadband.com:3500/live/1393.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
+
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
 https://sm-monirul.top/toffee/play/sony_max.m3u8
+
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports" tvg-server="Server 1", Sky Sports Football
 http://premimum.online:80/live/jen12345/jen54321/122411.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1", Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movie" tvg-server="Server 1", BOLLYWOOD ACTION
 http://103.229.254.25:7001/play/a0es/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1", Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
 http://live.balajibroadband.com:3500/live/1657.m3u8
+
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nKSGhCPYv3xuqmYP_frqVc
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9tM2Ok0BAtzeMWEECydOVaGBaZILOWE6z4-_5DnG-Sz0
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
 http://live.balajibroadband.com:3500/live/1763.m3u8
+
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1", MAX 2 HD
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1", Nick Bangla 
 http://live.balajibroadband.com:3500/live/1341.m3u8
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1", Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1", ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1", FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1", G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1", Bein Sport 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1", Bein Sports 2
 http://premimum.online:80/live/jen12345/jen54321/652319.ts
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",  BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movie" tvg-server="Server 1", Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cG8Vd8MiTP-KEnpTdPmMfjUdAlQ1rimJvKSjpZs2v2aXjqU8TM_vmi1e9Mo3ZNKd9sm_hu4RJw=s900-c-k-c0x00ffffff-no-rj" group-title="Drama" tvg-server="Server 1", Green TV HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nhVE4jI9egQoXAk-sjJA0emV9ha-OVoJETqT1sLRK8j
+
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports" tvg-server="Server 1", HUB SPORTS 4
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148161.ts
+
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1", HUM HD
 http://103.76.111.180:7780/play/a06u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9p8Fih8BuJck_0zIrYzsvlXfq7TC8tR9dIq7u7-4Z5lh
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
 http://205.235.6.29:8000/play/a0pz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="English" tvg-server="Server 1", HBO 2
 http://23.88.66.93/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" tvg-server="Server 1", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary" tvg-server="Server 1", NAT GEO HD
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9pCEzhnri8lV8s04oHNwrsGG7JrMaEl29H13WdXhb_b-
+
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
 http://103.157.248.140:8000/play/a01c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1", Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1", & Pictures
 http://103.229.254.25:7001/play/a033/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1", AlJazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="English" tvg-server="Server 1", BBC World
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kolkata Bangla",Gopal Bhar  
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+
 #EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
@@ -309,111 +349,166 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 -----------------World Cup'26----------------
 #EXTINF:-1 , Bioscope 1
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+
 #EXTINF:-1 , Bioscope 
 http://sm-monirul.top/fifa/bioscope/index.m3u8
+
 #EXTINF:-1 , Fifa'26 Go Live 1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , CCTV 
 https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
+
 #EXTINF:-1 , Bioscope+
 http://sm-monirul.top/fifa/bioscope1/index.m3u8
+
 #EXTINF:-1 , bdix somoy
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+
 #EXTINF:-1 , Bdix United8
 http://198.195.239.50:8095/unt-s/video.m3u8
+
 http://198.195.239.50:8095/unt-s/2026/06/24/02/29/38-06000.ts
+
 #EXTINF:-1 tvg-name="Bein Sports Direct" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports Direct (1)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
 #EXTINF:-1 tvg-name="D Sports" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",D Sports (1)
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",T Sports HD (1)
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 2",T Sports HD (2)
 https://trs1.aynaott.com/tsports/index.m3u8
+
 #EXTINF:-1 tvg-name="TPV Sport" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",TPV Sport (1)
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Win Sports (1)
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
 #EXTINF:-1 , T Sports 3
 http://197.149.148.18:3255/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",126. UNITE8 Sports 2 HD
 http://premiumtvs.space:80/live/jen12345/Jen54321/745202.ts
+
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",127. FIFA IND
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+
 #EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",128. Dazn 🇵🇹
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+
 #EXTINF:-1 , Unite Sports 1 HD
 http://premiumtvs.space:80/live/jen12345/Jen54321/741567.ts
+
 #EXTINF:-1,Fussball TV 1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
+
 #EXTINF:-1, NPP1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745078&extension=ts&play_token=kdzBAmG4rF
+
 #EXTINF:-1,itv sport unknown_3
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745145&extension=ts&play_token=U39BPgOSLv
+
 #EXTINF:-1,BBC Unknown_4
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745146&extension=ts&play_token=xUk5115HrD
+
 #EXTINF:-1, itv 1 Unknown_5
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745147&extension=ts&play_token=bQjMsUa6IU
+
 #EXTINF:-1,Unknown_7
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745149&extension=ts&play_token=7JxQakNpkc
+
 #EXTINF:-1,Unknown_9
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745152&extension=ts&play_token=cAyScXUAPF
+
 #EXTINF:-1,Unknown_10
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745142&extension=ts&play_token=U30j9BBkfC
+
 #EXTINF:-1,Unknown_11
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745143&extension=ts&play_token=deR7lJ0xoE
+
 #EXTINF:-1,Unknown_12
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&extension=ts&play_token=mVOHRuau3A
+
 #EXTINF:-1,Unknown_13
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",131. Zee Bangla Cinema
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",132. Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
 #EXTINF:-1 ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
 #EXTINF:-1 ,World Cup 6
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
 #EXTINF:-1 ,World Cup 7
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
+
 #EXTINF:-1 ,Fifa'26 Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/tsports/index.m3u8
+
 #EXTINF:-1 , Toffee 
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782574753~Starts=1782488353~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=Hlfezch_iTMBFJP-4vXj2-PCVXtcDcKw18m3730s-m_aTUBsd7wnTFsKvSQfNrqHkt498MGUgjeXeDP-6XLdDw
+
 #EXTINF:-1 , Sports TV-1
 https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+
 #EXTINF:-1 ,Caze tv
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
 #EXTINF:-1 ,Caze TV Brazil 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 , 26 FS
 https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+
 #EXTINF:-1 , Toffee English 
 https://cdn-tt.pages.dev/ch5.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 1 (1)
 http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 2 (1)
 http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 3 (1)
 http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 4 (1)
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 5 (1)
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+
 #EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10" ,i screen
 http://sm-monirul.top/fifa/iscreen/index.m3u8
+
 #EXTINF:-1 , willow
 https://cz-pli.hossainhridoy.workers.dev/proxy/https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=HY9C9x4pAT5XAwYHHr5L2g&expires=1782483615
 
