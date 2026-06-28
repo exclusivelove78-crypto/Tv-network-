@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 , Bioscope 
+http://sm-monirul.top/fifa/bioscope/index.m3u8
+#EXTINF:-1 , Fifa'26 Go Live 1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , CCTV 
+https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
+#EXTINF:-1 , Bioscope+
+http://sm-monirul.top/fifa/bioscope1/index.m3u8
+#EXTINF:-1 , bdix somoy
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#EXTINF:-1 , Bdix United8
+http://198.195.239.50:8095/unt-s/video.m3u8
