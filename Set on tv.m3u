@@ -8,7 +8,7 @@ http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -72,9 +72,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
+https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9gvpAby1BUeuE-SPUQ74-h4
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1", Mohona TV
@@ -153,7 +154,8 @@ http://live.balajibroadband.com:3500/live/697.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1", Star Sports 1 HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nKR3vtvsE80LRCoqlUsgNc
+http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
@@ -162,7 +164,7 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nxZ6EAX9vAOq5o9cJe57BE
+http://103.157.248.140:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
@@ -203,6 +205,7 @@ http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F07794
 http://119.156.228.231:9983/stream/channelid/363433704?ticket=215AC4C7AD94EE684FA3BD51D8DC2E9DDC03ADD6&profile=pass
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1", Star Gold 2 HD
+http://103.157.248.140:8000/play/a00e/index.m3u8
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9vIi2FTIkrjl83tAjF46UQI
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1", STAR MOVIES HD
