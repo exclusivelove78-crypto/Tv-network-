@@ -2,9 +2,10 @@ m3u
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="Bangla" tvg-server="Server 1", BTV News
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
