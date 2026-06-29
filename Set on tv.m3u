@@ -372,7 +372,10 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 , CCTV 5
-https://www.rtmpcdn.com/live/cctv5.m3u8
+https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
+
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 1 (1)
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782835443~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDcmMPMQ4WdRVIQaDawDjjBYqexQcGEiMBIBXv_xViZlL1RndEZqk--av8n0q0n-eRORpjdJxyENdA_pTEyUaIN
 
 #EXTINF:-1 , I-Screen
 http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
@@ -485,8 +488,6 @@ https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 , Toffee English 
 https://cdn-tt.pages.dev/ch5.m3u8
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 1 (1)
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782835443~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDcmMPMQ4WdRVIQaDawDjjBYqexQcGEiMBIBXv_xViZlL1RndEZqk--av8n0q0n-eRORpjdJxyENdA_pTEyUaIN
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 2 (1)
 
