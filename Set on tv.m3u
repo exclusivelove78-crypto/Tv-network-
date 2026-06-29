@@ -370,17 +370,9 @@ http://exp.sm-monirul.top/ultra_restream/bioscope/index.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , CCTV 
-https://play1.gzxdby.com/live/783234345958_4547667094.m3u8
 
 #EXTINF:-1 , CCTV 5
 https://www.rtmpcdn.com/live/cctv5.m3u8
-
-#EXTINF:-1 , T-Sports 2
-https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , Bioscope+
-http://sm-monirul.top/fifa/bioscope1/index.m3u8
 
 #EXTINF:-1 , I-Screen
 http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
