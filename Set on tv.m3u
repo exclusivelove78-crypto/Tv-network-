@@ -370,7 +370,7 @@ http://exp.sm-monirul.top/ultra_restream/bioscope/index.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , CCTV 
+#EXTINF:-1 , CCTV
 https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 , CCTV 5
