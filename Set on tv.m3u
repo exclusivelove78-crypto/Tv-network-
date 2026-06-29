@@ -346,7 +346,7 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids",Gopal Bhar  
-https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/2026/06/29/07/33/18-02900.ts
 
 #EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
