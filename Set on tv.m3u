@@ -432,7 +432,7 @@ http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
 https://sm-monirul.top/toffee/play/pogo_sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1", Tom & Jarry
-
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids",Gopal Bhar  
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
@@ -441,6 +441,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1", Nick Bangla 
+https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1", Cartoon Network
@@ -474,11 +475,7 @@ http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
 
 #EXTINF:-1 , Bdix United8
 http://198.195.239.50:8095/unt-s/video.m3u8
-
 http://198.195.239.50:8095/unt-s/2026/06/24/02/29/38-06000.ts
-
-#EXTINF:-1 , Servus TV 
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
 
 #EXTINF:-1 , Fox Sports 
 https://cdn011.viaplus.site/fox-usa.m3u8
@@ -578,22 +575,6 @@ https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 
 #EXTINF:-1 , Toffee English 
 https://cdn-tt.pages.dev/ch5.m3u8
-
-
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 2 (1)
-
-
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 3 (1)
-
-
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 4 (1)
-
-
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 5 (1)
-
-
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-
 
 #EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
