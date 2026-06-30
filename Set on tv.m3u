@@ -153,6 +153,8 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 http://live.balajibroadband.com:3500/live/697.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1", G-Serise
@@ -194,6 +196,7 @@ https://xfireflix.my.id/mac.php
 http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 
@@ -227,7 +230,7 @@ https://sm-monirul.top/toffee/play/zee_action.m3u8
 https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
-http://live.balajibroadband.com:3500/live/1763.m3u8
+http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
 https://sm-monirul.top/toffee/play/sony_max.m3u8
