@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090460&extension=ts&play_token=7Rk7KwoZQD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090459&extension=ts&play_token=1zudSNoESh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090458&extension=ts&play_token=IobsrU9uMR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090457&extension=ts&play_token=9TFBwgwD0W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090456&extension=ts&play_token=i7NkhJpl8F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090455&extension=ts&play_token=WYLsYaLkBq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090454&extension=ts&play_token=AMK9RFoueY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
