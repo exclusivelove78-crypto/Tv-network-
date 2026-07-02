@@ -29,7 +29,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla" tvg-server="Server 1", DBC News
@@ -94,7 +94,7 @@ http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="Bangla" tvg-server="Server 1", Deepto TV
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Logo_of_Deepto_TV.svg" group-title="Bangla" tvg-server="Server 1", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrTkRG2_z_5KHfI_ur5-Ev5Q4kVl3zKmcAQ&s" group-title="Bangla" tvg-server="Server 1", Channel S HD
@@ -174,7 +174,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY SAB HD VIP
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:SONY_SAB_SD_Logo_2022.png",SONY SAB HD VIP
 https://sm-monirul.top/toffee/play/sonysab_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1", ZEE TV HD
@@ -192,7 +192,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
 https://xfireflix.my.id/mac.php
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",জলসা Movie HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
 http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
@@ -223,10 +223,10 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
 https://sm-monirul.top/toffee/play/zee_action.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bollywood
+#EXTINF:-1  tvg-logo="https://archive.org/download/zee-bollywood-logo/Zee-Bollywood-Logo.jpg",Zee Bollywood
 https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
@@ -468,9 +468,6 @@ https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 , CCTV 5
 https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
-
-#EXTINF:-1 , Fussbal
-https://kaizokutv.me/fifa/player.php?id=fuss-1-4k-m
 
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 1 (1)
