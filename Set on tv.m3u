@@ -452,9 +452,6 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 -----------------World Cup'26----------------
 
-#EXTINF:-1 , Bioscope 
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-
 
 #EXTINF:-1 , Bioscope main
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_3.m3u8 |x-authorization=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMzI0NTg2MTU0MzM5NjE0NzIiLCJhdWQiOlsiMSJdLCJleHAiOjE4MTM4NTQ4NjgsIm5iZiI6MTc4MjMxODg2OCwiaWF0IjoxNzgyMzE4ODY4LCJqdGkiOiIwMmY3Y2Y2M2I5OTFiMjY0Mzk0YmU2MjE0ZDJhNzI4MWYzZTExNWFkMGE4OGJhZTBmYTcyZjkwMTJmOTJmNGU1ZTA1N2Y3NGMxOGViODQzYyIsInNjb3BlcyI6WyJtYW5hZ2VfcHJvZmlsZXMiXSwicGlkIjoiMjMyNDU4Njc1MjYyMDA1MjQ4In0.kr0qIPfh66MktNCEAW_AcqFPzzX58VdP2JkVNzOjiOaig25qi9H6rttTcnKzJZoHD0Urj6YEom2S3Z_VujPXSugq9UXPFrzFbBA9zD-nMDgsNQrBr15K2uTAweqTClFduLPLyi-JvZWXpq8UbHybjhoen-Q3nRyHzOsQakQp8nRhR2yUYCiDBjwDPzF56WCVUWAYr1M19xRyiGJTqLmDI1KrT8CXwVdZFBZWqAptUnFMI6TEcoFSsRSMhN9_8KZCXbezExsToFIPbnIxp7ZPDD-qGT-KZ4GfPWrBUS93fiR4p8UzHn9Q3Bwba_mTxq3Fy8OhHilKCefoVTmyngBHwodjTOw8D9JkYc5-16QmYS6tBGbdgPRHKklTgkNYDlrQHCSQuNLTI_pRskw5oygUXkudpiPcUM9IFz8ud-rbbxVii-0ISXtwUIaEv_HBf_aA9cCGttN7ZdEquMTxbIhR27EMTwj5RdgE-i64iH__Xv3Ua4A5tzJjA5XR9Cqrsa3k84uCJlk74Z-8KBpvTcbMjAOhtqZOfimw736vSBgV9Xdk4dsoxpIfg90g38tfvCgYSwDgq5ulxTl3ygq7kS6BY1kT2m_R1T2Xdorm-75kbJ9iTn9IGa9PruwtmrtLlbuT2uivaw3E05U_UCrMwqeFZslbGtjAij95j083wmxXqUQ
@@ -465,37 +462,22 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , P TV BDIX
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 
-#EXTINF:-1 , Telemundo 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
-#EXTINF:-1 , CCTV
-https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 , CCTV 5
 https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
 
 
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels" tvg-server="Server 1",Toffee 1 (1)
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782835443~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDcmMPMQ4WdRVIQaDawDjjBYqexQcGEiMBIBXv_xViZlL1RndEZqk--av8n0q0n-eRORpjdJxyENdA_pTEyUaIN
-
-
-#EXTINF:-1 , I-Screen
-http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
 
 
 #EXTINF:-1 , Bdix United8
 http://198.195.239.50:8095/unt-s/video.m3u8
 http://198.195.239.50:8095/unt-s/2026/06/24/02/29/38-06000.ts
 
-#EXTINF:-1 , Fox Sports 
-https://cdn011.viaplus.site/fox-usa.m3u8
 
 #EXTINF:-1, TV Asteca
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-#EXTINF:-1, TUDN
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Bein Sports Direct" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports Direct (1)
@@ -508,18 +490,6 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="TPV Sport" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",TPV Sport (1)
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports" tvg-server="Server 1",126. UNITE8 Sports 2 HD
-http://premiumtvs.space:80/live/jen12345/Jen54321/745202.ts
-
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",127. FIFA IND
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
-
-#EXTINF:-1 tvg-id="FIFA Plus English" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg" group-title="Sports" tvg-server="Server 1",128. Dazn 🇵🇹
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-
-#EXTINF:-1 , Unite Sports 1 HD
-http://premiumtvs.space:80/live/jen12345/Jen54321/741567.ts
 
 #EXTINF:-1,Fussball TV 1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
@@ -552,19 +522,14 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&e
 #EXTINF:-1,Unknown_13
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",131. Zee Bangla Cinema
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",132. Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 ,Unite8 Sports 2 HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-#EXTINF:-1 ,World Cup 6
+#EXTINF:-1 ,Central 
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 ,World Cup 7
+#EXTINF:-1 , Central Extra
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 
@@ -572,8 +537,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 #EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/tsports/index.m3u8
 
-#EXTINF:-1 , Sports TV-1
-https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 
 #EXTINF:-1 ,Caze tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -581,14 +544,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 ,Caze TV Brazil 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 , 26 FS
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 , Toffee English 
-https://cdn-tt.pages.dev/ch5.m3u8
-
-#EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6123/index.m3u8
