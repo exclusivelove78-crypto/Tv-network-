@@ -147,7 +147,8 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1", SUN BANGLA HD
 http://103.159.180.34:5001/live/1669.m3u8
