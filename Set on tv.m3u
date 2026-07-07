@@ -8,8 +8,6 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/2026/07/07/14/50/42-06000.ts
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
