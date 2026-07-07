@@ -229,25 +229,29 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1  tvg-logo="https://archive.org/download/zee-bollywood-logo/Zee-Bollywood-Logo.jpg",Zee Bollywood
-https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg", NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
-https://book4u.top/worker/index.php?path=api/9bcb965282/playlist.m3u8
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1", Sony MAX 2 HD
-https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+http://119.156.228.231:9983/stream/channelid/1416664449?ticket=AC71985DAF3D8A1938E04341535321420FACBAC9&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
 http://103.157.248.140:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1", & Pictures
-https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -262,6 +266,7 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 http://103.175.73.12:8080/live/19/19_0.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U Movies VIP
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 https://sm-monirul.top/toffee/play/b4u_movies.m3u8
 
 ---------MUSIC--------
@@ -367,7 +372,7 @@ http://premimum.online:80/live/jen12345/jen54321/122411.ts
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports" tvg-server="Server 1", Sky Sports Cricket
-http://premimum.online:80/live/jen12345/jen54321/12.ts
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports" tvg-server="Server 1", SONY TEN 1 HD
 http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
@@ -411,7 +416,7 @@ https://sm-monirul.top/toffee/play/ten_cricket.m3u8
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9r-UrhbZJT_Yb07w_RIY2VUUnIRMYKsFoDdTn8ssvFJ7
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/19146/index.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1", Bein Sport 1
 http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
