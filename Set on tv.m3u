@@ -10,6 +10,7 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/2026/07/07/14/50/42-06000.ts
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -88,7 +89,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1", Duronto TV
-http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
+
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
@@ -122,6 +123,7 @@ http://fastshare1.com:80/live/25711345/late8airline/430.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Gazi TV
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/767.ts
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 
 
@@ -147,6 +149,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/183.ts
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 
 
@@ -193,14 +196,18 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98884.ts
 https://xfireflix.my.id/mac.php
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 http://live.balajibroadband.com:3500/live/1657.m3u8
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1", STAR MOVIES HD
@@ -379,15 +386,19 @@ https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8   
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports" tvg-server="Server 1", SONY TEN 1 HD
+http://119.156.228.231:9983/stream/channelid/784749914?ticket=875CB866803BD9CF05CC64AB42D65D797E804BAB&profile=pass
 http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1", SONY TEN 2 HD
+http://119.156.228.231:9983/stream/channelid/1768523944?ticket=87B7B3FD278FA21DB324E487574B51421E03876D&profile=pass
 http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
 
 #EXTINF:-1 , Sony Ten 3 HD
+http://119.156.228.231:9983/stream/channelid/990758354?ticket=C745A928C9F52D04D58628C6CA80198C4F59783F&profile=pass
 http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
 
 #EXTINF:-1 , Sony Ten 5 HD (BDIX)
+http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F077941D9C9390565E8930A7C4536&profile=pass
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 
 
@@ -396,6 +407,7 @@ http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F07794
 
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1", Star Sports 1 HD
+http://119.156.228.231:9983/stream/channelid/1954196473?ticket=0F2F6030C638079778CC6D1F97C65093DFCDA200&profile=pass
 http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
 
 #EXTINF:-1 , Central 
