@@ -483,12 +483,36 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
 
 
-
-
 #EXTINF:-1 , CCTV 5
 https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
 
 
+#EXTINF:-1,BTV
+http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
+
+
+#EXTINF:-1,Somoy TV
+http://103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,T Sports HD
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,T Sports BDIX
+http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,A-Sports BDIX
+http://103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=1dsfds1fsdf
+#EXTINF:-1,BEIN SPORTS 1
+http://103.114.11.37:8081/BEIN-SPORTS/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,PTV
+http://103.114.11.37:8081/PTV/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,FIFA 4K
+http://103.114.11.37:8081/FIFA-4k/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1,FIFA 4K 2
+http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=1dsfds1fsdf
 
 
 #EXTINF:-1 , Bdix United8
