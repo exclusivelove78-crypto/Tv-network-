@@ -483,8 +483,8 @@ https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1", PTV Sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , P TV BDIX
-http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
+#EXTINF:-1 , CCTV 5-1
+http://107.150.60.122/live/cctv5hd.m3u8
 
 
 
