@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+http://103.151.60.162:2121/play/a013/index.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+http://103.151.60.162:2121/play/a00z/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1",  Jamuna TV
@@ -362,10 +362,11 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148161.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1", Willow By Cricbuzz
-http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1", Willow By Cricbuzz 2
+#EXTINF:-1 , Willow Sports
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports" tvg-server="Server 1", Willow By Cricbuzz
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:C4:70:80&stream=809386&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1", FIFA+
