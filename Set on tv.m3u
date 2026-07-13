@@ -179,10 +179,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:SONY_SAB_SD_Logo_2022.png",SONY SAB SD
-https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:SONY_SAB_SD_Logo_2022.png",SONY SAB HD
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1", ZEE TV HD
 http://119.156.228.231:9983/stream/channelid/1098503157?ticket=2A0955D467EF1DEB566F0D4269D31348F11593CF&profile=pass
