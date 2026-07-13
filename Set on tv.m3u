@@ -213,7 +213,7 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
-http://119.156.228.231:9983/stream/channelid/363433704?ticket=215AC4C7AD94EE684FA3BD51D8DC2E9DDC03ADD6&profile=pass
+http://starhub.pro/live/farhat-3379/67897-913379/194.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1", Star Gold 2 HD
 http://103.253.18.58:8000/play/a00r
@@ -387,24 +387,19 @@ https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8   
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports" tvg-server="Server 1", SONY TEN 1 HD
-http://119.156.228.231:9983/stream/channelid/784749914?ticket=875CB866803BD9CF05CC64AB42D65D797E804BAB&profile=pass
-http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/9402.ts
 
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1", SONY TEN 2 HD
-http://119.156.228.231:9983/stream/channelid/1768523944?ticket=87B7B3FD278FA21DB324E487574B51421E03876D&profile=pass
-http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/192.ts
 
 #EXTINF:-1 , Sony Ten 3 HD
-http://119.156.228.231:9983/stream/channelid/990758354?ticket=C745A928C9F52D04D58628C6CA80198C4F59783F&profile=pass
-http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/9404.ts
 
-#EXTINF:-1 , Sony Ten 5 HD (BDIX)
-http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F077941D9C9390565E8930A7C4536&profile=pass
-http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1", SONY TEN 5 HD
-http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F077941D9C9390565E8930A7C4536&profile=pass
+http://starhub.pro/live/farhat-3379/67897-913379/17565.ts
+
 
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1", Star Sports 1 HD
