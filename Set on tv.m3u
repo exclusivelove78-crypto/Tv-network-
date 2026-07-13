@@ -152,9 +152,9 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1118057&ex
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
+http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=282063&extension=ts&play_token=ryQFMGenxJ
 https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/183.ts
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1", SUN BANGLA HD
@@ -201,8 +201,7 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98884.ts
 https://xfireflix.my.id/mac.php
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
-http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
+http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1118058&extension=ts&play_token=CMVjJsmARm
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
