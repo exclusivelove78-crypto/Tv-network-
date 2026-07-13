@@ -72,6 +72,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
+https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
@@ -182,7 +183,7 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1", ZEE TV HD
-http://119.156.228.231:9983/stream/channelid/1098503157?ticket=2A0955D467EF1DEB566F0D4269D31348F11593CF&profile=pass
+http://41.205.93.154/ZEE-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
 http://103.157.248.140:8000/play/a007/index.m3u8
@@ -408,8 +409,7 @@ http://119.156.228.231:9983/stream/channelid/1240519261?ticket=9840F17FC88F07794
 
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1", Star Sports 1 HD
-http://119.156.228.231:9983/stream/channelid/1954196473?ticket=0F2F6030C638079778CC6D1F97C65093DFCDA200&profile=pass
-http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
+http://103.253.18.58:8000/play/a00m
 
 #EXTINF:-1 , Central 
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
@@ -472,6 +472,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1", Cartoon Network
+https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
