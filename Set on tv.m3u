@@ -416,10 +416,10 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://103.157.248.140:8000/play/a00o/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
 
@@ -428,7 +428,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1", Bein Sport 1
