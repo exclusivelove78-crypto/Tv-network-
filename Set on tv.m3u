@@ -52,7 +52,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1", Nagorik TV
-http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/3802.ts
 
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1", News 24 BD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
@@ -61,10 +61,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1", RTV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
+http://starhub.pro/live/farhat-3379/67897-913379/3799.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla" tvg-server="Server 1", SATV
-http://fastshare1.com:80/live/25711345/late8airline/3814.ts
+http://starhub.pro/live/farhat-3379/67897-913379/3814.ts
 
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Drama" tvg-server="Server 1", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -106,13 +106,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla" tvg-server="Server 1", Bijoy TV
-http://fastshare1.com:80/live/25711345/late8airline/408.ts
+http://starhub.pro/live/farhat-3379/67897-913379/408.ts
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Bangla" tvg-server="Server 1", BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla" tvg-server="Server 1", Bangla TV
-http://fastshare1.com:80/live/25711345/late8airline/3803.ts
+http://starhub.pro/live/farhat-3379/67897-913379/3803.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Bangla" tvg-server="Server 1", Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
@@ -121,11 +121,10 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Gazi TV
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/767.ts
-http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/767.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="Bangla" tvg-server="Server 1", Jago News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="Bangla" Jago News
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10" group-title="Bangla" tvg-server="Server 1", NRB HD
@@ -205,7 +204,6 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1118058&ex
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 http://live.balajibroadband.com:3500/live/1657.m3u8
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 , Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
