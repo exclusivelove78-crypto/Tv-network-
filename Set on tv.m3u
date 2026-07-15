@@ -422,10 +422,10 @@ http://103.157.248.140:8000/play/a00o/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
-https://sm-monirul.top/toffee/play/ten_cricket.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1", Ten Sports
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9r-UrhbZJT_Yb07w_RIY2VUUnIRMYKsFoDdTn8ssvFJ7
+
 
 #EXTINF:-1 tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
@@ -435,14 +435,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1", Bein Sports 2
-http://premimum.online:80/live/jen12345/jen54321/652319.ts
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",  BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
-http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
 
@@ -451,7 +451,7 @@ http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
 ----------Cartoon--------
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pogo
-https://sm-monirul.top/toffee/play/pogo_sd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1", Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -462,8 +462,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1", Nick Bangla 
-https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1", Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1", Cartoon Network
@@ -478,14 +477,11 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_3.m3u8 |x-authorization=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMzI0NTg2MTU0MzM5NjE0NzIiLCJhdWQiOlsiMSJdLCJleHAiOjE4MTM4NTQ4NjgsIm5iZiI6MTc4MjMxODg2OCwiaWF0IjoxNzgyMzE4ODY4LCJqdGkiOiIwMmY3Y2Y2M2I5OTFiMjY0Mzk0YmU2MjE0ZDJhNzI4MWYzZTExNWFkMGE4OGJhZTBmYTcyZjkwMTJmOTJmNGU1ZTA1N2Y3NGMxOGViODQzYyIsInNjb3BlcyI6WyJtYW5hZ2VfcHJvZmlsZXMiXSwicGlkIjoiMjMyNDU4Njc1MjYyMDA1MjQ4In0.kr0qIPfh66MktNCEAW_AcqFPzzX58VdP2JkVNzOjiOaig25qi9H6rttTcnKzJZoHD0Urj6YEom2S3Z_VujPXSugq9UXPFrzFbBA9zD-nMDgsNQrBr15K2uTAweqTClFduLPLyi-JvZWXpq8UbHybjhoen-Q3nRyHzOsQakQp8nRhR2yUYCiDBjwDPzF56WCVUWAYr1M19xRyiGJTqLmDI1KrT8CXwVdZFBZWqAptUnFMI6TEcoFSsRSMhN9_8KZCXbezExsToFIPbnIxp7ZPDD-qGT-KZ4GfPWrBUS93fiR4p8UzHn9Q3Bwba_mTxq3Fy8OhHilKCefoVTmyngBHwodjTOw8D9JkYc5-16QmYS6tBGbdgPRHKklTgkNYDlrQHCSQuNLTI_pRskw5oygUXkudpiPcUM9IFz8ud-rbbxVii-0ISXtwUIaEv_HBf_aA9cCGttN7ZdEquMTxbIhR27EMTwj5RdgE-i64iH__Xv3Ua4A5tzJjA5XR9Cqrsa3k84uCJlk74Z-8KBpvTcbMjAOhtqZOfimw736vSBgV9Xdk4dsoxpIfg90g38tfvCgYSwDgq5ulxTl3ygq7kS6BY1kT2m_R1T2Xdorm-75kbJ9iTn9IGa9PruwtmrtLlbuT2uivaw3E05U_UCrMwqeFZslbGtjAij95j083wmxXqUQ
 
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1", PTV Sports
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+http://103.114.11.37:8081/PTV/index.m3u8?token=1dsfds1fsdf
 
 #EXTINF:-1 , CCTV 5-1
 http://107.150.60.122/live/cctv5hd.m3u8
 
-
-#EXTINF:-1 , CCTV 5
-https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
 
 
 #EXTINF:-1,BTV
@@ -498,49 +494,15 @@ http://103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
 #EXTINF:-1,T Sports HD
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,T Sports BDIX
-http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,A-Sports BDIX
-http://103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=1dsfds1fsdf
 #EXTINF:-1,BEIN SPORTS 1
 http://103.114.11.37:8081/BEIN-SPORTS/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,PTV
-http://103.114.11.37:8081/PTV/index.m3u8?token=1dsfds1fsdf
-
-#EXTINF:-1,FIFA 4K
-http://103.114.11.37:8081/FIFA-4k/index.m3u8?token=1dsfds1fsdf
-
-#EXTINF:-1,FIFA 4K 2
-http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=1dsfds1fsdf
-
-
-#EXTINF:-1 , Bdix United8
-http://198.195.239.50:8095/unt-s/video.m3u8
-http://198.195.239.50:8095/unt-s/2026/06/24/02/29/38-06000.ts
-
-
-#EXTINF:-1, TV Asteca
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Bein Sports Direct" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",Bein Sports Direct (1)
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-name="D Sports" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",D Sports (1)
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-
-#EXTINF:-1 tvg-name="TPV Sport" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026" tvg-server="Server 1",TPV Sport (1)
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 
 #EXTINF:-1,Fussball TV 1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745092&extension=ts&play_token=P8poBDQ9vu
 
-#EXTINF:-1, NPP1
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745078&extension=ts&play_token=kdzBAmG4rF
 
 #EXTINF:-1,itv sport unknown_3
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745145&extension=ts&play_token=U39BPgOSLv
@@ -566,26 +528,4 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745141&e
 
 #EXTINF:-1,Unknown_13
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745140&extension=ts&play_token=KaJxbsw5Gk
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports" tvg-server="Server 1",132. Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-
-#EXTINF:-1 ,Central 
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
-#EXTINF:-1 , Central Extra
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
-
-
-
-#EXTINF:-1,T Sports HD
-http://198.195.239.50:8095/tsports/index.m3u8
-
-
-#EXTINF:-1 ,Caze tv
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 ,Caze TV Brazil 
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
