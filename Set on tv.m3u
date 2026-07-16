@@ -199,6 +199,7 @@ https://xfireflix.my.id/mac.php
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
 http://starhub.pro/live/farhat-3379/67897-913379/425.ts
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
@@ -232,6 +233,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
 http://starhub.pro/live/farhat-3379/67897-913379/967.ts
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg", NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -253,6 +255,7 @@ http://119.156.228.231:9983/stream/channelid/1416664449?ticket=AC71985DAF3D8A193
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
 http://starhub.pro/live/farhat-3379/67897-913379/9376.ts
+http://103.253.18.58:8000/play/a02u
 
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1", & Pictures
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
@@ -269,7 +272,15 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U Movies VIP
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-https://sm-monirul.top/toffee/play/b4u_movies.m3u8
+
+#EXTINF:-1 , Hindi Movies 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 , South Movies 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 ---------MUSIC--------
 
