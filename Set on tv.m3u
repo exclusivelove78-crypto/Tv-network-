@@ -144,8 +144,6 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 #EXTINF:-1 , Star Jalsha 2
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 
-#EXTINF:-1 ,Star Jalsha 3
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
@@ -203,6 +201,9 @@ https://xfireflix.my.id/mac.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
 http://starhub.pro/live/farhat-3379/67897-913379/425.ts
 http://103.229.254.25:7001/play/a0dt/index.m3u8
+
+#EXTINF:-1 , Jalsha Movies 3
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
