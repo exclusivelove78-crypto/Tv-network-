@@ -456,6 +456,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
+http://103.151.60.204:881/A-Sports/video.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/43444.ts
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
