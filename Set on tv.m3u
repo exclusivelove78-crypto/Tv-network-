@@ -261,11 +261,13 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1", Sony MAX 2 HD
+https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 http://119.156.228.231:9983/stream/channelid/1416664449?ticket=AC71985DAF3D8A1938E04341535321420FACBAC9&profile=pass (backup)
 
