@@ -551,10 +551,11 @@ http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
 
 
 #EXTINF:-1,Somoy TV
-http://103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,T Sports HD
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=1dsfds1fsdf
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
+
 
 
 #EXTINF:-1,BEIN SPORTS 1
