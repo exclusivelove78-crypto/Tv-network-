@@ -374,6 +374,13 @@ http://103.175.73.12:8080/live/417/417_0.m3u8
 
 
 -----------------Sports-----------------
+#EXTINF:-1 ,Fancode
+https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Fancode.m3u
+
+#EXTINF:-1 , Tapmad
+https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Tapmad.m3u
+
+
 
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports" tvg-server="Server 1", HUB SPORTS 4
 http://starhub.pro/live/farhat-3379/67897-913379/196347.ts
@@ -483,6 +490,9 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1", Cartoon Network
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Kids",0. Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 
 -----------------World Cup'26----------------
