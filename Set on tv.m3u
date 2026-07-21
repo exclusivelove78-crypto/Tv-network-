@@ -142,9 +142,18 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cG8Vd8MiTP-KEnpTdPmMfjUdAlQ1rimJvKSjpZs2v2aXjqU8TM_vmi1e9Mo3ZNKd9sm_hu4RJw=s900-c-k-c0x00ffffff-no-rj" group-title="Drama" tvg-server="Server 1", Green TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
+
+
+
+
 ------------Entertainment-------
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD
+https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
 
 #EXTINF:-1 , Star Jalsa 1
