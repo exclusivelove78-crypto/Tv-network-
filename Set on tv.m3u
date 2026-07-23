@@ -398,6 +398,19 @@ https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg" group-title="SM All TV",NEWS | Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:ABP_News_logo.svg" Abp News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " , News India 24/7
+https://cdn-3.pishow.tv/live/273/master.m3u8
+
+#EXTINF:-1 , Mirror Now 
+https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
+
+#EXTINF:-1 , India Tv
+https://cdn-2.pishow.tv/live/1043/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1", AlJazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
