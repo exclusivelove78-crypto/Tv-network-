@@ -410,6 +410,11 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 #EXTINF:-1 , India Tv
 https://cdn-2.pishow.tv/live/1043/master.m3u8
 
+#EXTINF:-1 , Sansad TV HD
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 , Sansad TV 2 HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1", AlJazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
