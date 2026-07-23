@@ -314,16 +314,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" tvg-server="Server 1", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1  tvg-logo="",Music India
+#EXTINF:-1 ,Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-#EXTINF:-1  tvg-logo="",Hindi Hits HD
+#EXTINF:-1  ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1  tvg-logo="",9XM
+#EXTINF:-1  ,9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1  tvg-logo="",E24
+#EXTINF:-1 ,E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Indian" tvg-server="Server 1", Sangeet Bangla
@@ -366,7 +366,7 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TV9 Bangla
+#EXTINF:-1 ,TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="SM All TV",NEWS | Aaj Tak HD
@@ -531,7 +531,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/155.ts
 
 ----------Cartoon--------
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pogo
+#EXTINF:-1 ,Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/66165.ts
 
