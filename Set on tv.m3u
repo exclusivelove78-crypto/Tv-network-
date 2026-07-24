@@ -442,7 +442,6 @@ https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Tap
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 #EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
-http://starhub.pro/live/farhat-3379/67897-913379/196347.ts
 
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports",SuperSport Cricket
 http://starhub.pro/live/farhat-3379/67897-913379/5481.ts
@@ -464,6 +463,18 @@ http://starhub.pro/live/farhat-3379/67897-913379/19.ts
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports",Sky Sports Cricket
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-name="Sony Sports Ten 1 HD" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports",SONY TEN 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/9402.ts
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports",SONY TEN 2 HD
+http://starhub.pro/live/farhat-3379/67897-913379/192.ts
+
+#EXTINF:-1 tvg-id="SonySportsTen3.in@HD" tvg-name="Sony Sports Ten 3 HD" group-title="Sports",Sony Ten 3 HD
+http://starhub.pro/live/farhat-3379/67897-913379/9404.ts
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1", SONY TEN 5 HD
 http://starhub.pro/live/farhat-3379/67897-913379/17565.ts
