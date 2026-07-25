@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://monirul.bro.bd/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
-https://monirul.bro.bd/sm/stream.php?id=atn_bangla&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="atn_news" tvg-logo="http://monirul.bro.bd/assets/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
 https://monirul.bro.bd/sm/stream.php?id=atn_news&e=.m3u8
