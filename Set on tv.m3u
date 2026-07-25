@@ -118,13 +118,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla" tvg-server="Server 1", Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/408.ts
+
 
 #EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Bangla" tvg-server="Server 1", BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla" tvg-server="Server 1", Bangla TV
-http://starhub.pro/live/farhat-3379/67897-913379/3803.ts
+https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
+https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Bangla" tvg-server="Server 1", Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
@@ -218,6 +221,7 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 http://monirul.bro.bd/sm/stream.php?id=colors_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 
 
@@ -233,7 +237,7 @@ http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
@@ -244,10 +248,12 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
 http://monirul.bro.bd/sm/stream.php?id=star_gold_hd&e=.m3u8
+http://66.102.126.10:8000/play/a00f/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1", Star Gold 2 HD
 http://103.253.18.58:8000/play/a00r
+http://66.102.126.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
 http://monirul.bro.bd/sm/stream.php?id=zee_cinema_hd&e=.m3u8
@@ -281,14 +287,15 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
+http://live.balajibroadband.com:3500/live/476.m3u8
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Indian" tvg-server="Server 1", Sony MAX 2 HD
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
+http://live.balajibroadband.com:3500/live/483.m3u8
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
-http://119.156.228.231:9983/stream/channelid/1416664449?ticket=AC71985DAF3D8A1938E04341535321420FACBAC9&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
@@ -344,7 +351,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:B4U_Music_logo.png",B4U Music VIP
-
+http://103.175.73.12:8080/live/157/157_0.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/7258.ts
 
 
@@ -444,6 +451,13 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="International",NHK World
 http://103.175.73.12:8080/live/417/417_0.m3u8
 
+#EXTINF:-1,CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+
+#EXTINF:-1,CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+
 
 -----------------Sports-----------------
 
@@ -538,6 +552,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1", Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/143060.ts
 
 #EXTINF:-1 tvg-id="beINSportsXtra.qa" tvg-name="beIN Sports Xtra" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1", BeIN Sports Extra
@@ -548,11 +563,42 @@ http://103.151.60.204:881/A-Sports/video.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/43444.ts
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
+http://45.181.122.46:8090/play/a015
 http://starhub.pro/live/farhat-3379/67897-913379/155.ts
 
 
 EXTINF:-1 tvg-id="LaLigaTV.es@SD",LaLiga TV
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+
+
+#EXTINF:-1,ESPN 1
+http://181.118.158.103:8000/play/a038/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://45.167.1.136:8000/play/a06b
+
+
+#EXTINF:-1,ESPN 3
+http://45.167.1.136:8000/play/a02k
+
+#EXTINF:-1,ESPN 3
+http://45.181.122.46:8090/play/a01t
+
+#EXTINF:-1,ESPN 4
+http://45.167.1.136:8000/play/a02l
+
+#EXTINF:-1,ESPN 5
+http://45.167.1.136:8000/play/a04g
+
+#EXTINF:-1,ESPN 6
+http://45.167.1.136:8000/play/a06d
+
+
+
 
 ----------Cartoon--------
 
