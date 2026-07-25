@@ -189,6 +189,7 @@ http://live.balajibroadband.com:3500/live/697.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Indian" tvg-server="Server 1", Star Plus HD
+http://monirul.bro.bd/sm/stream.php?id=star_plus_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/221.ts
 
 
@@ -207,7 +208,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/145.ts
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
-
+http://monirul.bro.bd/sm/stream.php?id=colors_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
@@ -488,13 +489,18 @@ http://103.253.18.58:8000/play/a00m
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 http://starhub.pro/live/farhat-3379/67897-913379/213049.ts
 
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3 HD
+http://monirul.bro.bd/sm/stream.php?id=star_sports_3&e=.m3u8
+
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
+http://monirul.bro.bd/sm/stream.php?id=star_select_1_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/238.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
+http://monirul.bro.bd/sm/stream.php?id=star_sports_select_2_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/148801.ts
 
 #EXTINF:-1 tvg-id="TenCricket.pk" tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
@@ -529,7 +535,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/43444.ts
 http://starhub.pro/live/farhat-3379/67897-913379/155.ts
 
 
-
+EXTINF:-1 tvg-id="LaLigaTV.es@SD",LaLiga TV
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 
 ----------Cartoon--------
 
