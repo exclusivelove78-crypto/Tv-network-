@@ -2,7 +2,7 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,14 +21,20 @@ jobs:
 
       - run: pip install requests
 
-      - run: python Updt.py
+      - name: Run Python
+        env:
+          SOURCE1_URL: ${{ secrets.SOURCE1_URL }}
+          SOURCE2_URL: ${{ secrets.SOURCE2_URL }}
+          SOURCE3_URL: ${{ secrets.SOURCE3_URL }}
+          SOURCE4_URL: ${{ secrets.SOURCE4_URL }}
+        run: python Updt.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add Sei-link.m3u
-          git diff --cached --quiet || git commit -m "Auto update playlist"
+          git diff --cached --quiet || git commit -m "Auto update"
 
       - name: Push
         uses: ad-m/github-push-action@master
