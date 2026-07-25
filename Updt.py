@@ -1,29 +1,46 @@
 import requests
 
-SOURCE = "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/IPTV_BDIX.m3u"
+SOURCES = [
+    "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/IPTV_BDIX.m3u",
+    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/playlist.m3u"
+]
+
 TARGET_FILE = "Sei-link.m3u"
+
 
 def parse_m3u(lines):
     channels = {}
-    current_id = None
 
     for i, line in enumerate(lines):
-        if line.startswith("#EXTINF"):
-            current_id = None
-            if 'tvg-id="' in line:
-                current_id = line.split('tvg-id="')[1].split('"')[0].strip()
+        if line.startswith("#EXTINF") and 'tvg-id="' in line:
+            tvg_id = line.split('tvg-id="')[1].split('"')[0].strip()
 
-            if current_id and i + 1 < len(lines):
-                channels[current_id] = lines[i + 1].strip()
+            if i + 1 < len(lines):
+                url = lines[i + 1].strip()
+
+                if url.startswith("http"):
+                    channels[tvg_id] = url
 
     return channels
 
-source_lines = requests.get(SOURCE, timeout=30).text.splitlines()
+
+source_urls = {}
+
+for source in SOURCES:
+    try:
+        data = requests.get(source, timeout=30).text.splitlines()
+        parsed = parse_m3u(data)
+
+        for k, v in parsed.items():
+            if k not in source_urls:
+                source_urls[k] = v
+
+    except Exception as e:
+        print(f"Failed: {source} -> {e}")
+
 
 with open(TARGET_FILE, "r", encoding="utf-8") as f:
     target_lines = f.read().splitlines()
-
-source_urls = parse_m3u(source_lines)
 
 updated = False
 
