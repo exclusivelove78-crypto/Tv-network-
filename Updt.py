@@ -1,23 +1,24 @@
 import requests
+import os
 
 FILES = [
     {
-        "source": "https://raw.githubusercontent.com/USER1/REPO1/main/IPTV_BDIX.m3u",
+        "source": os.getenv("SOURCE1_URL"),
         "target": "Sei-link.m3u",
         "type": "m3u"
     },
     {
-        "source": "https://raw.githubusercontent.com/USER2/REPO2/main/Sports.m3u",
+        "source": os.getenv("SOURCE2_URL"),
         "target": "Sports.m3u",
         "type": "m3u"
     },
     {
-        "source": "https://raw.githubusercontent.com/USER3/REPO3/main/channels.json",
+        "source": os.getenv("SOURCE3_URL"),
         "target": "channels.json",
         "type": "json"
     },
     {
-        "source": "https://raw.githubusercontent.com/USER4/REPO4/main/epg.json",
+        "source": os.getenv("SOURCE4_URL"),
         "target": "epg.json",
         "type": "json"
     }
@@ -31,6 +32,10 @@ def download(src):
 changed = False
 
 for item in FILES:
+    if not item["source"]:
+        print(f'Secret missing for {item["target"]}')
+        continue
+
     try:
         data = download(item["source"])
 
