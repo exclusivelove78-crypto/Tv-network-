@@ -1,62 +1,57 @@
 import requests
 
-SOURCES = [
-    "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/IPTV_BDIX.m3u",
-    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/playlist.m3u"
+FILES = [
+    {
+        "source": "https://raw.githubusercontent.com/USER1/REPO1/main/IPTV_BDIX.m3u",
+        "target": "Sei-link.m3u",
+        "type": "m3u"
+    },
+    {
+        "source": "https://raw.githubusercontent.com/USER2/REPO2/main/Sports.m3u",
+        "target": "Sports.m3u",
+        "type": "m3u"
+    },
+    {
+        "source": "https://raw.githubusercontent.com/USER3/REPO3/main/channels.json",
+        "target": "channels.json",
+        "type": "json"
+    },
+    {
+        "source": "https://raw.githubusercontent.com/USER4/REPO4/main/epg.json",
+        "target": "epg.json",
+        "type": "json"
+    }
 ]
 
-TARGET_FILE = "Sei-link.m3u"
+def download(src):
+    r = requests.get(src, timeout=60)
+    r.raise_for_status()
+    return r.text
 
+changed = False
 
-def parse_m3u(lines):
-    channels = {}
-
-    for i, line in enumerate(lines):
-        if line.startswith("#EXTINF") and 'tvg-id="' in line:
-            tvg_id = line.split('tvg-id="')[1].split('"')[0].strip()
-
-            if i + 1 < len(lines):
-                url = lines[i + 1].strip()
-
-                if url.startswith("http"):
-                    channels[tvg_id] = url
-
-    return channels
-
-
-source_urls = {}
-
-for source in SOURCES:
+for item in FILES:
     try:
-        data = requests.get(source, timeout=30).text.splitlines()
-        parsed = parse_m3u(data)
+        data = download(item["source"])
 
-        for k, v in parsed.items():
-            if k not in source_urls:
-                source_urls[k] = v
+        try:
+            with open(item["target"], "r", encoding="utf-8") as f:
+                old = f.read()
+        except FileNotFoundError:
+            old = ""
+
+        if old != data:
+            with open(item["target"], "w", encoding="utf-8", newline="\n") as f:
+                f.write(data)
+            changed = True
+            print(f'Updated: {item["target"]}')
+        else:
+            print(f'No change: {item["target"]}')
 
     except Exception as e:
-        print(f"Failed: {source} -> {e}")
+        print(f'Error {item["target"]}: {e}')
 
-
-with open(TARGET_FILE, "r", encoding="utf-8") as f:
-    target_lines = f.read().splitlines()
-
-updated = False
-
-for i, line in enumerate(target_lines):
-    if line.startswith("#EXTINF") and 'tvg-id="' in line:
-        tvg_id = line.split('tvg-id="')[1].split('"')[0].strip()
-
-        if tvg_id in source_urls:
-            if i + 1 < len(target_lines):
-                if target_lines[i + 1].strip() != source_urls[tvg_id]:
-                    target_lines[i + 1] = source_urls[tvg_id]
-                    updated = True
-
-if updated:
-    with open(TARGET_FILE, "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(target_lines) + "\n")
-    print("Playlist updated.")
+if changed:
+    print("Done.")
 else:
-    print("No changes.")
+    print("Nothing changed.")
