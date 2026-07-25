@@ -221,11 +221,11 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
+http://monirul.bro.bd/sm/stream.php?id=jalsha_movies_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/23304.ts
 https://xfireflix.my.id/mac.php
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
-http://starhub.pro/live/farhat-3379/67897-913379/425.ts
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 
@@ -240,12 +240,14 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
+http://monirul.bro.bd/sm/stream.php?id=star_gold_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1", Star Gold 2 HD
 http://103.253.18.58:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
+http://monirul.bro.bd/sm/stream.php?id=zee_cinema_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/230.ts
 
 
@@ -260,8 +262,9 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
-http://starhub.pro/live/farhat-3379/67897-913379/967.ts
 http://103.175.73.12:8080/live/270/270_0.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/967.ts
+
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg", NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -286,8 +289,9 @@ http://119.156.228.231:9983/stream/channelid/1416664449?ticket=AC71985DAF3D8A193
 
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
-http://starhub.pro/live/farhat-3379/67897-913379/9376.ts
 http://103.253.18.58:8000/play/a02u
+http://starhub.pro/live/farhat-3379/67897-913379/9376.ts
+
 
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1", & Pictures
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
@@ -337,6 +341,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:B4U_Music_logo.png",B4U Music VIP
+
 http://starhub.pro/live/farhat-3379/67897-913379/7258.ts
 
 
@@ -352,6 +357,7 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet HD
+http://monirul.bro.bd/sm/stream.php?id=animal_planet_hd&e=.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/348102.ts
 
 
@@ -474,17 +480,20 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports",Sky Sports Cricket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-name="Sony Sports Ten 1 HD" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports",SONY TEN 1 HD
-http://starhub.pro/live/farhat-3379/67897-913379/9402.ts
+#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_1_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports",SONY TEN 2 HD
-http://starhub.pro/live/farhat-3379/67897-913379/192.ts
+#EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_2_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen3.in@HD" tvg-name="Sony Sports Ten 3 HD" group-title="Sports",Sony Ten 3 HD
-http://starhub.pro/live/farhat-3379/67897-913379/9404.ts
+#EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_3&e=.m3u8
 
-#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1", SONY TEN 5 HD
-http://starhub.pro/live/farhat-3379/67897-913379/17565.ts
+#EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_4&e=.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
 http://103.253.18.58:8000/play/a00m
