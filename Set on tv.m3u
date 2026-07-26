@@ -563,6 +563,12 @@ http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD", LaLiga TV 2
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 
+#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTLALIGA.png", ┃UK┃ SUPERSPORT LA LIGA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/396880.m3u8
+
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", ┃UK┃ LA LIGA TV 8K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/827985.m3u8
+
 
 #EXTINF:-1,ESPN 1
 http://181.118.158.103:8000/play/a038/index.m3u8
