@@ -165,7 +165,6 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/6352
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 2
@@ -223,9 +222,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
-http://monirul.bro.bd/sm/stream.php?id=jalsha_movies_hd&e=.m3u8
-http://starhub.pro/live/farhat-3379/67897-913379/23304.ts
-https://xfireflix.my.id/mac.php
+https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png",জলসা Movie HD
 http://103.229.254.25:7001/play/a0dt/index.m3u8
@@ -242,7 +239,6 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
-http://monirul.bro.bd/sm/stream.php?id=star_gold_hd&e=.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/9375.ts
 
@@ -251,7 +247,7 @@ http://103.253.18.58:8000/play/a00r
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
-http://monirul.bro.bd/sm/stream.php?id=zee_cinema_hd&e=.m3u8
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/230.ts
 
 
@@ -358,11 +354,9 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="Documentary",NAT GEO HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet HD
-http://monirul.bro.bd/sm/stream.php?id=animal_planet_hd&e=.m3u8
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/348102.ts
 
 
@@ -493,19 +487,19 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_1_hd&e=.m3u8
+http://live.balajibroadband.com:3500/live/162.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_2_hd&e=.m3u8
+http://live.balajibroadband.com:3500/live/891.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_3&e=.m3u8
+http://live.balajibroadband.com:3500/live/892.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_4&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
+http://live.balajibroadband.com:3500/live/155.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
 http://103.253.18.58:8000/play/a00m
@@ -514,18 +508,18 @@ http://103.253.18.58:8000/play/a00m
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 http://starhub.pro/live/farhat-3379/67897-913379/213049.ts
 
-#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_3&e=.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
+
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://monirul.bro.bd/sm/stream.php?id=star_select_1_hd&e=.m3u8
+
 http://starhub.pro/live/farhat-3379/67897-913379/238.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_select_2_hd&e=.m3u8
+
 http://starhub.pro/live/farhat-3379/67897-913379/148801.ts
 
 #EXTINF:-1 tvg-id="TenCricket.pk" tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
