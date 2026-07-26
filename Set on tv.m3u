@@ -82,12 +82,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports1.m3u8
 
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD 2
-http://monirul.bro.bd/sm/stream.php?id=t_sports&e=.m3u8
+https://bdixserver.tvhunter.top/ant1007/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
 https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/411.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1", Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
@@ -118,7 +121,6 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla" tvg-server="Server 1", Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/408.ts
 
 
 #EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Bangla" tvg-server="Server 1", BanglaVision
@@ -159,7 +161,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
@@ -168,7 +169,9 @@ http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 2
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8540.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 3
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155770.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
@@ -457,8 +460,6 @@ https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Tap
 #EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Sports",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
-#EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
-
 
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports",SuperSport Cricket
 https://xemzi.short.gy/2000006
@@ -513,16 +514,19 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/238.ts
+http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/148801.ts
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
+http://202.70.146.135:8000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TenCricket.pk" tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 
 #EXTINF:-1 tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1", Ten Sports
-http://121.91.61.106:8000/play/a04h/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106878.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
 http://59.103.38.46:8000/play/a125/index.m3u8
@@ -552,8 +556,11 @@ http://45.181.122.46:8090/play/a015
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/155.ts
 
 
-EXTINF:-1 tvg-id="LaLigaTV.es@SD",LaLiga TV
+#EXTINF:-1 tvg-id="LaLigaTV.es@SD", LaLiga TV
 http://179.60.224.196:8000/play/a0i7/index.m3u8
+
+
+#EXTINF:-1 tvg-id="LaLigaTV.es@SD", LaLiga TV 2
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 
 
@@ -589,7 +596,6 @@ http://45.167.1.136:8000/play/a06d
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo.png" group-title="Kids",Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-http://starhub.pro/live/farhat-3379/67897-913379/66165.ts
 
 #EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1", Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
