@@ -474,7 +474,7 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
 
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports",SuperSport Cricket
-http://starhub.pro/live/farhat-3379/67897-913379/5481.ts
+https://xemzi.short.gy/2000006
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/DD_Sports_logo.svg" group-title="Sports", DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
@@ -489,7 +489,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:C4:70:80&stream=809386&ex
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports",Sky Sports Football
-http://starhub.pro/live/farhat-3379/67897-913379/19.ts
+https://xemzi.short.gy/2000003
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -537,7 +537,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/148801.ts
 http://starhub.pro/live/farhat-3379/67897-913379/514856.ts
 
 #EXTINF:-1 tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1", Ten Sports
-http://starhub.pro/live/farhat-3379/67897-913379/98.ts
+http://121.91.61.106:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
 http://59.103.38.46:8000/play/a125/index.m3u8
