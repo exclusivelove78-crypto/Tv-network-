@@ -85,7 +85,6 @@ https://bdixserver.tvhunter.top/ant1007/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 
@@ -547,7 +546,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/143060.ts
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="ASports.pk" tvg-name="A Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
-http://103.151.60.204:881/A-Sports/video.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/43444.ts
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
@@ -562,10 +561,8 @@ http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="LaLigaTV.es@SD", LaLiga TV 2
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 
-#EXTINF:-1 group-title="┃UK┃ SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTLALIGA.png", ┃UK┃ SUPERSPORT LA LIGA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/396880.m3u8
 
-#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", ┃UK┃ LA LIGA TV 8K
+#EXTINF:-1 group-title="┃UK┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LA LIGA TV 8K
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/827985.m3u8
 
 
@@ -647,10 +644,10 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745146&e
 #EXTINF:-1, itv 
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745147&extension=ts&play_token=bQjMsUa6IU
 
-#EXTINF:-1,Unknown_7
+#EXTINF:-1,Fox Sports TV
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745149&extension=ts&play_token=7JxQakNpkc
 
-#EXTINF:-1,Unknown_9
+#EXTINF:-1,iTV 1
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:FE:34:FF&stream=1745152&extension=ts&play_token=cAyScXUAPF
 
 #EXTINF:-1,Unknown_10
@@ -671,9 +668,6 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="LIVE SPORTS", England vs India | India Tour of England 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
-
-#EXTINF:-1 , Tapmad
-https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
