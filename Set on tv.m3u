@@ -86,7 +86,6 @@ https://bdixserver.tvhunter.top/ant1007/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
-https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
@@ -164,6 +163,7 @@ https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/1118057.m3u8
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 
 
@@ -171,7 +171,7 @@ http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155770.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/155770.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
