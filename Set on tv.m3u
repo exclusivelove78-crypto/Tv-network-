@@ -2,7 +2,6 @@
 
 
 #EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/alfa-wc1/alfa-wc1/1002857.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad Bangladesh" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
@@ -693,6 +692,3 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
-
-#EXTINF:-1 , JAKAKA
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/alfa-wc1/alfa-wc1/1002857.m3u8
