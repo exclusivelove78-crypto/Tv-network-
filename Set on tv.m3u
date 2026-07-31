@@ -156,8 +156,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD
-http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/76204.ts
-https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:24:D8:45&stream=1667685&extension=ts&play_token=iMvKmEh9UB
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
