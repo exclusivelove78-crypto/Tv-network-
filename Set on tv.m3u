@@ -153,13 +153,14 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD
+http://alpha-ott1.me:80/play/live.php?mac=00:1A:79:E8:AD:9D&stream=1118057&extension=ts
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:24:D8:45&stream=1667685&extension=ts&play_token=iMvKmEh9UB
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:24:D8:45&stream=1667668&extension=ts&play_token=ciwCD3zrNA
-http://alpha-ott1.me:80/play/live.php?mac=00:1A:79:E8:AD:9D&stream=1118057&extension=ts
+
 
 
 
