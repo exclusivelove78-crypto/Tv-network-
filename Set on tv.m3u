@@ -222,41 +222,41 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 
 ---------Hindi/Bangla Movie-----------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1", JALSHA MOVIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD
 http://alpha-ott1.me:80/play/live.php?mac=00:1A:79:E8:AD:9D&stream=1118058&extension=ts
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1", Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
 https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1", STAR MOVIES HD
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", STAR MOVIES HD
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 
-#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Indian" tvg-server="Server 1", Star Gold 2 HD
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
 http://103.253.18.58:8000/play/a00r
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1", ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movies" tvg-server="Server 1", ZEE CINEMA HD
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movie" tvg-server="Server 1", BOLLYWOOD ACTION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movies" tvg-server="Server 1", BOLLYWOOD ACTION
 
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1", GOLDMINES
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movie" tvg-server="Server 1", Goldmines Movies
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movies" tvg-server="Server 1", Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
@@ -268,32 +268,32 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/967.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg", NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
-#EXTINF:-1 tvg-name="Hindi Classic 24/7" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi Movies",Hindi Classic 24/7
+#EXTINF:-1 tvg-name="Hindi Classic 24/7" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies",Hindi Classic 24/7
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian" tvg-server="Server 1", SONY MAX HD
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass (backup)
 
 
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Indian" tvg-server="Server 1", Sony MAX 2 HD
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/483.m3u8
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1", Star Gold Select HD
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
 http://103.253.18.58:8000/play/a02u
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
 
 
-#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1", & Pictures
+#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies" tvg-server="Server 1", & Pictures
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
 
@@ -333,10 +333,10 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1 tvg-name="E24" group-title="Entertainment",E24
+#EXTINF:-1 tvg-name="E24" group-title="Music",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Indian" tvg-server="Server 1", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music" tvg-server="Server 1", Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
