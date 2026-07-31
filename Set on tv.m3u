@@ -162,13 +162,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:24:D8:45&stream=1667685&exte
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsa 1
 http://alpha-ott1.me:80/play/live.php?mac=00:1A:79:E8:AD:9D&stream=1118057&extension=ts
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281675&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 2
 http://srvgold.iptvcheap.com:80/play/live.php?mac=00:1A:79:80:78:B2&stream=281675&extension=ts
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281675&extension=ts&play_token=9kqIEBlc9W
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 3
 http://alpha-ott1.me:80/play/live.php?mac=00:1A:79:E8:AD:9D&stream=155770&extension=ts
