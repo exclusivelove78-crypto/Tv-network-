@@ -184,6 +184,7 @@ http://103.176.90.185:80/play/live.php?mac=00:1A:79:B6:C1:48&stream=281675&exten
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha 6
+http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
 
