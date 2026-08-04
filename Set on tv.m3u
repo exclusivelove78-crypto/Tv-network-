@@ -5,12 +5,14 @@
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad Bangladesh" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1", Jamuna TV
+https://ftp.assadikb.workers.dev/stream.m3u8?id=jamuna_tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN Bangla
