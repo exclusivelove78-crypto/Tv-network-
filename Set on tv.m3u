@@ -16,26 +16,27 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=jamuna_tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-news-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 
 #EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-24-bd.png" group-title="Bangla" tvg-server="Server 1", Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_24&format=.m3u8
 
 #EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
 
 #EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla" tvg-server="Server 1", DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dbc_news&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjyyFzi26mxd7qovXI6qge1TX2IR4Tr_dSQ&s" group-title="Bangla" tvg-server="Server 1", Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ekattor_tv&format=.m3u8
 
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1", Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
@@ -45,7 +46,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1", Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=independent_tv&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla" tvg-server="Server 1", Maasranga TV
@@ -58,10 +59,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.151.61.12/Nagorik_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="News24.bd" tvg-name="News24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1", News 24 BD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_24_bd&format=.m3u8
 
 #EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Bangla" tvg-server="Server 1", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
 
 #EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1", RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
@@ -75,7 +76,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1", Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=star_news&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
@@ -108,7 +109,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla" tvg-server="Server 1", Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_9&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1", Boishakhi TV
@@ -119,6 +120,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Bangla" tvg-server="Server 1", BanglaVision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla" tvg-server="Server 1", Bangla TV
