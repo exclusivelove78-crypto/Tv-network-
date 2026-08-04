@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Live Action",Channel i
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=...:Expires=1786024833:KeyName=prod_linear:Signature=..."}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
