@@ -59,7 +59,7 @@ jobs:
           git config user.email "github-actions@github.com"
 
 
-          git add "set on tv.m3u"
+          git add "Set on tv.m3u"
 
 
           git diff --cached --quiet || git commit -m "Update Tapmad Fancode channels"
