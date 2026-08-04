@@ -474,12 +474,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 -----------------Sports-----------------
 
 
-#EXTINF:-1 tvg-name="FanCode" group-title="Sports",FanCode
-https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Fancode.m3u
-
-#EXTINF:-1 tvg-name="Tapmad" group-title="Sports",Tapmad
-https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Tapmad.m3u
-
 #EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Sports",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
