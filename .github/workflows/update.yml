@@ -1,11 +1,14 @@
 name: Tapmad Fancode Update
 
 on:
-
   workflow_dispatch:
 
   schedule:
     - cron: "0 */6 * * *"
+
+
+permissions:
+  contents: write
 
 
 jobs:
@@ -16,17 +19,27 @@ jobs:
 
 
     env:
-
       TAPMAD_URL: ${{ secrets.TAPMAD_URL }}
-
       FANCODE_URL: ${{ secrets.FANCODE_URL }}
+      ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
 
 
     steps:
 
 
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      - name: Check files
+        run: |
+          ls -la
+          echo "----"
+          ls -la Script
 
 
 
@@ -34,7 +47,6 @@ jobs:
         uses: actions/setup-python@v5
 
         with:
-
           python-version: "3.11"
 
 
@@ -45,21 +57,28 @@ jobs:
 
 
 
-      - name: Update playlist
+      - name: Extract protected script
         run: |
-          python Script/tap_fan.py
+          mkdir temp_script
+          unzip -P "$ZIP_PASSWORD" Script/tap_fan.zip -d temp_script
 
 
 
-      - name: Commit changes
+      - name: Run Tapmad Fancode updater
+        run: |
+          python temp_script/tap_fan.py
+
+
+
+      - name: Commit and push update
         run: |
 
-          git config user.name "github-actions"
+          git config user.name "github-actions[bot]"
 
-          git config user.email "github-actions@github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 
-          git add "Set on tv.m3u"
+          git add "set on tv.m3u"
 
 
           git diff --cached --quiet || git commit -m "Update Tapmad Fancode channels"
