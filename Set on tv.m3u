@@ -646,10 +646,10 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Kids", Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-
 ######## TAPMAD + FANCODE UPDATED LIST ########
 
+#EXTINF:-1 tvg-name="Sri Lanka Women Vs Pakistan Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/333.png" group-title="Cricket",Sri Lanka Women Vs Pakistan Women [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-name="New Delhi Tigers Vs Outer Delhi Warriors [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",New Delhi Tigers Vs Outer Delhi Warriors [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8
