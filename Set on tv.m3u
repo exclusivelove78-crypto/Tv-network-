@@ -8,7 +8,6 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
@@ -98,6 +97,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1", Duronto TV
+http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 #EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1", Desh TV
