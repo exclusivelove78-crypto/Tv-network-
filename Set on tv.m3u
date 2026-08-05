@@ -653,17 +653,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 ######## TAPMAD + FANCODE UPDATED LIST ########
 
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",World Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Rogers Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Rogers Court [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4248067_english_hls_9d75ed2e2276858_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Court 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Court 5 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Center Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Center Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
