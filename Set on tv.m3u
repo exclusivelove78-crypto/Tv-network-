@@ -660,11 +660,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 ######## TAPMAD + FANCODE UPDATED LIST ########
 
-#EXTINF:-1 tvg-name="Rogers Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Rogers Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248071_english_hls_aa2e4f4c4156569_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg" group-title="E Sports", PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
-#EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248072_english_hls_e38b7f85bd21740_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857606101020x576.jpg" group-title="E Sports", Tekken 8 - Day 2 | Esports World Cup 2026 (EWC)
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-name="Center Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Tennis",Center Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248070_english_hls_2b9e9162e461559_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Outer Delhi Warriors Vs South Delhi Superstarz [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247975_53005_SDS_ODW_fc-Web.png" group-title="Cricket",Outer Delhi Warriors Vs South Delhi Superstarz [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247975_english_hls_75a4fe130f92250_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 1   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" group-title="Golf",Day 1   Main Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248185_english_hls_5dab612fcd71433_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg" group-title="Golf",Day 1 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4248208_english_hls_3e8cea0d0374479_1ta-di_h264/index.m3u8
