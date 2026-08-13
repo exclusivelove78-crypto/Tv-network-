@@ -214,11 +214,11 @@ http://iptvrss.com:80/play/live.php?mac=00:1A:79:F7:98:BE&stream=281675&extensio
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
+http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
-http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=282063&extension=ts&play_token=ryQFMGenxJ
-https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 
 
 
@@ -226,9 +226,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
+http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
-http://live.balajibroadband.com:3500/live/697.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1", G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -263,7 +263,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD
 http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:00:24:A6&stream=1667625&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
