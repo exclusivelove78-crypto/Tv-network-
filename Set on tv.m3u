@@ -520,11 +520,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3Nvbnlfc3BvcnRzXzFfaGQvLi4vc2xhbmcvc29ueV9zcG9ydHNfMV9oZF81NzYvc29ueV9zcG9ydHNfMV9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255X3Nwb3J0c18xX2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjA1Mzg3NzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT05RUdWTFl5NWp1NENodUxRNGYyZzg3S2QtbjdrTVBrNGZRVzVVQzg5NDdYS0JNT1RhUzl5aXlaTGQ5WGl5ZWt4SzF4VUtINHBwazVEcDd6ZFFlZVBEZyJ9/sony_sports_1_hd_576.m3u8
+https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-
+https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
 http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
@@ -534,7 +534,7 @@ http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3Nvbnlfc3BvcnRzXzVfaGQvLi4vc2xhbmcvc29ueV9zcG9ydHNfNV9oZF81NzYvc29ueV9zcG9ydHNfNV9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255X3Nwb3J0c181X2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjA1Mzg3ODpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT11aER0Y3Ata01ObTVVbmxOTHpJTkVZOEdjdFVueUU4RlBlX29SMHJreTJlVlVQWWZ2WGs1eGdKVHYwNzRIQ3A3cTYwel84elM2bUJISklObDY1eUFEZyJ9/sony_sports_5_hd_576.m3u8
+https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
