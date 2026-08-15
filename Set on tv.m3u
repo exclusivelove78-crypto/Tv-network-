@@ -495,17 +495,17 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports",SuperSport Cricket
-https://xemzi.short.gy/2000006
+
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/DD_Sports_logo.svg" group-title="Sports", DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports", Willow Sports
-https://mflixott.com/tv/dd/live.php/346.m3u8
+
 
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow by Cricbuzz" tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports",Willow By Cricbuzz
-https://mflixott.com/tv/dd/live.php/598.m3u8
+
 
 #EXTINF:-1 tvg-id="FIFAPlus.int" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
@@ -521,10 +521,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3Nvbnlfc3BvcnRzXzFfaGQvLi4vc2xhbmcvc29ueV9zcG9ydHNfMV9oZF81NzYvc29ueV9zcG9ydHNfMV9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255X3Nwb3J0c18xX2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjA1Mzg3NzpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT05RUdWTFl5NWp1NENodUxRNGYyZzg3S2QtbjdrTVBrNGZRVzVVQzg5NDdYS0JNT1RhUzl5aXlaTGQ5WGl5ZWt4SzF4VUtINHBwazVEcDd6ZFFlZVBEZyJ9/sony_sports_1_hd_576.m3u8
-http://live.balajibroadband.com:3500/live/162.m3u8
+
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-http://live.balajibroadband.com:3500/live/891.m3u8
+
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
 http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
@@ -535,10 +535,9 @@ http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL3Nvbnlfc3BvcnRzXzVfaGQvLi4vc2xhbmcvc29ueV9zcG9ydHNfNV9oZF81NzYvc29ueV9zcG9ydHNfNV9oZF81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1zb255X3Nwb3J0c181X2hkXzU3NiZncF9pZD18fHxUb2ZmZWUgKExpbnV4O0FuZHJvaWQgMTQpfHx8eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjA1Mzg3ODpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT11aER0Y3Ata01ObTVVbmxOTHpJTkVZOEdjdFVueUU4RlBlX29SMHJreTJlVlVQWWZ2WGs1eGdKVHYwNzRIQ3A3cTYwel84elM2bUJISklObDY1eUFEZyJ9/sony_sports_5_hd_576.m3u8
-http://live.balajibroadband.com:3500/live/155.m3u8
+
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
-http://tvsen7.aynascope.net/sspts1/tracks-v1a1/mono.ts.m3u8
 http://103.253.18.58:8000/play/a00m
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
