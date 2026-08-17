@@ -48,7 +48,7 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1", Global TV
-
+https://go.skym3u.top/live/78ccf/3b1f0d3d095a707375697d5f51465a6e76584250584c02335d52535a271d56245d113a3a6a32601859.m3u8
 
 #EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1", Independent TV
 
@@ -74,7 +74,7 @@ http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1", RTV
-
+https://go.skym3u.top/live/78ccf/3b1f0d3d095a707375697d5f51465a6e76584250584c172b445856193a051d284b5b32713167.m3u8
 
 #EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla" tvg-server="Server 1", SATV
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/3814.ts
@@ -93,6 +93,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
+https://go.skym3u.top/live/78ccf/3b1f0d3d095a7032363a3e04141f0029314f1f110f0000705e5944537c3b1c05061e0f1502391442081c123e2f0e1912590510315c491d02625a573940.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 
@@ -534,10 +535,9 @@ https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
-http://103.253.18.58:8000/play/a00m
+https://go.skym3u.top/live/78ccf/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456f236b363d09040a5a32711454.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
-http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
@@ -547,12 +547,11 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
+https://go.skym3u.top/live/78ccf/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456c216b363d09040a5a32711454.m3u8
+
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
 https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 http://202.70.146.135:8000/play/a03e/index.m3u8
 
 
@@ -560,15 +559,14 @@ http://202.70.146.135:8000/play/a03e/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 
 #EXTINF:-1 tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1", Ten Sports
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106878.m3u8
+
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
-http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8
-http://59.103.38.46:8000/play/a125/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
-http://103.151.61.12/STAR_SPORTS_SELECT2/tracks-v1a1/mono.m3u8
-http://59.103.38.46:8000/play/a126/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
@@ -584,14 +582,12 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="ASports.pk" tvg-name="A Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PTV-SPORTS.png" group-title="Sports" , PTV SPORTS HD
 https://go.skym3u.top/live/78ccf/3b1f0d3d404f706d376e7d0415111a3d264f000818064a0f66661f6523040b39405a2b30253c381e4c04453e734e010e000c4b3201450a.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
-http://45.181.122.46:8090/play/a015
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/155.ts
 
 
@@ -599,21 +595,10 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/155.ts
 http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 
-#EXTINF:-1,ESPN 1
-http://181.118.158.103:8000/play/a038/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://181.176.155.7:8090/play/a1vv/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://45.167.1.136:8000/play/a06b
-
 
 #EXTINF:-1,ESPN 3
 http://45.167.1.136:8000/play/a02k
 
-#EXTINF:-1,ESPN 3
-http://45.181.122.46:8090/play/a01t
 
 #EXTINF:-1,ESPN 4
 http://45.167.1.136:8000/play/a02l
