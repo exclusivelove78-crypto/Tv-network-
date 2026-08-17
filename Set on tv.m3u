@@ -278,11 +278,9 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
-http://103.253.18.58:8000/play/a00r
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movies" tvg-server="Server 1", ZEE CINEMA HD
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
 
@@ -312,20 +310,16 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
-https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
-http://live.balajibroadband.com:3500/live/476.m3u8
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass (backup)
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
-http://live.balajibroadband.com:3500/live/483.m3u8
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
-http://103.253.18.58:8000/play/a02u
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
 
 
