@@ -512,13 +512,17 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305333.ts
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305264.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305267.ts
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310520.ts
 http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
 
 
@@ -526,28 +530,31 @@ http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310556.ts
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305334.ts
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
 http://103.172.29.30:9991/stream/channelid/2135784742
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
+https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
-
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1297757.ts
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-http://66.102.126.10:8000/play/a06x/index.m3u8
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305345.ts
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
-https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
-http://202.70.146.135:8000/play/a03e/index.m3u8
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1078136.ts
+http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310539.ts
+
 
 
 #EXTINF:-1 tvg-id="TenCricket.pk" tvg-name="Ten Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1", Ten Cricket
