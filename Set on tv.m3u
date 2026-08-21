@@ -32,7 +32,7 @@ http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",Channel 1
-
+https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla" tvg-server="Server 1", DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
@@ -111,6 +111,7 @@ http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1", Desh TV
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/108810.ts
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="https://en.wikipedia.org/wiki/File:Logo_of_Deepto_TV.svg" group-title="Bangla" tvg-server="Server 1", Deepto TV
