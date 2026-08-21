@@ -523,15 +523,14 @@ https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310520.ts
-http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-
+http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/510281.ts
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310556.ts
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305334.ts
+http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
@@ -561,7 +560,7 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310539.ts
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 
 #EXTINF:-1 tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1", Ten Sports
-
+http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/63176.ts
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
 
