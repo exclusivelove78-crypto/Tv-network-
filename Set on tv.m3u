@@ -97,11 +97,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1", Star News
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/star_news/index.m3u8
 https://akash.sm-monirul.top/star_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZR3rgN0K/New-Project-11.png" group-title="BANGLADESHI CHANNELS",Star News
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
