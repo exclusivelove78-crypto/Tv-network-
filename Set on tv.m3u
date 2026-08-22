@@ -202,6 +202,10 @@ http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD 1
+http://103.159.180.34:5001/live/625.m3u8
+
+
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 
