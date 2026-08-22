@@ -345,10 +345,12 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
+http://live.balajibroadband.com:3500/live/476.m3u8
 http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/72147.ts
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
+http://live.balajibroadband.com:3500/live/483.m3u8
 http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1020172.ts
 
 
