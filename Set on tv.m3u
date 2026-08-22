@@ -484,6 +484,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International",Al Jazeera
 https://akash.sm-monirul.top/al_jazeera.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="International",BBC World
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
@@ -524,7 +525,7 @@ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.clo
 
 
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow by Cricbuzz" tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports",Willow By Cricbuzz
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/63439.ts
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.int" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
