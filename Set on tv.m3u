@@ -2,16 +2,18 @@
 
 
 #EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
+https://akash.sm-monirul.top/btv.m3u8
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad Bangladesh" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
-
+https://akash.sm-monirul.top/btv_shangshad.m3u8
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1", Jamuna TV
+https://akash.sm-monirul.top/jamuna_tv.m3u8
 http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN Bangla
@@ -20,6 +22,7 @@ http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-news-hd-bd.png" group-title="Bangla" tvg-server="Server 1", ATN News
+https://akash.sm-monirul.top/atn_news.m3u8
 http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
 
 
@@ -28,6 +31,7 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/391.ts
 
 
 #EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Channel I
+https://akash.sm-monirul.top/channel_i_hd.m3u8
 http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
 
 
@@ -40,6 +44,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 
 #EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjyyFzi26mxd7qovXI6qge1TX2IR4Tr_dSQ&s" group-title="Bangla" tvg-server="Server 1", Ekattor TV
+https://akash.sm-monirul.top/ekattor_hd.m3u8
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 
@@ -70,6 +75,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Bangla" tvg-server="Server 1", NTV
+https://akash.sm-monirul.top/ntv.m3u8
 http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
 
@@ -85,7 +91,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1", Star News
-
+https://akash.sm-monirul.top/star_news.m3u8
 
 
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD
@@ -451,7 +457,7 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International",Al Jazeera
-
+https://akash.sm-monirul.top/al_jazeera.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="International",BBC World
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
