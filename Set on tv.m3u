@@ -93,6 +93,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/3814.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SRKTV.bd" tvg-name="SRK TV" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Bangla" tvg-server="Server 1", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
