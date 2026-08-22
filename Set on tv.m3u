@@ -245,8 +245,10 @@ http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
-http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+http://live.balajibroadband.com:3500/live/697.m3u8
+http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-server="Server 1", G-Serise
@@ -271,11 +273,12 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/145.ts
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
+http://live.balajibroadband.com:3500/live/144.m3u8
 http://103.180.212.191:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
+
 
 
 ---------Hindi/Bangla Movie-----------
@@ -350,6 +353,7 @@ http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1020172.ts
 
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
 
 
