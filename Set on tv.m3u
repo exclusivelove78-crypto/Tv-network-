@@ -546,27 +546,29 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305264.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305267.ts
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
-https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310520.ts
-https://stream.ottplus.bd/live/ten_3_hd_abr/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
 http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/510281.ts
 
+
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
+http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
+
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
-http://103.172.29.30:9991/stream/channelid/2135784742
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+http://103.172.29.30:9991/stream/channelid/2135784742
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
