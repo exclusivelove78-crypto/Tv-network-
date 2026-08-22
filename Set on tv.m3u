@@ -218,8 +218,9 @@ http://iptvrss.com:80/play/live.php?mac=00:1A:79:F7:98:BE&stream=281675&extensio
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
-http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 http://103.159.180.34:5001/live/625.m3u8
+http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD 1
 http://103.159.180.34:5001/live/625.m3u8
