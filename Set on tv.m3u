@@ -333,8 +333,18 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/1460_1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movies" tvg-server="Server 1", Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", GOLDMINES Bollywood 
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
@@ -370,9 +380,13 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.facebook.com/ManoranjanPrime/",Manoranjan Prime
-
+https://cdn-4.pishow.tv/live/1474/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Manoranjan-Grand.jpeg",Manoranjan Grend
+https://cdn-1.pishow.tv/live/1011/1011_2.m3u8
+
+#EXTINF:-1 , Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/1013_0.m3u8
 
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/p184974_b_h8_aa.jpg",B4U Movies VIP
