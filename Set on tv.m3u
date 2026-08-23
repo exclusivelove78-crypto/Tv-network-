@@ -318,6 +318,11 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movies" tvg-server="Server 1", ZEE CINEMA HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 
@@ -333,7 +338,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/967.ts
 
 
@@ -357,10 +361,6 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1020172.ts
 
 
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
-http://66.102.126.10:8000/play/a01s/index.m3u8
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
-
 
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies" tvg-server="Server 1", & Pictures
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
@@ -370,10 +370,10 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.facebook.com/ManoranjanPrime/",Manoranjan Prime
-http://103.175.73.12:8080/live/345/345_0.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Manoranjan-Grand.jpeg",Manoranjan Grend
-http://103.175.73.12:8080/live/19/19_0.m3u8
+
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/p184974_b_h8_aa.jpg",B4U Movies VIP
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
