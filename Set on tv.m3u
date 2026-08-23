@@ -659,7 +659,14 @@ http://45.167.1.136:8000/play/a04g
 #EXTINF:-1,ESPN 6
 http://45.167.1.136:8000/play/a06d
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/99bJqpRD/Screenshot-2026-08-09-201326.png",DAZN LALIGA
+http://31.43.191.125:8080/live/20102023/123456789/243.ts
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
+http://elitenova.net/live/PCVFYZ4/Y2FT6BT/1100811.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
 
 ----------Cartoon--------
