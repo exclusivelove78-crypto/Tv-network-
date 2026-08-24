@@ -624,10 +624,9 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/63176.ts
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
-http://172.19.17.34/live/ontest1/ontest1/116.ts
+
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=unite8_sports_2&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
@@ -652,10 +651,6 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/99753.ts
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/155.ts
-
-
-#EXTINF:-1 tvg-id="LaLigaTV.es@SD", LaLiga TV
-http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 
 
