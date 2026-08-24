@@ -297,12 +297,10 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/63524.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 2
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458372.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 3
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/108783.ts
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
-http://live.balajibroadband.com:3500/live/1657.m3u8
+
 http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
@@ -326,6 +324,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movies" tvg-server="Server 1", ZEE CINEMA HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93L73rhLsZA068a3aV3C5wfeWs2WwlgPj9rPf3Bk2w-OazmA4VRS_al0&s=10" group-title="Movies" tvg-server="Server 1", BOLLYWOOD ACTION
@@ -571,7 +570,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305333.ts
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305264.ts
 
@@ -583,12 +581,12 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310520.ts
+
 
 
 
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/510281.ts
+
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
@@ -632,7 +630,7 @@ http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/63176.ts
 http://172.19.17.34/live/ontest1/ontest1/116.ts
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
-
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=unite8_sports_2&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
