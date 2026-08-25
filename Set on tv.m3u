@@ -583,7 +583,7 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-
+http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 
 
 
@@ -607,6 +607,7 @@ https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
+http://103.114.11.37:8081/Star-sports-3/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1297757.ts
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
@@ -614,11 +615,13 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+http://103.114.11.37:8081/Star-select-1/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305345.ts
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+http://103.114.11.37:8081/Star-select-2/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/63498.ts
 
 
@@ -632,7 +635,7 @@ http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/63176.ts
 
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
-
+http://103.114.11.37:8081/Unite8-sports-2/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
