@@ -249,6 +249,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+http://103.114.11.37:8081/Sony-8/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://live.balajibroadband.com:3500/live/697.m3u8
 http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 
