@@ -310,6 +310,7 @@ http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", STAR MOVIES HD
+http://103.114.11.37:8081/Star-Movies/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1", STAR GOLD HD
