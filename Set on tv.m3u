@@ -171,6 +171,7 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 https://stream.ottplus.live/live/asian_tv_abr/live/asian_tv_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla" tvg-server="Server 1", Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ananda_tv/index.m3u8
 
@@ -290,7 +291,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/145.ts
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian" tvg-server="Server 1", COLORS HD
-http://live.balajibroadband.com:3500/live/144.m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
 http://103.180.212.191:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
@@ -621,6 +622,7 @@ http://103.172.29.30:9991/stream/channelid/2135784742
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HINDI HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
