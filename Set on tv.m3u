@@ -322,6 +322,7 @@ http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https//xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies" tvg-server="Server 1", STAR MOVIES HD
 http://66.102.126.10:8000/play/a021/index.m3u8
