@@ -1,39 +1,7 @@
-#EXTINF:-1,BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
-#EXTINF:-1,ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1,Channel i
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
-#EXTINF:-1,N TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1,Somoy Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1,Independent
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1,Jamuna
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
-#EXTINF:-1,Channel 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
-#EXTINF:-1,Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1,Rajdhani
-http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1,Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1,Ekattor HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1,DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1,News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1,Deepto
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1,Maasranga
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTM3U
+
 #EXTINF:-1,Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-#EXTINF:-1,Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,Me Tv
