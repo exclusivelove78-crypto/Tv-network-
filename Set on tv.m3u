@@ -478,8 +478,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 #EXTINF:-1 tvg-name="R Plus News" group-title="News",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="News",Kolkata TV
-https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
@@ -522,8 +520,6 @@ https://cdn-3.pishow.tv/live/273/master.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" group-title="International",Mirror Now
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="International",India TV
-https://cdn-2.pishow.tv/live/1043/master.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV.in" tvg-name="Sansad TV" group-title="International",Sansad TV HD
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
@@ -544,8 +540,6 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="International",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="International",NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
 
 #EXTINF:-1,CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
@@ -581,7 +575,7 @@ https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports",Sky Sports Football
-https://xemzi.short.gy/2000003
+
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -601,7 +595,7 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-#http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
+http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 
 
 
@@ -626,10 +620,10 @@ https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1297757.ts
+
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
-http://103.175.73.12:8080/live/151/151_0.m3u8
+
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
