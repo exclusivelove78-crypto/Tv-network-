@@ -532,6 +532,7 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International",Al Jazeera
+http://stream.mcquack.net/131/index.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="International",BBC World
@@ -702,7 +703,8 @@ http://elitenova.net/live/PCVFYZ4/Y2FT6BT/1100811.ts
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7sFq1Nq/cazetv-seeklogo.png",CAZE TV ᴴᴰ
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+
 
 ----------Cartoon--------
 
