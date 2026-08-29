@@ -595,7 +595,7 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://103.114.11.37:8081/Sony-sports-3/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373198&extension=m3u8
 
 
 
@@ -620,7 +620,7 @@ https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
-
+http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373203&extension=m3u8
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 
