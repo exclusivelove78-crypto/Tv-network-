@@ -55,8 +55,8 @@ http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1", Ekhon TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1", Global TV
