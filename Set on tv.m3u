@@ -280,7 +280,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/221.ts
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony WAH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1", Sony Wah
-http://live.balajibroadband.com:3500/live/1393.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-name="Sony SAB" tvg-logo="https://en.wikipedia.org/wiki/File:SONY_SAB_SD_Logo_2022.png",SONY SAB SD
@@ -302,14 +302,13 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD
-https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 1
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/63524.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 2
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458372.ts
@@ -318,7 +317,6 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458372.ts
 http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155775&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
@@ -533,7 +531,6 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International",Al Jazeera
-https://akash.sm-monirul.top/al_jazeera.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="International",BBC World
