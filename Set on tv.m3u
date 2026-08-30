@@ -129,8 +129,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1", Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1", Desh TV
@@ -197,11 +197,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD L
 http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
-
-
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD L
 http://103.114.11.37:8081/Star-Jalsha/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD F
@@ -238,10 +239,12 @@ http://iptvrss.com:80/play/live.php?mac=00:1A:79:F7:98:BE&stream=281675&extensio
 http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155770&extension=m3u8
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
-http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD 0
 http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD 1
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
@@ -275,6 +278,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/221.ts
 
 
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr10 Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1", ENTER 10 BANGLA
+http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony WAH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1", Sony Wah
@@ -301,13 +305,14 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD
-http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/jalshaMovies/index.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 1
-
+http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 2
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/1458372.ts
