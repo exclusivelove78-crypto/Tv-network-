@@ -604,9 +604,8 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373198&exte
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
-
+https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
