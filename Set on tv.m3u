@@ -584,14 +584,15 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305264.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305267.ts
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1310557.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
@@ -604,6 +605,7 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
