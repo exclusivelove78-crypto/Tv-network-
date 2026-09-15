@@ -208,7 +208,7 @@ http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1", Star Jalsha HD L
-http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/starJalsha/tracks-v1a1/mono.m3u8
 
 
 
