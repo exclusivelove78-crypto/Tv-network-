@@ -736,3 +736,6 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 ######## TAPMAD + FANCODE UPDATED LIST ########
+
+#EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
