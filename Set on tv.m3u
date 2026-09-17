@@ -8,6 +8,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad Bangladesh" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sangsad_tv.png" group-title="Bangla" tvg-server="Server 1", Sangsad Bangladesh
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
@@ -614,7 +615,6 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-http://13569-cdn8.ovh:80/live/016EQF3/P909DZ5/1090634.ts
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 
@@ -636,8 +636,6 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373203&exte
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-http://103.114.11.37:8081/Star-select-1/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
-http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305345.ts
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
@@ -674,8 +672,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PTV-SPORTS.png" group-title="Sports" , PTV SPORTS HD
+https://flussonic.defineatoz.com/PTV/index.m3u8
 http://line.4k-beast.top:80/live/LeeMartins/4DD741/99708.ts
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/99753.ts
 
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
@@ -720,6 +718,7 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gopal Bhar" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" group-title="Kids",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids",Motu Patlu
