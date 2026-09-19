@@ -635,7 +635,8 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373203&exte
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+#https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS SELECT 2 HD
@@ -651,19 +652,19 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 http://supmag66.xyz:80/live/7D8FDC994346/F36BAEA56809/63176.ts
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
-http://103.155.18.186:8000/play/a125/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
-http://103.114.11.37:8081/Unite8-sports-2/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
+
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1", FOX CRIC 501 ᴴᴰ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1", Bein Sport 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="Sports" tvg-server="Server 1", Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSportsXtra.qa" tvg-name="beIN Sports Xtra" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1", BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -680,7 +681,7 @@ http://line.4k-beast.top:80/live/LeeMartins/4DD741/99708.ts
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/155.ts
 
 #EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-name="Espn" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
-https://tvsen5.aynaott.com/espn/index.m3u8
+
 
 
 #EXTINF:-1,ESPN 3
@@ -700,10 +701,10 @@ http://45.167.1.136:8000/play/a06d
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
-http://elitenova.net/live/PCVFYZ4/Y2FT6BT/1100811.ts
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7sFq1Nq/cazetv-seeklogo.png",CAZE TV ᴴᴰ
 
