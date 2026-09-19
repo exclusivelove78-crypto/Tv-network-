@@ -305,7 +305,7 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 ---------Hindi/Bangla Movie-----------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD
-http://103.165.93.31:8095/jalshaMovies/index.m3u8
+
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
