@@ -771,3 +771,14 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX3_22109/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790077859~acl=/*~id=32735495888506557784911283262229~hmac=9384079dfc55ee8fd6d11e3552028060888c5b72f3c59c9f0155d10b5d1c41c9
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
+
+#----
+# Updated time: 03:37:43 AM 22-09-2026
+#----
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - Willow Cricket
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=owF_0XIFFxj6Cl58HHrbAg&expires=1790050846&ch=willowsd&s=12f91e70b31105b4cedb3ad1b79ef4a1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - Willow HD
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=SVKxFlaiN8ex4KHfomxhHg&expires=1790050849&ch=hdwillos5&s=ebc15dd7685a61d7c778ed9780885641
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=Eqdj9PTaZqyo4xWvBK9NuA&expires=1790050853&ch=cricgo1&s=cfcb9b53c69ebdc8f9f326e26a8643f6
