@@ -1,0 +1,54 @@
+name: Update Set on tv Playlist
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run playlist updater
+        env:
+          SOURCE_M3U_1: ${{ secrets.SOURCE_M3U_1 }}
+          SOURCE_M3U_2: ${{ secrets.SOURCE_M3U_2 }}
+          SOURCE_M3U_3: ${{ secrets.SOURCE_M3U_3 }}
+          SOURCE_M3U_4: ${{ secrets.SOURCE_M3U_4 }}
+          SOURCE_M3U_5: ${{ secrets.SOURCE_M3U_5 }}
+        run: |
+          python script.py
+
+      - name: Commit only if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "Set on tv.m3u"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Set on tv playlist"
+            git push
+          fi
