@@ -1,7 +1,6 @@
 import os
 import re
 from datetime import datetime
-from email.utils import parsedate_to_datetime
 
 import requests
 
@@ -20,238 +19,147 @@ SOURCE_LINKS = [
     os.environ.get("SOURCE_M3U_5"),
 ]
 
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "*/*",
 }
 
-SEPARATOR = "--------------Live Sports----------"
+LIVE_SPORTS_SEPARATOR = "--------------Live Sports----------"
 
 
-# ---------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------
+# =========================================================
+# TIME
+# =========================================================
 
-def now_text():
+def current_time():
     return datetime.now().strftime("%I:%M:%S %p %d-%m-%Y")
 
 
-def clean(value):
-    if value is None:
-        return ""
-    return value.strip()
-
+# =========================================================
+# EXTINF ATTRIBUTES
+# =========================================================
 
 def get_attr(extinf, attr):
     match = re.search(
         rf'{re.escape(attr)}="([^"]*)"',
         extinf,
-        flags=re.IGNORECASE
+        re.IGNORECASE
     )
-    return match.group(1).strip() if match else ""
+
+    if match:
+        return match.group(1)
+
+    return ""
 
 
-def channel_key(extinf):
+def get_channel_key(extinf):
     """
     Channel identity:
     1. tvg-id
     2. tvg-name
-    3. None = cannot safely identify
+    3. display name
     """
-    tvg_id = get_attr(extinf, "tvg-id")
+
+    tvg_id = get_attr(extinf, "tvg-id").strip()
+
     if tvg_id:
         return ("id", tvg_id.lower())
 
-    tvg_name = get_attr(extinf, "tvg-name")
+    tvg_name = get_attr(extinf, "tvg-name").strip()
+
     if tvg_name:
         return ("name", tvg_name.lower())
 
-    # Also support EXTINF display name when tvg-name is absent
     if "," in extinf:
         display_name = extinf.split(",", 1)[1].strip()
+
         if display_name:
             return ("display", display_name.lower())
 
     return None
 
 
-def parse_channel_lines(lines):
+# =========================================================
+# FIND SOURCE NAME
+# =========================================================
+
+def get_source_name(text):
     """
-    Parse #EXTINF + next URL.
-    Other comments are ignored.
+    Source playlist থেকে শুধু # name: নেওয়া হবে।
     """
+
+    for line in text.splitlines():
+
+        stripped = line.strip()
+
+        if stripped.lower().startswith("# name:"):
+            return stripped.split(":", 1)[1].strip()
+
+    return ""
+
+
+# =========================================================
+# PARSE SOURCE CHANNELS
+# =========================================================
+
+def parse_source(text):
+    lines = text.splitlines()
+
     channels = []
+
     i = 0
 
     while i < len(lines):
-        line = lines[i].strip()
+
+        line = lines[i]
 
         if line.startswith("#EXTINF:"):
-            extinf = lines[i].rstrip()
 
-            url = ""
+            extinf = line
+
+            url_index = None
+
             j = i + 1
 
             while j < len(lines):
+
                 candidate = lines[j].strip()
 
                 if candidate and not candidate.startswith("#"):
-                    url = lines[j].rstrip()
+                    url_index = j
                     break
 
-                # Another EXTINF means previous channel has no URL
                 if candidate.startswith("#EXTINF:"):
                     break
 
                 j += 1
 
-            if url:
+            if url_index is not None:
+
                 channels.append({
                     "extinf": extinf,
-                    "url": url,
-                    "key": channel_key(extinf),
+                    "url": lines[url_index],
+                    "key": get_channel_key(extinf),
                 })
 
-            i = j + 1
-        else:
-            i += 1
-
-    return channels
-
-
-def parse_source_name(lines):
-    """
-    Find:
-    #----
-    # Source Name
-    # Updated time: ...
-    #----
-    """
-    name = ""
-
-    for line in lines:
-        line = line.strip()
-
-        if not line:
-            continue
-
-        if line.startswith("# Updated time:"):
-            continue
-
-        if line.startswith("#") and not line.startswith("#EXT"):
-            value = line[1:].strip()
-
-            if value and not value.startswith("-"):
-                return value
-
-    return name
-
-
-# ---------------------------------------------------------
-# Parse existing Set on tv.m3u
-# ---------------------------------------------------------
-
-def parse_existing_playlist(text):
-    """
-    Separates:
-
-    Main channels
-    +
-    old source sections
-
-    This is important because old source sections may already
-    contain duplicate channels.
-    """
-
-    lines = text.splitlines()
-
-    main_channels = []
-    source_groups = []
-
-    current_section = None
-    header_buffer = []
-    header_open = False
-    channel_buffer = []
-
-    def flush_channels():
-        nonlocal channel_buffer
-
-        if not channel_buffer:
-            return
-
-        parsed = parse_channel_lines(channel_buffer)
-
-        if current_section is None:
-            main_channels.extend(parsed)
-        else:
-            current_section["channels"].extend(parsed)
-
-        channel_buffer = []
-
-    i = 0
-
-    while i < len(lines):
-        line = lines[i]
-        stripped = line.strip()
-
-        # Source section starts
-        if stripped == "#----" and not header_open:
-            flush_channels()
-
-            header_open = True
-            header_buffer = []
-
-            i += 1
-            continue
-
-        # Source header ends
-        if stripped == "#----" and header_open:
-            header_open = False
-
-            name = parse_source_name(header_buffer)
-
-            current_section = {
-                "name": name,
-                "updated_time": "",
-                "channels": [],
-            }
-
-            for h in header_buffer:
-                h = h.strip()
-
-                if h.startswith("# Updated time:"):
-                    current_section["updated_time"] = (
-                        h.replace("# Updated time:", "", 1).strip()
-                    )
-
-            source_groups.append(current_section)
-
-            i += 1
-            continue
-
-        if header_open:
-            header_buffer.append(line)
-        else:
-            channel_buffer.append(line)
+                i = url_index
 
         i += 1
 
-    if header_open:
-        # Broken/incomplete header: treat safely as comments
-        channel_buffer.extend(header_buffer)
-
-    flush_channels()
-
-    return main_channels, source_groups
+    return {
+        "name": get_source_name(text),
+        "channels": channels,
+    }
 
 
-# ---------------------------------------------------------
-# Download source playlist
-# ---------------------------------------------------------
+# =========================================================
+# DOWNLOAD SOURCE
+# =========================================================
 
 def download_source(url):
+
     try:
+
         response = requests.get(
             url,
             headers=HEADERS,
@@ -260,255 +168,414 @@ def download_source(url):
 
         response.raise_for_status()
 
-        text = response.text
-
-        if not text.strip():
+        if not response.text.strip():
             return None
 
-        return text
+        return response.text
 
     except Exception as e:
-        print(f"[WARNING] Source failed: {url}")
-        print(f"[WARNING] {e}")
+
+        print(f"[WARNING] Source failed")
+        print(e)
+
         return None
 
 
-# ---------------------------------------------------------
-# Source playlist parser
-# ---------------------------------------------------------
+# =========================================================
+# FIND ALL EXISTING CHANNELS
+# =========================================================
 
-def parse_source_playlist(text):
-    lines = text.splitlines()
-
-    channels = parse_channel_lines(lines)
-    name = parse_source_name(lines)
-
-    return {
-        "name": name,
-        "channels": channels,
-    }
-
-
-# ---------------------------------------------------------
-# Remove duplicate existing channels
-# ---------------------------------------------------------
-
-def clean_existing_channels(main_channels, source_groups):
+def find_existing_channels(lines):
     """
-    Global duplicate removal.
-
-    Main playlist wins over source section.
-
-    If same channel exists:
-        first occurrence is kept
-        later duplicate is removed
+    Existing file-এর কোনো formatting পরিবর্তন না করে
+    শুধু channel position এবং URL বের করে।
     """
 
-    seen = set()
+    channels = []
 
-    cleaned_main = []
+    i = 0
 
-    for ch in main_channels:
-        key = ch["key"]
+    while i < len(lines):
 
-        if key is None:
-            cleaned_main.append(ch)
-            continue
+        if lines[i].startswith("#EXTINF:"):
 
-        if key in seen:
-            continue
+            extinf_index = i
+            url_index = None
 
-        seen.add(key)
-        cleaned_main.append(ch)
+            j = i + 1
 
-    cleaned_groups = []
+            while j < len(lines):
 
-    for group in source_groups:
-        cleaned_channels = []
+                candidate = lines[j].strip()
 
-        for ch in group["channels"]:
-            key = ch["key"]
+                if candidate and not candidate.startswith("#"):
+                    url_index = j
+                    break
 
-            if key is None:
-                cleaned_channels.append(ch)
-                continue
+                if candidate.startswith("#EXTINF:"):
+                    break
 
-            if key in seen:
-                continue
+                j += 1
 
-            seen.add(key)
-            cleaned_channels.append(ch)
+            if url_index is not None:
 
-        group["channels"] = cleaned_channels
+                channels.append({
+                    "extinf_index": extinf_index,
+                    "url_index": url_index,
+                    "key": get_channel_key(lines[extinf_index]),
+                    "extinf": lines[extinf_index],
+                    "url": lines[url_index],
+                })
 
-        # Empty source sections are removed
-        if cleaned_channels:
-            cleaned_groups.append(group)
+                i = url_index
 
-    return cleaned_main, cleaned_groups
+        i += 1
+
+    return channels
 
 
-# ---------------------------------------------------------
-# Find existing source group
-# ---------------------------------------------------------
+# =========================================================
+# CHECK WHETHER POSITION IS INSIDE SOURCE SECTION
+# =========================================================
 
-def find_source_group(source_name, source_groups, used_groups):
+def find_source_section_ranges(lines):
     """
-    Match source section by source name.
+    Existing source sections detect করে।
 
-    If source has no name, an unused unnamed section is used.
+    Format:
+
+    #----
+    # Source Name
+    # Updated time: ...
+    #----
+
+    channels...
     """
 
-    source_name = clean(source_name).lower()
+    ranges = []
 
-    # First try exact source name
-    if source_name:
-        for index, group in enumerate(source_groups):
-            if index in used_groups:
-                continue
+    i = 0
 
-            if clean(group["name"]).lower() == source_name:
-                return index
+    while i < len(lines):
 
-    # Then unnamed section
+        if lines[i].strip() == "#----":
+
+            start = i
+
+            second_marker = None
+
+            j = i + 1
+
+            while j < len(lines):
+
+                if lines[j].strip() == "#----":
+                    second_marker = j
+                    break
+
+                j += 1
+
+            if second_marker is not None:
+
+                ranges.append({
+                    "start": start,
+                    "header_end": second_marker,
+                    "end": len(lines) - 1,
+                })
+
+                i = second_marker
+
+        i += 1
+
+    # Determine each section end
+    for index in range(len(ranges) - 1):
+
+        ranges[index]["end"] = (
+            ranges[index + 1]["start"] - 1
+        )
+
+    return ranges
+
+
+def is_inside_source_section(index, ranges):
+
+    for r in ranges:
+
+        if r["start"] <= index <= r["end"]:
+            return True
+
+    return False
+
+
+# =========================================================
+# FIND SOURCE GROUP
+# =========================================================
+
+def find_matching_source_section(lines, source_name):
+
     if not source_name:
-        for index, group in enumerate(source_groups):
-            if index in used_groups:
-                continue
+        return None
 
-            if not clean(group["name"]):
-                return index
+    ranges = find_source_section_ranges(lines)
+
+    source_name_lower = source_name.lower()
+
+    for r in ranges:
+
+        for i in range(
+            r["start"] + 1,
+            r["header_end"]
+        ):
+
+            line = lines[i].strip()
+
+            if line.startswith("#"):
+
+                value = line[1:].strip()
+
+                if (
+                    value
+                    and not value.startswith("-")
+                    and not value.lower().startswith("updated time:")
+                ):
+
+                    if value.lower() == source_name_lower:
+                        return r
 
     return None
 
 
-# ---------------------------------------------------------
-# Build final playlist
-# ---------------------------------------------------------
+# =========================================================
+# APPEND NEW SOURCE SECTION
+# =========================================================
 
-def build_playlist(
-    main_channels,
-    source_groups,
-    new_groups,
-    last_update
+def append_new_source_section(
+    lines,
+    source_name,
+    channels
 ):
-    output = []
 
-    output.append("#EXTM3U")
+    if not channels:
+        return lines
 
-    if last_update:
-        output.append(f"# last_update: {last_update}")
+    # Ensure final channel has normal separation
+    if lines and lines[-1].strip():
 
-    output.append("")
+        lines.append("")
 
-    # -----------------------------------------------------
-    # MAIN PLAYLIST
-    # -----------------------------------------------------
+    # If separator isn't already the final Live Sports area,
+    # add it.
+    separator_exists = False
 
-    for ch in main_channels:
-        output.append(ch["extinf"])
-        output.append(ch["url"])
+    for line in lines:
 
-    # -----------------------------------------------------
-    # LIVE SPORTS AREA
-    # -----------------------------------------------------
+        if line.strip() == LIVE_SPORTS_SEPARATOR:
+            separator_exists = True
+            break
 
-    all_groups = source_groups + new_groups
+    if not separator_exists:
 
-    if all_groups:
-        output.append("")
-        output.append(SEPARATOR)
-        output.append("")
+        lines.append(LIVE_SPORTS_SEPARATOR)
+        lines.append("")
 
-    for group in all_groups:
+    else:
 
-        if not group["channels"]:
-            continue
+        # Existing separator exists but this source section
+        # doesn't. Add another source section below it.
+        if lines and lines[-1].strip():
+            lines.append("")
 
-        output.append("#----")
+    lines.append("#----")
 
-        if group["name"]:
-            output.append(f"# {group['name']}")
+    if source_name:
+        lines.append(f"# {source_name}")
 
-        if group["updated_time"]:
-            output.append(
-                f"# Updated time: {group['updated_time']}"
-            )
+    lines.append(
+        f"# Updated time: {current_time()}"
+    )
 
-        output.append("#----")
-        output.append("")
+    lines.append("#----")
+    lines.append("")
 
-        for ch in group["channels"]:
-            output.append(ch["extinf"])
-            output.append(ch["url"])
+    for channel in channels:
 
-        output.append("")
+        lines.append(channel["extinf"])
+        lines.append(channel["url"])
 
-    # Remove excessive blank lines at end
-    while output and not output[-1].strip():
-        output.pop()
-
-    return "\n".join(output) + "\n"
+    return lines
 
 
-# ---------------------------------------------------------
+# =========================================================
+# APPEND TO EXISTING SOURCE SECTION
+# =========================================================
+
+def append_to_existing_source(
+    lines,
+    section,
+    source_name,
+    channels
+):
+
+    if not channels:
+        return lines
+
+    # Recalculate section because lines may change
+    ranges = find_source_section_ranges(lines)
+
+    # Find the same section again
+    target = None
+
+    source_name_lower = source_name.lower()
+
+    for r in ranges:
+
+        header_name = ""
+
+        for i in range(
+            r["start"] + 1,
+            r["header_end"]
+        ):
+
+            value = lines[i].strip()
+
+            if (
+                value.startswith("#")
+                and not value.startswith("#EXT")
+                and not value.startswith("# Updated time:")
+            ):
+
+                candidate = value[1:].strip()
+
+                if candidate and not candidate.startswith("-"):
+                    header_name = candidate
+                    break
+
+        if header_name.lower() == source_name_lower:
+            target = r
+            break
+
+    if target is None:
+        return lines
+
+    # Insert before trailing blank lines of this section.
+    insert_at = target["end"] + 1
+
+    while (
+        insert_at > target["header_end"]
+        and lines[insert_at - 1].strip() == ""
+    ):
+        insert_at -= 1
+
+    new_lines = []
+
+    for channel in channels:
+
+        new_lines.append(channel["extinf"])
+        new_lines.append(channel["url"])
+
+    lines[insert_at:insert_at] = new_lines
+
+    # Update ONLY the existing source timestamp.
+    # No other spacing is touched.
+    new_ranges = find_source_section_ranges(lines)
+
+    for r in new_ranges:
+
+        if r["start"] == target["start"]:
+
+            for i in range(
+                r["start"] + 1,
+                r["header_end"]
+            ):
+
+                if lines[i].strip().startswith(
+                    "# Updated time:"
+                ):
+
+                    # Preserve indentation/format before '#'
+                    prefix = lines[i][:len(lines[i]) - len(lines[i].lstrip())]
+
+                    lines[i] = (
+                        prefix
+                        + "# Updated time: "
+                        + current_time()
+                    )
+
+                    break
+
+            break
+
+    return lines
+
+
+# =========================================================
 # MAIN
-# ---------------------------------------------------------
+# =========================================================
 
 def main():
 
     if os.path.exists(MAIN_FILE):
+
         with open(
             MAIN_FILE,
             "r",
             encoding="utf-8",
-            errors="replace"
+            newline=""
         ) as f:
-            old_text = f.read()
+
+            original_text = f.read()
+
     else:
-        old_text = "#EXTM3U\n"
 
-    # -----------------------------------------------------
-    # Parse existing file
-    # -----------------------------------------------------
+        original_text = "#EXTM3U\n"
 
-    main_channels, source_groups = parse_existing_playlist(
-        old_text
-    )
+    # IMPORTANT:
+    # splitlines() preserves the actual text of every line.
+    # We do NOT strip/reformat existing lines.
+    lines = original_text.splitlines()
 
-    # Clean duplicate channels from old malformed source sections
-    main_channels, source_groups = clean_existing_channels(
-        main_channels,
-        source_groups
-    )
+    # Existing channels
+    existing_channels = find_existing_channels(lines)
 
-    # Global channel map
+    # First occurrence wins
     channel_map = {}
 
-    for ch in main_channels:
-        if ch["key"] is not None:
-            channel_map[ch["key"]] = ch
+    for channel in existing_channels:
 
-    for group in source_groups:
-        for ch in group["channels"]:
-            if ch["key"] is not None:
-                channel_map[ch["key"]] = ch
+        key = channel["key"]
 
-    # -----------------------------------------------------
-    # Process sources
-    # -----------------------------------------------------
+        if key is None:
+            continue
 
-    used_groups = set()
-    new_groups = []
+        if key not in channel_map:
+
+            channel_map[key] = channel
+
+    # Existing source sections
+    source_ranges = find_source_section_ranges(lines)
+
+    # Lines that need to be removed because they are duplicate
+    # copies inside source sections.
+    duplicate_ranges = []
+
+    # ---------------------------------------------------------
+    # Download and process every source
+    # ---------------------------------------------------------
+
+    new_channels_by_source = []
 
     playlist_changed = False
 
-    for source_index, source_url in enumerate(SOURCE_LINKS, start=1):
+    for source_number, source_url in enumerate(
+        SOURCE_LINKS,
+        start=1
+    ):
 
         if not source_url:
             continue
 
-        print(f"\n[INFO] Checking SOURCE_M3U_{source_index}")
+        print(
+            f"[INFO] Checking SOURCE_M3U_{source_number}"
+        )
 
         source_text = download_source(source_url)
 
@@ -516,165 +583,200 @@ def main():
             print("[INFO] Source skipped.")
             continue
 
-        source = parse_source_playlist(source_text)
+        source = parse_source(source_text)
 
         source_name = source["name"]
         source_channels = source["channels"]
-
-        print(
-            f"[INFO] Source name: "
-            f"{source_name or '(no name)'}"
-        )
 
         if not source_channels:
             print("[INFO] No channels found.")
             continue
 
-        # Find existing source section
-        group_index = find_source_group(
-            source_name,
-            source_groups,
-            used_groups
-        )
-
-        if group_index is not None:
-            group = source_groups[group_index]
-            used_groups.add(group_index)
-        else:
-            group = {
-                "name": source_name,
-                "updated_time": "",
-                "channels": [],
-            }
-
-            new_groups.append(group)
-
-        source_group_changed = False
-
-        # -------------------------------------------------
-        # Process every source channel
-        # -------------------------------------------------
+        new_channels = []
 
         for source_channel in source_channels:
 
             key = source_channel["key"]
 
-            # Cannot safely identify a channel
-            if key is None:
-                # Treat as a new channel
-                group["channels"].append(source_channel)
-                source_group_changed = True
-                playlist_changed = True
-                continue
-
             # -------------------------------------------------
-            # Existing channel
+            # Identifiable channel
             # -------------------------------------------------
 
-            if key in channel_map:
+            if key is not None and key in channel_map:
 
                 existing = channel_map[key]
 
-                # Same EXTINF metadata stays unchanged.
-                # ONLY stream URL is updated.
+                # Only URL changes.
+                # EXTINF formatting stays EXACTLY as existing.
                 if existing["url"] != source_channel["url"]:
 
                     print(
-                        "[UPDATE] URL changed: "
-                        f"{key}"
+                        f"[UPDATE] URL changed: {key}"
                     )
 
-                    existing["url"] = source_channel["url"]
+                    lines[existing["url_index"]] = (
+                        source_channel["url"]
+                    )
+
+                    existing["url"] = (
+                        source_channel["url"]
+                    )
 
                     playlist_changed = True
-
-                    # If channel belongs to this source group,
-                    # its source timestamp should update.
-                    for g in source_groups:
-                        if existing in g["channels"]:
-                            if g is group:
-                                source_group_changed = True
-                            break
-
-                    for g in new_groups:
-                        if existing in g["channels"]:
-                            if g is group:
-                                source_group_changed = True
-                            break
 
                 continue
 
             # -------------------------------------------------
-            # Truly NEW channel
+            # Truly new channel
             # -------------------------------------------------
 
-            print(
-                "[NEW] Adding channel: "
-                f"{key}"
-            )
+            new_channels.append(source_channel)
 
-            group["channels"].append(source_channel)
+            if key is not None:
+                channel_map[key] = source_channel
 
-            channel_map[key] = source_channel
-
-            source_group_changed = True
             playlist_changed = True
 
-        # Update source timestamp ONLY when that source
-        # actually added/changed channel data.
-        if source_group_changed:
+        if new_channels:
 
-            group["updated_time"] = now_text()
-
-            if not group["name"] and source_name:
-                group["name"] = source_name
+            new_channels_by_source.append({
+                "name": source_name,
+                "channels": new_channels,
+            })
 
     # ---------------------------------------------------------
-    # If nothing changed, do NOT rewrite the file.
+    # CLEAN OLD DUPLICATE SOURCE CHANNELS
+    # ---------------------------------------------------------
+    #
+    # If an old malformed file has:
+    #
+    # Main channel
+    #
+    # #----
+    # # SonyLiv
+    # #----
+    #
+    # Same channel again
+    #
+    # then only the later duplicate channel block is removed.
+    #
+    # All other spaces/comments/lines remain untouched.
     # ---------------------------------------------------------
 
-    if not playlist_changed:
+    if existing_channels:
 
-        print("\n[INFO] No channel changes.")
-        print("[INFO] Set on tv.m3u was NOT rewritten.")
+        seen = set()
 
-        return
+        remove_indexes = set()
+
+        source_ranges = find_source_section_ranges(lines)
+
+        for channel in existing_channels:
+
+            key = channel["key"]
+
+            if key is None:
+                continue
+
+            if key in seen:
+
+                if is_inside_source_section(
+                    channel["extinf_index"],
+                    source_ranges
+                ):
+
+                    # Remove EXTINF + URL only
+                    remove_indexes.add(
+                        channel["extinf_index"]
+                    )
+
+                    remove_indexes.add(
+                        channel["url_index"]
+                    )
+
+                    playlist_changed = True
+
+            else:
+
+                seen.add(key)
+
+    # Remove duplicate lines from bottom to top.
+    if remove_indexes:
+
+        for index in sorted(
+            remove_indexes,
+            reverse=True
+        ):
+
+            del lines[index]
 
     # ---------------------------------------------------------
-    # Main last_update
+    # Add NEW source channels at the VERY BOTTOM
     # ---------------------------------------------------------
 
-    new_last_update = now_text()
+    for source in new_channels_by_source:
+
+        source_name = source["name"]
+        new_channels = source["channels"]
+
+        # Try existing source section
+        if source_name:
+
+            section = find_matching_source_section(
+                lines,
+                source_name
+            )
+
+        else:
+
+            section = None
+
+        if section is not None:
+
+            lines = append_to_existing_source(
+                lines,
+                section,
+                source_name,
+                new_channels
+            )
+
+        else:
+
+            lines = append_new_source_section(
+                lines,
+                source_name,
+                new_channels
+            )
 
     # ---------------------------------------------------------
-    # Build final file
+    # Write ONLY when something changed
     # ---------------------------------------------------------
 
-    final_text = build_playlist(
-        main_channels=main_channels,
-        source_groups=source_groups,
-        new_groups=new_groups,
-        last_update=new_last_update
-    )
+    # Preserve final newline state as much as possible.
+    new_text = "\n".join(lines)
 
-    # ---------------------------------------------------------
-    # Write only if content really changed
-    # ---------------------------------------------------------
+    if original_text.endswith("\n"):
+        new_text += "\n"
 
-    if final_text != old_text:
+    if new_text != original_text:
 
         with open(
             MAIN_FILE,
             "w",
             encoding="utf-8",
-            newline="\n"
+            newline=""
         ) as f:
-            f.write(final_text)
 
-        print("\n[SUCCESS] Playlist updated.")
+            f.write(new_text)
+
+        print("[SUCCESS] Playlist updated.")
 
     else:
-        print("\n[INFO] Final content unchanged.")
+
+        print(
+            "[INFO] No changes. "
+            "File was not rewritten."
+        )
 
 
 if __name__ == "__main__":
