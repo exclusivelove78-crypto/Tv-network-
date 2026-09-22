@@ -53,13 +53,6 @@ def download_playlist(url):
 # ============================================================
 
 def get_source_name(text):
-    """
-    Try to read:
-
-    # name: Live sports
-
-    If not found, return empty string.
-    """
 
     match = re.search(
         r"(?im)^\s*#\s*name\s*:\s*(.*?)\s*$",
@@ -81,7 +74,7 @@ def get_source_name(text):
 
 def get_channel_key(extinf):
 
-    # First priority: tvg-id
+    # Priority 1: tvg-id
     match = re.search(
         r'tvg-id="([^"]*)"',
         extinf,
@@ -89,12 +82,13 @@ def get_channel_key(extinf):
     )
 
     if match and match.group(1).strip():
+
         return (
             "id:"
             + match.group(1).strip().lower()
         )
 
-    # Second priority: tvg-name
+    # Priority 2: tvg-name
     match = re.search(
         r'tvg-name="([^"]*)"',
         extinf,
@@ -102,6 +96,7 @@ def get_channel_key(extinf):
     )
 
     if match and match.group(1).strip():
+
         return (
             "name:"
             + match.group(1).strip().lower()
@@ -129,7 +124,6 @@ def parse_playlist(text):
         if line.startswith("#EXTINF:"):
 
             extinf = line
-
             stream_url = None
 
             j = i + 1
@@ -179,31 +173,49 @@ def normalize_channels(channels):
 
 
 # ============================================================
-# BUILD PLAYLIST
+# BUILD FINAL PLAYLIST
 # ============================================================
 
-def build_playlist(source_groups):
+def build_playlist(
+    old_channels,
+    source_groups,
+    updated_time
+):
 
     output = [
         "#EXTM3U",
         ""
     ]
 
+    # ========================================================
+    # OLD MAIN PLAYLIST
+    # ========================================================
+
+    for channel in old_channels:
+
+        output.append(
+            channel["extinf"]
+        )
+
+        output.append(
+            channel["url"]
+        )
+
+        output.append("")
+
+    # ========================================================
+    # NEW SOURCE DATA
+    # ALWAYS AT THE VERY BOTTOM
+    # ========================================================
+
     for group in source_groups:
-
-        source_name = group["name"]
-        updated_time = group["updated_time"]
-        channels = group["channels"]
-
-        # ----------------------------------------------------
-        # Source section header
-        # ----------------------------------------------------
 
         output.append("#----")
 
-        if source_name:
+        if group["name"]:
+
             output.append(
-                f"# {source_name}"
+                f"# {group['name']}"
             )
 
         output.append(
@@ -213,11 +225,7 @@ def build_playlist(source_groups):
         output.append("#----")
         output.append("")
 
-        # ----------------------------------------------------
-        # Channels
-        # ----------------------------------------------------
-
-        for channel in channels:
+        for channel in group["channels"]:
 
             output.append(
                 channel["extinf"]
@@ -242,9 +250,9 @@ def main():
     print("Starting playlist update")
     print("================================")
 
-    # --------------------------------------------------------
-    # Existing main playlist
-    # --------------------------------------------------------
+    # ========================================================
+    # READ EXISTING MAIN PLAYLIST
+    # ========================================================
 
     if OUTPUT_FILE.exists():
 
@@ -270,9 +278,9 @@ def main():
             "Set on tv.m3u not found."
         )
 
-    # --------------------------------------------------------
-    # Keep existing channels
-    # --------------------------------------------------------
+    # ========================================================
+    # COPY OLD PLAYLIST
+    # ========================================================
 
     channels = old_channels.copy()
 
@@ -286,23 +294,18 @@ def main():
                 channel["key"]
             ] = index
 
-    added = 0
-    updated = 0
-
-    # --------------------------------------------------------
-    # Source groups
-    # --------------------------------------------------------
+    # ========================================================
+    # SOURCE GROUPS
+    # ========================================================
 
     source_groups = []
 
-    # Action run time
-    current_time = datetime.now().strftime(
-        "%I:%M:%S %p %d-%m-%Y"
-    )
+    added = 0
+    updated = 0
 
-    # --------------------------------------------------------
-    # Check all source playlists
-    # --------------------------------------------------------
+    # ========================================================
+    # CHECK SOURCES
+    # ========================================================
 
     for number, source_url in enumerate(
         SOURCE_LINKS,
@@ -329,7 +332,7 @@ def main():
             continue
 
         # ----------------------------------------------------
-        # Source name
+        # SOURCE NAME
         # ----------------------------------------------------
 
         source_name = get_source_name(
@@ -350,7 +353,7 @@ def main():
             )
 
         # ----------------------------------------------------
-        # Parse source channels
+        # SOURCE CHANNELS
         # ----------------------------------------------------
 
         source_channels = parse_playlist(
@@ -362,26 +365,20 @@ def main():
             f"{len(source_channels)}"
         )
 
-        # Keep channels belonging to this source
-        source_group_channels = []
+        new_source_channels = []
 
         for new_channel in source_channels:
 
             key = new_channel["key"]
 
-            # Cannot safely identify channel
+            # Cannot identify safely
             if not key:
-
-                print(
-                    "Skipped channel "
-                    "(no tvg-id/tvg-name)."
-                )
 
                 continue
 
-            # ------------------------------------------------
-            # Existing channel
-            # ------------------------------------------------
+            # =================================================
+            # EXISTING CHANNEL
+            # =================================================
 
             if key in channel_map:
 
@@ -389,10 +386,15 @@ def main():
 
                 old_channel = channels[index]
 
-                # IMPORTANT:
-                # Keep existing EXTINF metadata.
-                # Only update stream URL.
-                if old_channel["url"] != new_channel["url"]:
+                # Same URL = nothing changes
+                if old_channel["url"] == new_channel["url"]:
+
+                    print(
+                        f"Same link: {key}"
+                    )
+
+                # New URL = update only URL
+                else:
 
                     channels[index]["url"] = (
                         new_channel["url"]
@@ -401,18 +403,12 @@ def main():
                     updated += 1
 
                     print(
-                        f"Updated URL: "
-                        f"{key}"
+                        f"Updated link: {key}"
                     )
 
-                # Use the current main playlist channel
-                source_group_channels.append(
-                    channels[index]
-                )
-
-            # ------------------------------------------------
-            # New channel
-            # ------------------------------------------------
+            # =================================================
+            # NEW CHANNEL
+            # =================================================
 
             else:
 
@@ -422,31 +418,30 @@ def main():
                     new_channel
                 )
 
-                source_group_channels.append(
+                new_source_channels.append(
                     new_channel
                 )
 
                 added += 1
 
                 print(
-                    f"Added: {key}"
+                    f"New channel: {key}"
                 )
 
         # ----------------------------------------------------
-        # Add source section
+        # Add only NEW channels to bottom section
         # ----------------------------------------------------
 
-        if source_group_channels:
+        if new_source_channels:
 
             source_groups.append({
                 "name": source_name,
-                "updated_time": current_time,
-                "channels": source_group_channels
+                "channels": new_source_channels
             })
 
-    # --------------------------------------------------------
-    # Check actual channel changes
-    # --------------------------------------------------------
+    # ========================================================
+    # CHECK ACTUAL CHANGES
+    # ========================================================
 
     old_normalized = normalize_channels(
         old_channels
@@ -456,10 +451,7 @@ def main():
         channels
     )
 
-    # --------------------------------------------------------
     # Nothing changed
-    # --------------------------------------------------------
-
     if old_normalized == new_normalized:
 
         print("\n================================")
@@ -469,63 +461,27 @@ def main():
 
         return
 
-    # --------------------------------------------------------
-    # IMPORTANT:
-    #
-    # If changes happened, rebuild playlist.
-    #
-    # Existing channels that were not found in the current
-    # sources are also preserved at the end.
-    # --------------------------------------------------------
+    # ========================================================
+    # ACTION RUN TIME
+    # ========================================================
 
-    source_group_keys = set()
-
-    for group in source_groups:
-
-        for channel in group["channels"]:
-
-            if channel["key"]:
-                source_group_keys.add(
-                    channel["key"]
-                )
-
-    # --------------------------------------------------------
-    # Preserve old channels that were not in sources
-    # --------------------------------------------------------
-
-    remaining_channels = []
-
-    for channel in channels:
-
-        if channel["key"] not in source_group_keys:
-
-            remaining_channels.append(
-                channel
-            )
-
-    # --------------------------------------------------------
-    # Add remaining old channels as one section
-    # --------------------------------------------------------
-
-    if remaining_channels:
-
-        source_groups.append({
-            "name": "",
-            "updated_time": current_time,
-            "channels": remaining_channels
-        })
-
-    # --------------------------------------------------------
-    # Build final playlist
-    # --------------------------------------------------------
-
-    new_playlist = build_playlist(
-        source_groups
+    updated_time = datetime.now().strftime(
+        "%I:%M:%S %p %d-%m-%Y"
     )
 
-    # --------------------------------------------------------
-    # Safe temporary write
-    # --------------------------------------------------------
+    # ========================================================
+    # BUILD PLAYLIST
+    # ========================================================
+
+    new_playlist = build_playlist(
+        old_channels=channels,
+        source_groups=source_groups,
+        updated_time=updated_time
+    )
+
+    # ========================================================
+    # SAFE WRITE
+    # ========================================================
 
     with tempfile.NamedTemporaryFile(
         mode="w",
@@ -547,9 +503,9 @@ def main():
         OUTPUT_FILE
     )
 
-    # --------------------------------------------------------
-    # Done
-    # --------------------------------------------------------
+    # ========================================================
+    # RESULT
+    # ========================================================
 
     print("\n================================")
     print("PLAYLIST UPDATED")
