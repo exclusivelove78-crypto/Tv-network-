@@ -22,7 +22,7 @@ TIMEOUT = 60
 
 
 # ============================================================
-# DOWNLOAD SOURCE PLAYLIST
+# DOWNLOAD SOURCE
 # ============================================================
 
 def download_playlist(url):
@@ -69,7 +69,7 @@ def get_source_name(text):
 
 
 # ============================================================
-# GET CHANNEL KEY
+# CHANNEL KEY
 # ============================================================
 
 def get_channel_key(extinf):
@@ -82,7 +82,6 @@ def get_channel_key(extinf):
     )
 
     if match and match.group(1).strip():
-
         return (
             "id:"
             + match.group(1).strip().lower()
@@ -96,7 +95,6 @@ def get_channel_key(extinf):
     )
 
     if match and match.group(1).strip():
-
         return (
             "name:"
             + match.group(1).strip().lower()
@@ -106,7 +104,7 @@ def get_channel_key(extinf):
 
 
 # ============================================================
-# PARSE PLAYLIST
+# PARSE CHANNELS
 # ============================================================
 
 def parse_playlist(text):
@@ -157,7 +155,42 @@ def parse_playlist(text):
 
 
 # ============================================================
-# NORMALIZE CHANNELS
+# REMOVE DUPLICATES FROM MAIN PLAYLIST
+# ============================================================
+
+def clean_existing_channels(channels):
+
+    cleaned = []
+    seen = set()
+
+    removed = 0
+
+    for channel in channels:
+
+        key = channel["key"]
+
+        # If channel has no ID/name, keep it
+        # because we cannot safely identify duplicates.
+        if not key:
+
+            cleaned.append(channel)
+            continue
+
+        # Duplicate
+        if key in seen:
+
+            removed += 1
+            continue
+
+        seen.add(key)
+
+        cleaned.append(channel)
+
+    return cleaned, removed
+
+
+# ============================================================
+# NORMALIZE FOR CHANGE CHECK
 # ============================================================
 
 def normalize_channels(channels):
@@ -177,8 +210,8 @@ def normalize_channels(channels):
 # ============================================================
 
 def build_playlist(
-    old_channels,
-    source_groups,
+    channels,
+    new_source_groups,
     updated_time
 ):
 
@@ -188,10 +221,10 @@ def build_playlist(
     ]
 
     # ========================================================
-    # OLD MAIN PLAYLIST
+    # MAIN PLAYLIST
     # ========================================================
 
-    for channel in old_channels:
+    for channel in channels:
 
         output.append(
             channel["extinf"]
@@ -204,11 +237,11 @@ def build_playlist(
         output.append("")
 
     # ========================================================
-    # NEW SOURCE DATA
+    # NEW SOURCE CHANNELS
     # ALWAYS AT THE VERY BOTTOM
     # ========================================================
 
-    for group in source_groups:
+    for group in new_source_groups:
 
         output.append("#----")
 
@@ -261,25 +294,42 @@ def main():
             errors="ignore"
         )
 
-        old_channels = parse_playlist(
+        old_channels_raw = parse_playlist(
             old_text
         )
 
         print(
-            f"Existing channels: "
-            f"{len(old_channels)}"
+            f"Channels read from file: "
+            f"{len(old_channels_raw)}"
         )
 
     else:
 
-        old_channels = []
+        old_channels_raw = []
 
         print(
             "Set on tv.m3u not found."
         )
 
     # ========================================================
-    # COPY OLD PLAYLIST
+    # CLEAN DUPLICATES FROM EXISTING FILE
+    # ========================================================
+
+    old_channels, removed_duplicates = (
+        clean_existing_channels(
+            old_channels_raw
+        )
+    )
+
+    if removed_duplicates:
+
+        print(
+            f"Duplicate channels removed: "
+            f"{removed_duplicates}"
+        )
+
+    # ========================================================
+    # WORKING COPY
     # ========================================================
 
     channels = old_channels.copy()
@@ -296,9 +346,10 @@ def main():
 
     # ========================================================
     # SOURCE GROUPS
+    # ONLY NEW CHANNELS GO HERE
     # ========================================================
 
-    source_groups = []
+    new_source_groups = []
 
     added = 0
     updated = 0
@@ -332,7 +383,7 @@ def main():
             continue
 
         # ----------------------------------------------------
-        # SOURCE NAME
+        # Source name
         # ----------------------------------------------------
 
         source_name = get_source_name(
@@ -353,7 +404,7 @@ def main():
             )
 
         # ----------------------------------------------------
-        # SOURCE CHANNELS
+        # Parse source
         # ----------------------------------------------------
 
         source_channels = parse_playlist(
@@ -365,19 +416,47 @@ def main():
             f"{len(source_channels)}"
         )
 
-        new_source_channels = []
+        # Only NEW channels from this source
+        new_channels_for_source = []
+
+        # Prevent duplicate channels inside
+        # the same source itself.
+        source_seen = set()
 
         for new_channel in source_channels:
 
             key = new_channel["key"]
 
-            # Cannot identify safely
+            # ------------------------------------------------
+            # Cannot safely identify
+            # ------------------------------------------------
+
             if not key:
+
+                print(
+                    "Skipped channel "
+                    "(no tvg-id/tvg-name)."
+                )
 
                 continue
 
+            # ------------------------------------------------
+            # Duplicate inside same source
+            # ------------------------------------------------
+
+            if key in source_seen:
+
+                print(
+                    f"Duplicate in source: "
+                    f"{key}"
+                )
+
+                continue
+
+            source_seen.add(key)
+
             # =================================================
-            # EXISTING CHANNEL
+            # EXISTING MAIN PLAYLIST CHANNEL
             # =================================================
 
             if key in channel_map:
@@ -386,16 +465,22 @@ def main():
 
                 old_channel = channels[index]
 
-                # Same URL = nothing changes
-                if old_channel["url"] == new_channel["url"]:
+                # Same URL
+                if (
+                    old_channel["url"]
+                    == new_channel["url"]
+                ):
 
                     print(
                         f"Same link: {key}"
                     )
 
-                # New URL = update only URL
+                # New URL
                 else:
 
+                    # IMPORTANT:
+                    # Keep old EXTINF metadata.
+                    # Change ONLY the stream URL.
                     channels[index]["url"] = (
                         new_channel["url"]
                     )
@@ -406,41 +491,46 @@ def main():
                         f"Updated link: {key}"
                     )
 
+                # IMPORTANT:
+                # Do NOT add this existing channel
+                # to bottom source section.
+
+                continue
+
             # =================================================
-            # NEW CHANNEL
+            # BRAND NEW CHANNEL
             # =================================================
 
-            else:
+            channel_map[key] = len(channels)
 
-                channel_map[key] = len(channels)
+            channels.append(
+                new_channel
+            )
 
-                channels.append(
-                    new_channel
-                )
+            new_channels_for_source.append(
+                new_channel
+            )
 
-                new_source_channels.append(
-                    new_channel
-                )
+            added += 1
 
-                added += 1
-
-                print(
-                    f"New channel: {key}"
-                )
+            print(
+                f"New channel: {key}"
+            )
 
         # ----------------------------------------------------
-        # Add only NEW channels to bottom section
+        # Add source section ONLY if it has
+        # brand-new channels.
         # ----------------------------------------------------
 
-        if new_source_channels:
+        if new_channels_for_source:
 
-            source_groups.append({
+            new_source_groups.append({
                 "name": source_name,
-                "channels": new_source_channels
+                "channels": new_channels_for_source
             })
 
     # ========================================================
-    # CHECK ACTUAL CHANGES
+    # CHECK WHETHER ANY REAL CHANGE HAPPENED
     # ========================================================
 
     old_normalized = normalize_channels(
@@ -451,8 +541,11 @@ def main():
         channels
     )
 
-    # Nothing changed
-    if old_normalized == new_normalized:
+    # No channel change and no duplicate cleanup
+    if (
+        old_normalized == new_normalized
+        and removed_duplicates == 0
+    ):
 
         print("\n================================")
         print("No new or changed links found.")
@@ -470,12 +563,12 @@ def main():
     )
 
     # ========================================================
-    # BUILD PLAYLIST
+    # BUILD FINAL PLAYLIST
     # ========================================================
 
     new_playlist = build_playlist(
-        old_channels=channels,
-        source_groups=source_groups,
+        channels=channels,
+        new_source_groups=new_source_groups,
         updated_time=updated_time
     )
 
@@ -509,9 +602,10 @@ def main():
 
     print("\n================================")
     print("PLAYLIST UPDATED")
-    print(f"Added:   {added}")
-    print(f"Updated: {updated}")
-    print(f"Total:   {len(channels)}")
+    print(f"Added:              {added}")
+    print(f"Updated:            {updated}")
+    print(f"Duplicates removed: {removed_duplicates}")
+    print(f"Total:              {len(channels)}")
     print("================================")
 
 
