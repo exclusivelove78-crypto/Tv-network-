@@ -843,6 +843,34 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/chu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790191214-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-86b23c8bea20563a27f9c946ce58e397
+#EXTINF:-1 tvg-id="66627" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg" group-title="LIVE", Miami Marlins vs Chicago Cubs - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1790218950-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6f3ad7b6a4fbfaa9dfae4a566a70c6df
+#EXTINF:-1 tvg-id="66628" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg" group-title="LIVE", New York Mets vs Texas Rangers - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1790218956-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df63024284dbe0f902fb2243baece42e
+#EXTINF:-1 tvg-id="66632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Minnesota Twins vs San Francisco Giants - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144992/720p/chunks.m3u8?is_vip=false&token=1790218962-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8a2aa85fd9c8fc0a073df8cdbfe01796
+#EXTINF:-1 tvg-id="66612" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg" group-title="LIVE", Los Angeles Sparks vs Las Vegas Aces - WNBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1790218968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8c191c4a00433d45c2942f195932ae91
+#EXTINF:-1 tvg-id="74866" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegas%20Golden%20Knights%20vs%20San%20Jose%20Sharks.jpg" group-title="LIVE", Vegas Golden Knights vs San Jose Sharks - NHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/408/720p/chunks.m3u8?is_vip=false&token=1790218974-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a3dc97d173978e36e4a49f4c8b8b08f8
+#EXTINF:-1 tvg-id="74867" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mammoth%20vs%20Kings.jpg" group-title="LIVE", Mammoth vs Kings - NHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52445/720p/chunks.m3u8?is_vip=false&token=1790218980-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4730698f1d315d3497b1cc476a46fa13
+#EXTINF:-1 tvg-id="74871" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="LIVE", WTA Singapore - WTA Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790218986-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bbf39b8c8d7badd3edbe5a66feb6508e
 
 #----
 #name: Crichd 24/7 live channels
@@ -885,6 +913,10 @@ https://playerso.top/embed2.php?id=criclife1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=gcEkPN9lQKPyjg5xfFPt3w&expires=1790086870&ch=dodosky2&s=8f8b49447aaec4b44359efbf57b8b7c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Australia%20vs%20Tasmania.png" group-title="Australia Domestic One-Day Cup 2026-27", South Australia vs Tasmania - CricGo 6
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo6.m3u8?md5=gKuEjM9abeMqHoC-KspIfQ&expires=1790137241&ch=cricgo6&s=0559afd6aeab5ec6b495b0c953d6518c
 
 #----
 #----
@@ -895,3 +927,35 @@ https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8?hdnea=exp=1790119241~acl=/*~id=50654049683125740759741101629018~hmac=19152f9dbf5f48537d33fcf4b6c3441109e1b44f6c2ee5aed2b2f2809f223c0a
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790119248~acl=/*~id=55665308051033878645085405819405~hmac=22a0a780f5b85701406a2a9a29eaaf9b56210a4e8f8bf2caea9ad0d6a2e32dd6
+
+#----
+#----
+
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024509/1790118509722397_AG26_23Sep_Kabaddi_Womens_Iran_vs_India_live_landscape_thumb.jpg" group-title="Sports", Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8?hdnea=exp=1790164233~acl=/*~id=06813034814210346935956904869424~hmac=9afcb84e7bb25a171c5fe864f722bb5ef1cf49106bff5e2283872eda2dc7dff4
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024509/1790118519420397_AG26_23Sep_Kabaddi_Womens_Iran_vs_India_live_landscape_thumb_hindi.jpg" group-title="Sports", Islamic Republic of Iran vs India - Women's Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8?hdnea=exp=1790164241~acl=/*~id=63709901032545716996518680653785~hmac=0a0e24f9acf0eda2155f0c8b74fbc11fbdbf14a2d76c4dc07f8b0d13f7566214
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Sports", Korea vs Japan - Women's Team Semifinal - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/master.m3u8?hdnea=exp=1790166048~acl=/*~id=15246129503507515786787513858542~hmac=45639e211a29d83f0d2c4fc2f8262e285da97b78882e45fcb6351bebe66be61e
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790128468077_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Singapore vs Indonesia - Women - Hockey - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX1_22209/ENG/master.m3u8?hdnea=exp=1790164233~acl=/*~id=06813034814210346935956904869424~hmac=9afcb84e7bb25a171c5fe864f722bb5ef1cf49106bff5e2283872eda2dc7dff4
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Men's, Women's & Mixed Team Semifinals - Table Tennis - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/master.m3u8?hdnea=exp=1790167834~acl=/*~id=24475982107275841442794529940325~hmac=7923742400a21680619ef27ab9135b4fab1dc2f482d6b94fe4bc6fd79c4d2565
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790123418318_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Republic of Korea vs Japan - Women's Team - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22209/ENG/master.m3u8?hdnea=exp=1790166032~acl=/*~id=57370961555033005109424487827832~hmac=c417c487165a6505b3e22cf406899d6a62e1837d2eb716bb54cca7f550821d3a
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790132477486_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", IR Iran vs India - Women's Team - Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/master.m3u8?hdnea=exp=1790166039~acl=/*~id=45561776413221165919113824248327~hmac=2e0c56d0b7b025f7596f953e0082fad5e8abc339c4864808135785cf97f9e63a
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Women's Final - Weightlifting - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX7_22209/ENG/master.m3u8?hdnea=exp=1790167853~acl=/*~id=77119454312779977916123892471932~hmac=4ff7453ccc307af95c2a76cb1cf41a50ee176f587eb0ebdbff6f2a78a4571200
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's and Women's Semifinals - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX8_22209/ENG/master.m3u8?hdnea=exp=1790167853~acl=/*~id=77119454312779977916123892471932~hmac=4ff7453ccc307af95c2a76cb1cf41a50ee176f587eb0ebdbff6f2a78a4571200
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX6_22209/ENG/master.m3u8?hdnea=exp=1790167868~acl=/*~id=36316965248643635779611209584226~hmac=ea022c1bceaf893ec10313fbcd572794d44a664202645b2e1a55f7aca4494128
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790167846~acl=/*~id=01041633635296815262296202236013~hmac=7c9d568a483706becc5793f1663c0fd7c6b4e17458456ca3820c3baa16296231
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790164241~acl=/*~id=63709901032545716996518680653785~hmac=0a0e24f9acf0eda2155f0c8b74fbc11fbdbf14a2d76c4dc07f8b0d13f7566214
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037140/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790160639~acl=/*~id=60818672024066629157059176778102~hmac=9c2717bc2633f6a2c36c63fe06269eb4875d54bf543dff8a3e366f44c4e94bc9
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Korea vs Japan - Women's Team Semifinal - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790167853~acl=/*~id=77119454312779977916123892471932~hmac=4ff7453ccc307af95c2a76cb1cf41a50ee176f587eb0ebdbff6f2a78a4571200
