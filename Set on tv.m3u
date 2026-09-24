@@ -986,7 +986,7 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=fal
 #EXTINF:-1 tvg-id="67507" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - 2nd ODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790341381-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f050d70ea817007082b443ff3a5de747
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790364885-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a1663a414e825d8f3260c96c55fc0da7
 #EXTINF:-1 tvg-id="70866" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20vs%20Maldives.jpg" group-title="LIVE", China vs Maldives - Friendlies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
@@ -999,6 +999,150 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a995a47dc0bfe20cd611ba4/chu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790341402-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e14538cf554b68545e770d15badff4d0
+#EXTINF:-1 tvg-id="79185" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Chicago%20White%20Sox.jpg" group-title="LIVE", Kansas City Royals vs Chicago White Sox - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790364753-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2cb06af277687009e08ef20960c79efb
+#EXTINF:-1 tvg-id="79186" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Miami%20Marlins.jpg" group-title="LIVE", Chicago Cubs vs Miami Marlins - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790364760-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5cf8ee5b9447ed0f1a6044728722e042
+#EXTINF:-1 tvg-id="79187" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Texas Rangers vs New York Mets - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790364766-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1d266d2fe0b21d388d4bc66354bba6b2
+#EXTINF:-1 tvg-id="66215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Greece.jpg" group-title="LIVE", Serbia vs Greece - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790364773-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d64808df6c73cff6d0862e00f246243b
+#EXTINF:-1 tvg-id="66215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Greece.jpg" group-title="LIVE", Serbia vs Greece - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/chunks.m3u8?is_vip=false&token=1790364778-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-166459e3abc03e9ab0b5be6b05db7c60
+#EXTINF:-1 tvg-id="66215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Greece.jpg" group-title="LIVE", Serbia vs Greece - UEFA Nations League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1790364782-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-117d9e739b6c5f12ccbe6a4f28abdd7d
+#EXTINF:-1 tvg-id="66220" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20vs%20Lithuania.jpg" group-title="LIVE", Liechtenstein vs Lithuania - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/chunks.m3u8?is_vip=false&token=1790364790-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bba2e2a5dd83e475dca92117e49b343e
+#EXTINF:-1 tvg-id="66220" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20vs%20Lithuania.jpg" group-title="LIVE", Liechtenstein vs Lithuania - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/chunks.m3u8?is_vip=false&token=1790364797-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ddfb26311b3d1c0c8e231dbd2b04d43
+#EXTINF:-1 tvg-id="66219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kosovo%20vs%20Rep.%20Of%20Ireland.jpg" group-title="LIVE", Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/chunks.m3u8?is_vip=false&token=1790364802-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f52547bc7154932442fc0654d6cb14f7
+#EXTINF:-1 tvg-id="66219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kosovo%20vs%20Rep.%20Of%20Ireland.jpg" group-title="LIVE", Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5/chunks.m3u8?is_vip=false&token=1790364807-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-23e1a3890ce2bae81970b111cacc3101
+#EXTINF:-1 tvg-id="66218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Israel.jpg" group-title="LIVE", Austria vs Israel - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/chunks.m3u8?is_vip=false&token=1790364813-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4444d3c080c118d35ea5037370447364
+#EXTINF:-1 tvg-id="66218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Israel.jpg" group-title="LIVE", Austria vs Israel - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/chunks.m3u8?is_vip=false&token=1790364818-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-82010bf9e40bf81d68533fc7f1cd78af
+#EXTINF:-1 tvg-id="66217" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Denmark.jpg" group-title="LIVE", Norway vs Denmark - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790364825-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b3ecfa7834a0ad013da00f20e92b54e6
+#EXTINF:-1 tvg-id="66217" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Denmark.jpg" group-title="LIVE", Norway vs Denmark - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7-hd/chunks.m3u8?is_vip=false&token=1790364829-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-277f1e0d9201d763b8442ea52b74c4f6
+#EXTINF:-1 tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="LIVE", Portugal vs Wales - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790364845-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-18bdbc5c39acc78c4cf5050320801166
+#EXTINF:-1 tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="LIVE", Portugal vs Wales - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/chunks.m3u8?is_vip=false&token=1790364849-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0002607c93bec70247caf8e2b2a7f061
+#EXTINF:-1 tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="LIVE", Portugal vs Wales - UEFA Nations League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/chunks.m3u8?is_vip=false&token=1790364852-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5842282eb7fc0911658c664337bb57f6
+#EXTINF:-1 tvg-id="66214" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20vs%20Germany.jpg" group-title="LIVE", Netherlands vs Germany - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/chunks.m3u8?is_vip=false&token=1790364862-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5facf4e7d7327a0e1146445cf57c24f9
+#EXTINF:-1 tvg-id="66214" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20vs%20Germany.jpg" group-title="LIVE", Netherlands vs Germany - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/chunks.m3u8?is_vip=false&token=1790364866-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98d7f81e953d0bd99d72ddb2312a1249
+#EXTINF:-1 tvg-id="79188" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Colorado Rockies vs Arizona Diamondbacks - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790364878-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bd25a09ce69f9680c9b30f9f71404893
+#EXTINF:-1 tvg-id="67556" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%20Day%201.jpg" group-title="LIVE", Chicago | Day 1 - PGA Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790363980-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f18dfa5148f9f027a1bfb243766925c2
+#EXTINF:-1 tvg-id="67546" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crvena%20Zvezda%20Meridianbet%20Belgrade%20vs%20Zalgiris%20Kaunas.jpg" group-title="LIVE", Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790364910-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a07941377994639e1e881a151837eb3b
+#EXTINF:-1 tvg-id="66213" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qatar%20vs%20Bahrain.jpg" group-title="LIVE", Qatar vs Bahrain - Gulf Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790364917-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-15bb61d88737b756ca570e70e3f1cf5e
+#EXTINF:-1 tvg-id="67547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panathinaikos%20AKTOR%20Athens%20vs%20Paris%20Basketball.jpg" group-title="LIVE", Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790364932-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0afe006b54c0884b81b065cd38ba1e06
+#EXTINF:-1 tvg-id="67549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Barcelona%20vs%20Anadolu%20Efes%20Istanbul.jpg" group-title="LIVE", FC Barcelona vs Anadolu Efes Istanbul - EuroLeague
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790364942-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-88de8a85f766ee92e145caca340ba585
+#EXTINF:-1 tvg-id="69929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puerto%20Rico%20vs%20Guyana.jpg" group-title="LIVE", Puerto Rico vs Guyana - CONCACAF Nations League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f9/chunks.m3u8?is_vip=false&token=1790364948-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2fca1f8395f5204f9148fbf295e60bac
+#EXTINF:-1 tvg-id="66226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia%20vs%20Uganda.jpg" group-title="LIVE", Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f8/chunks.m3u8?is_vip=false&token=1790364953-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9dc428a01a3f662292368925f9eb32fe
+#EXTINF:-1 tvg-id="66226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia%20vs%20Uganda.jpg" group-title="LIVE", Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/720p/chunks.m3u8?is_vip=false&token=1790364958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0ffd1a10a813aca518b0e6491aad7fd0
+#EXTINF:-1 tvg-id="66225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sierra%20Leone%20vs%20Zimbabwe.jpg" group-title="LIVE", Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f6/chunks.m3u8?is_vip=false&token=1790364964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-68b452ab5527aeb48bbea39f3f3d5c57
+#EXTINF:-1 tvg-id="66225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sierra%20Leone%20vs%20Zimbabwe.jpg" group-title="LIVE", Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/720p/chunks.m3u8?is_vip=false&token=1790364967-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5fd388d137ecac9958f8a2545b0c0d66
+#EXTINF:-1 tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="LIVE", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f5-hd/chunks.m3u8?is_vip=false&token=1790364975-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6f2eac16d8d62e67885eedc0d7a0f71e
+#EXTINF:-1 tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="LIVE", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f5/chunks.m3u8?is_vip=false&token=1790364982-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2076390fec86103bc184da96e5bd50e4
+#EXTINF:-1 tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="LIVE", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1790364986-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f3556205a4a693c1014a2afcd1368575
+#EXTINF:-1 tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="LIVE", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f7-hd/chunks.m3u8?is_vip=false&token=1790364992-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a4c90562aa05400a075c09eb4e9ef41
+#EXTINF:-1 tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="LIVE", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f7/chunks.m3u8?is_vip=false&token=1790364999-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-44161fec5a0d7661cf32e10b62cbb889
+#EXTINF:-1 tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="LIVE", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/720p/chunks.m3u8?is_vip=false&token=1790365004-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fe31f406a247ed5db2ee0ab2004fce36
 
 #----
 #name: Crichd 24/7 live channels
@@ -1068,27 +1212,27 @@ https://mz01.bhalocast.com:7060/hls/cricgo1.m3u8?md5=PlyhBYHsVdf0HZLZNyzUfQ&expi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=-cLkF2FD55w2TCOymUC2lw&expires=1790259639&ch=willowsd&s=bbb9f1008fb813a3cc97184eedc489f6
+https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=rdNSAngCcYVl_ChJcwi7sg&expires=1790281246&ch=willowsd&s=796ff29df9be40dd21d8c51a42edd30d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Xtra
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=62T8wdm4BPscEjoxuSDvVA&expires=1790259642&ch=wextres5&s=e048870af05eca6564e8734c4d91c4e0
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=W2t5jGz_2gy-vi8cghKO5g&expires=1790281249&ch=wextres5&s=afe6c8bdc2836aab61bc5d5a1aa01a4f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=KozkDQ0dGX5y5SJsf3n4nA&expires=1790259645&ch=ten1co&s=7779abe59ca125e6424f1e2c7f913ea2
+https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=dmG9H9Ok1DTTOFYokR3pDw&expires=1790281255&ch=ten1co&s=ea7c2893f47bb904dcc7097b662ae5bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=VW5C3zkgmyeFG2gxgJjVdQ&expires=1790259647&ch=hdwillos5&s=387b6c879ee8848a8f9b4069e18f9292
+https://mz01.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=IRnu02HxOwObG-QEFNdjBg&expires=1790281258&ch=hdwillos5&s=18491e23a64418d6b43804cb4aeb4075
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - CricLife 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/criclife1.m3u8?md5=4V5ts0wTxj_AoYxahI66xA&expires=1790259650&ch=criclife1&s=b7e36f7a24ac2369aca33e2deafe4775
+https://mz01.bhalocast.com:7060/hls/criclife1.m3u8?md5=6BSgMr9aegZdc4Dlz5ybAg&expires=1790281260&ch=criclife1&s=9157994c1d910a5d08efa11a95605333
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sky Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/dodosky2.m3u8?md5=YpJpl79LPbb2vw2ZiW3W2Q&expires=1790259653&ch=dodosky2&s=1a0e6f20db9cd39e6ff84e49ae955d1d
+https://mz01.bhalocast.com:7060/hls/dodosky2.m3u8?md5=fB3EX0zGx4Ku0QUaXyqAlQ&expires=1790281264&ch=dodosky2&s=79515f3ed570abc26d353b4b36cab148
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1219,3 +1363,21 @@ https://sonydaimenew.akamaized.net/hls/live/2022319/AG_AGMDS2309/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2018458/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790293835~acl=/*~id=51822645245620376576093556478010~hmac=04e338e17cb91c6119e709988c33fd57e76b763301ff4d8ce828077171d06976
 #EXTINF:-1 tvg-id="sonyliv-1090543924" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844988198657_DP_World_Tour_FedEx_Open_de_France_Day1_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 1 - 24 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/master.m3u8?hdnea=exp=1790292062~acl=/*~id=95400735933630856014949973225989~hmac=f79b860d5606f6ef2585f9dbe10ecec7cd14fb2b6c56327039519b3c3ef54058
+
+#----
+#----
+
+#EXTINF:-1 tvg-id="sonyliv-1090543937" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg" group-title="Football", Portugal vs Wales - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/master.m3u8?hdnea=exp=1790317260~acl=/*~id=79767437262495589425266008488527~hmac=ee131d5ec0d385b1101c63ce69840761d1afbed2cf95ec50ce2aa842da17afff
+#EXTINF:-1 tvg-id="sonyliv-1090543938" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023535/1788618296586899_UNL26_Netherlands_vs_Germany_live_landscape_thumb.jpg" group-title="Football", Netherlands vs Germany - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2409/ENG/master.m3u8?hdnea=exp=1790317268~acl=/*~id=56215624117035763547618140385831~hmac=38a269dfa265d4ff448e08441c3712ab6e7fbda36d1100858622b86ffedd95d7
+#EXTINF:-1 tvg-id="sonyliv-1090543944" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg" group-title="Football", Norway vs Denmark - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/master.m3u8?hdnea=exp=1790317278~acl=/*~id=88838315128847821834256271674771~hmac=482dac42672f3d6c05c150febb65994eef1d124144bf3bf9cc02b51873b15a85
+#EXTINF:-1 tvg-id="sonyliv-1090543943" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023537/178862115308953_UNL26_Serbia_vs_Greece_live_landscape_thumb.jpg" group-title="Football", Serbia vs Greece - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2409/ENG/master.m3u8?hdnea=exp=1790319038~acl=/*~id=59585973361778962277548205606026~hmac=a45c2f1efbc43a748b8279857a09ccb3403456d54920d5dc00ed761b0f7a1c72
+#EXTINF:-1 tvg-id="sonyliv-1090543947" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023553/1788630525483440_UNL26_Austria_vs_Israel_live_landscape_thumb.jpg" group-title="Football", Austria vs Israel - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037141/footlive2409/ENG/master.m3u8?hdnea=exp=1790317306~acl=/*~id=70425131978046743609164957780282~hmac=69489396b58f747b5e7b875a8877bdd3f4810cd804dcc04620c6a77b2cdab2a1
+#EXTINF:-1 tvg-id="sonyliv-1090543948" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023559/178863630759699_UNL26_Kosovo_vs_Republic_of_Ireland_live_landscape_thumb.jpg" group-title="Football", Kosovo vs Republic of Ireland - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/master.m3u8?hdnea=exp=1790317323~acl=/*~id=40655376014218349761650836882736~hmac=9271b0f760c910823252b1038b66bcc6ad4eabb4e6dfac091e84418820a96878
+#EXTINF:-1 tvg-id="sonyliv-1090543949" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023560/1788637005172990_UNL26_Liechtenstein_vs_Lithuania_live_landscape_thumb.jpg" group-title="Football", Liechtenstein vs Lithuania - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2409/ENG/master.m3u8?hdnea=exp=1790317340~acl=/*~id=45026087936546150401395916236391~hmac=6a0ed08fc81d6c98e7ce116c7ed3e5fffe9b7b1e1efe52a5e567464cfef5e1b7
