@@ -114,6 +114,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1", T Sports HD 2
+http://198.195.239.50:8095/T-SPORTS-HD/tracks-a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1", NEXUS TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
@@ -605,7 +608,7 @@ http://5anhjevb.gts1fer.xyz:80/live/vf820855/7mVmNP3psb9C/1305267.ts
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373198&extension=m3u8
+http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8  http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373198&extension=m3u8
 
 
 
