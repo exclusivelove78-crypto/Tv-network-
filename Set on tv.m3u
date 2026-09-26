@@ -64,9 +64,9 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1", Independent TV
+http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts
 
 
 
@@ -300,6 +300,7 @@ http://202.70.146.135:8000/play/a00b/index.m3u8
 http://103.180.212.191:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
+http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8
 #https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 
@@ -336,6 +337,7 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
+http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
 http://66.102.126.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
@@ -344,8 +346,9 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movies" tvg-server="Server 1", ZEE CINEMA HD
+http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/230.ts
+
 
 
 
@@ -382,10 +385,12 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
+http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
@@ -446,12 +451,17 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM
+http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
+
+#EXTINF:-1 , ZOOM 
+http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-name="E24" group-title="Music",E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music" tvg-server="Server 1", Sangeet Bangla
+http://198.195.239.50:8095/sangeetBangla/index.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
