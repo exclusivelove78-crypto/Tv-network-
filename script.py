@@ -7,9 +7,9 @@ import requests
 
 MAIN_FILE = "Set on tv.m3u"
 
-#--
-# Live sports data
-#----
+# =========================================================
+# SOURCE LINKS
+# =========================================================
 
 SOURCE_LINKS = [
     os.environ.get("SOURCE_M3U_1"),
@@ -28,21 +28,10 @@ LIVE_SPORTS_SEPARATOR = "--------------Live Sports----------"
 
 
 # =========================================================
-# SOURCE HEADER
+# GET SOURCE HEADER
 # =========================================================
 
 def get_source_header(text):
-    """
-    Source থেকে শুধু এই 2টি line নেওয়া হবে:
-
-    #name: ...
-    #last update time: ...
-
-    এগুলো নেওয়া হবে না:
-    #telegram:
-    #owner:
-    #special thanks to:
-    """
 
     name_line = ""
     last_update_line = ""
@@ -50,22 +39,19 @@ def get_source_header(text):
     for line in text.splitlines():
 
         stripped = line.strip()
-
         lower = stripped.lower()
 
         if lower.startswith("#name:"):
-
             name_line = line
 
         elif lower.startswith("#last update time:"):
-
             last_update_line = line
 
     return name_line, last_update_line
 
 
 # =========================================================
-# EXTINF ATTRIBUTES
+# EXTINF ATTRIBUTE
 # =========================================================
 
 def get_attr(extinf, attr):
@@ -110,9 +96,6 @@ def get_channel_key(extinf):
 
         display_name = ""
 
-    # Same tvg-id but different name
-    # = different channel
-
     if tvg_id and tvg_name:
 
         return (
@@ -147,27 +130,10 @@ def get_channel_key(extinf):
 
 
 # =========================================================
-# PARSE SOURCE CHANNELS
+# PARSE SOURCE
 # =========================================================
 
 def parse_source(text):
-    """
-    Source-এর channel block:
-
-    #EXTINF
-    #EXTVLCOPT
-    #EXTVLCOPT
-    URL
-
-    source থেকে হুবহু নেওয়া হবে।
-
-    Global header:
-    #telegram
-    #owner
-    #special thanks
-
-    channel block-এর মধ্যে থাকলেও বাদ দেওয়া হবে।
-    """
 
     lines = text.splitlines()
 
@@ -193,14 +159,12 @@ def parse_source(text):
 
                 # Next channel
                 if line.startswith("#EXTINF:"):
-
                     break
 
                 stripped = line.strip()
-
                 lower = stripped.lower()
 
-                # Global source information বাদ
+                # These NEVER enter main playlist
                 if (
                     lower.startswith("#telegram:")
                     or lower.startswith("#owner:")
@@ -210,7 +174,7 @@ def parse_source(text):
                     j += 1
                     continue
 
-                # First normal line = stream URL
+                # Stream URL
                 if (
                     stripped
                     and not line.lstrip().startswith("#")
@@ -222,7 +186,7 @@ def parse_source(text):
 
                     break
 
-                # EXT-related lines exactly preserve
+                # EXT-related lines
                 block.append(line)
 
                 j += 1
@@ -260,79 +224,20 @@ def download_source(url):
         response.raise_for_status()
 
         if not response.text.strip():
-
             return None
 
         return response.text
 
     except Exception as e:
 
-        print("[WARNING] Source failed")
+        print("[WARNING] Source failed:")
         print(e)
 
         return None
 
 
 # =========================================================
-# FIND EXISTING CHANNELS
-# =========================================================
-
-def find_existing_channels(lines):
-
-    channels = []
-
-    i = 0
-
-    while i < len(lines):
-
-        if lines[i].startswith("#EXTINF:"):
-
-            extinf_index = i
-
-            url_index = None
-
-            j = i + 1
-
-            while j < len(lines):
-
-                candidate = lines[j].strip()
-
-                if candidate.startswith("#EXTINF:"):
-
-                    break
-
-                if (
-                    candidate
-                    and not candidate.startswith("#")
-                ):
-
-                    url_index = j
-
-                    break
-
-                j += 1
-
-            if url_index is not None:
-
-                channels.append({
-                    "extinf_index": extinf_index,
-                    "url_index": url_index,
-                    "key": get_channel_key(
-                        lines[extinf_index]
-                    ),
-                    "extinf": lines[extinf_index],
-                    "url": lines[url_index],
-                })
-
-                i = url_index
-
-        i += 1
-
-    return channels
-
-
-# =========================================================
-# SOURCE SECTION
+# FIND SOURCE SECTIONS
 # =========================================================
 
 def find_source_sections(lines):
@@ -346,7 +251,6 @@ def find_source_sections(lines):
         if lines[i].strip() == "#----":
 
             start = i
-
             header_end = None
 
             j = i + 1
@@ -356,7 +260,6 @@ def find_source_sections(lines):
                 if lines[j].strip() == "#----":
 
                     header_end = j
-
                     break
 
                 j += 1
@@ -373,6 +276,8 @@ def find_source_sections(lines):
 
         i += 1
 
+    # Each section ends immediately before
+    # the next section.
     for n in range(len(sections) - 1):
 
         sections[n]["end"] = (
@@ -383,7 +288,7 @@ def find_source_sections(lines):
 
 
 # =========================================================
-# SOURCE SECTION NAME
+# GET SECTION NAME
 # =========================================================
 
 def get_section_name(lines, section):
@@ -395,14 +300,14 @@ def get_section_name(lines, section):
 
         line = lines[i].strip()
 
-        if line.startswith("#name:"):
+        if line.lower().startswith("#name:"):
 
             return line.split(
                 ":",
                 1
             )[1].strip()
 
-        if line.startswith("# ") :
+        if line.startswith("# "):
 
             value = line[2:].strip()
 
@@ -419,7 +324,7 @@ def get_section_name(lines, section):
 
 
 # =========================================================
-# FIND MATCHING SOURCE SECTION
+# FIND SOURCE SECTION
 # =========================================================
 
 def find_matching_source_section(
@@ -428,7 +333,6 @@ def find_matching_source_section(
 ):
 
     if not source_name:
-
         return None
 
     source_name_lower = (
@@ -445,13 +349,81 @@ def find_matching_source_section(
         )
 
         if (
-            section_name.lower()
+            section_name.strip().lower()
             == source_name_lower
         ):
 
             return section
 
     return None
+
+
+# =========================================================
+# BUILD NEW SOURCE SECTION
+# =========================================================
+
+def build_source_section(
+    name_line,
+    last_update_line,
+    channels
+):
+
+    new_section = []
+
+    new_section.append("#----")
+
+    if name_line:
+        new_section.append(name_line)
+
+    if last_update_line:
+        new_section.append(last_update_line)
+
+    new_section.append("#----")
+
+    new_section.append("")
+
+    for channel in channels:
+
+        new_section.extend(
+            channel["block"]
+        )
+
+    return new_section
+
+
+# =========================================================
+# REPLACE EXISTING SOURCE SECTION
+# =========================================================
+
+def replace_source_section(
+    lines,
+    section,
+    name_line,
+    last_update_line,
+    channels
+):
+
+    new_section = build_source_section(
+        name_line,
+        last_update_line,
+        channels
+    )
+
+    start = section["start"]
+    end = section["end"]
+
+    # IMPORTANT:
+    #
+    # Only this source section is replaced.
+    #
+    # Everything before and after it stays
+    # exactly where it was.
+
+    lines[
+        start:end + 1
+    ] = new_section
+
+    return lines
 
 
 # =========================================================
@@ -466,16 +438,18 @@ def append_new_source_section(
 ):
 
     if not channels:
-
         return lines
 
-    # Keep existing file untouched as much as possible.
+    # Existing playlist-এর শেষের formatting
+    # unnecessarily modify করা হবে না.
+
     if lines and lines[-1].strip():
 
         lines.append("")
 
     separator_exists = any(
-        line.strip() == LIVE_SPORTS_SEPARATOR
+        line.strip()
+        == LIVE_SPORTS_SEPARATOR
         for line in lines
     )
 
@@ -491,69 +465,13 @@ def append_new_source_section(
 
         lines.append("")
 
-    # Source header
-    lines.append("#----")
-
-    if name_line:
-
-        lines.append(name_line)
-
-    if last_update_line:
-
-        lines.append(last_update_line)
-
-    lines.append("#----")
-
-    lines.append("")
-
-    # Source channel blocks EXACTLY
-    for channel in channels:
-
-        lines.extend(
-            channel["block"]
-        )
-
-    return lines
-
-
-# =========================================================
-# APPEND TO EXISTING SOURCE SECTION
-# =========================================================
-
-def append_to_existing_source(
-    lines,
-    section,
-    channels
-):
-
-    if not channels:
-
-        return lines
-
-    insert_at = (
-        section["end"] + 1
+    new_section = build_source_section(
+        name_line,
+        last_update_line,
+        channels
     )
 
-    # Existing trailing blank lines preserve
-    while (
-        insert_at > section["header_end"]
-        and lines[insert_at - 1].strip() == ""
-    ):
-
-        insert_at -= 1
-
-    new_lines = []
-
-    for channel in channels:
-
-        # Entire source block unchanged
-        new_lines.extend(
-            channel["block"]
-        )
-
-    lines[
-        insert_at:insert_at
-    ] = new_lines
+    lines.extend(new_section)
 
     return lines
 
@@ -584,41 +502,17 @@ def main():
         original_text = "#EXTM3U\n"
 
     # -------------------------------------------------------
-    # Preserve original lines
+    # IMPORTANT:
+    # splitlines() changes internal representation only.
+    # We write the file only if actual resulting text
+    # is different.
     # -------------------------------------------------------
 
     lines = original_text.splitlines()
 
     # -------------------------------------------------------
-    # Existing channels
+    # PROCESS EACH SOURCE
     # -------------------------------------------------------
-
-    existing_channels = (
-        find_existing_channels(lines)
-    )
-
-    channel_map = {}
-
-    # First occurrence wins
-    for channel in existing_channels:
-
-        key = channel["key"]
-
-        if key is None:
-
-            continue
-
-        if key not in channel_map:
-
-            channel_map[key] = channel
-
-    # -------------------------------------------------------
-    # Process sources
-    # -------------------------------------------------------
-
-    new_channels_by_source = []
-
-    playlist_changed = False
 
     for source_number, source_url in enumerate(
         SOURCE_LINKS,
@@ -626,7 +520,6 @@ def main():
     ):
 
         if not source_url:
-
             continue
 
         print(
@@ -637,19 +530,36 @@ def main():
             source_url
         )
 
+        # ---------------------------------------------------
+        # If source fails:
+        #
+        # DO NOT DELETE OLD SOURCE.
+        #
+        # This is very important.
+        # ---------------------------------------------------
+
         if source_text is None:
 
             print(
-                "[INFO] Source skipped."
+                "[INFO] Source failed. "
+                "Old section kept unchanged."
             )
 
             continue
+
+        # ---------------------------------------------------
+        # SOURCE HEADER
+        # ---------------------------------------------------
 
         name_line, last_update_line = (
             get_source_header(
                 source_text
             )
         )
+
+        # ---------------------------------------------------
+        # SOURCE CHANNELS
+        # ---------------------------------------------------
 
         source_channels = parse_source(
             source_text
@@ -658,164 +568,24 @@ def main():
         if not source_channels:
 
             print(
-                "[INFO] No channels found."
+                "[INFO] Source returned "
+                "no channels. "
+                "Old section kept unchanged."
             )
 
             continue
 
         print(
-            f"[INFO] Found "
+            f"[INFO] Source has "
             f"{len(source_channels)} channels."
         )
 
-        new_channels = []
-
         # ---------------------------------------------------
-        # Process each channel
+        # SOURCE NAME
         # ---------------------------------------------------
 
-        for source_channel in source_channels:
+        source_name = ""
 
-            key = source_channel["key"]
-
-            # ------------------------------------------------
-            # Existing channel
-            # ------------------------------------------------
-
-            if (
-                key is not None
-                and key in channel_map
-            ):
-
-                existing = channel_map[key]
-
-                # ONLY URL changes.
-                # EXTINF / VLCOPT untouched.
-                if (
-                    existing["url"]
-                    != source_channel["url"]
-                ):
-
-                    print(
-                        f"[UPDATE] URL changed: {key}"
-                    )
-
-                    lines[
-                        existing["url_index"]
-                    ] = source_channel["url"]
-
-                    existing["url"] = (
-                        source_channel["url"]
-                    )
-
-                    playlist_changed = True
-
-                continue
-
-            # ------------------------------------------------
-            # New channel
-            # ------------------------------------------------
-
-            new_channels.append(
-                source_channel
-            )
-
-            if key is not None:
-
-                channel_map[key] = (
-                    source_channel
-                )
-
-            playlist_changed = True
-
-        if new_channels:
-
-            new_channels_by_source.append({
-                "name_line": name_line,
-                "last_update_line": last_update_line,
-                "channels": new_channels,
-            })
-
-    # ========================================================
-    # REMOVE DUPLICATE SOURCE CHANNELS
-    # ========================================================
-
-    current_channels = (
-        find_existing_channels(lines)
-    )
-
-    seen = set()
-
-    remove_indexes = set()
-
-    source_sections = (
-        find_source_sections(lines)
-    )
-
-    for channel in current_channels:
-
-        key = channel["key"]
-
-        if key is None:
-
-            continue
-
-        if key in seen:
-
-            # Duplicate only removed when it is
-            # inside a source section.
-            inside_source = False
-
-            for section in source_sections:
-
-                if (
-                    section["start"]
-                    <= channel["extinf_index"]
-                    <= section["end"]
-                ):
-
-                    inside_source = True
-                    break
-
-            if inside_source:
-
-                remove_indexes.add(
-                    channel["extinf_index"]
-                )
-
-                remove_indexes.add(
-                    channel["url_index"]
-                )
-
-                playlist_changed = True
-
-        else:
-
-            seen.add(key)
-
-    # Remove from bottom
-    for index in sorted(
-        remove_indexes,
-        reverse=True
-    ):
-
-        del lines[index]
-
-    # ========================================================
-    # APPEND NEW CHANNELS
-    # ========================================================
-
-    for source in new_channels_by_source:
-
-        name_line = source["name_line"]
-
-        last_update_line = (
-            source["last_update_line"]
-        )
-
-        new_channels = source["channels"]
-
-        # Source name থেকে section match
         if name_line:
 
             source_name = (
@@ -825,37 +595,93 @@ def main():
                 )[1].strip()
             )
 
-            section = (
-                find_matching_source_section(
-                    lines,
-                    source_name
-                )
-            )
+        # ---------------------------------------------------
+        # FIND EXISTING SOURCE SECTION
+        # ---------------------------------------------------
 
-        else:
+        section = find_matching_source_section(
+            lines,
+            source_name
+        )
 
-            section = None
+        # ---------------------------------------------------
+        # EXISTING SOURCE
+        # ---------------------------------------------------
 
         if section is not None:
 
-            lines = append_to_existing_source(
-                lines,
-                section,
-                new_channels
+            old_channel_count = 0
+
+            for line in lines[
+                section["start"]:
+                section["end"] + 1
+            ]:
+
+                if line.startswith("#EXTINF:"):
+                    old_channel_count += 1
+
+            print(
+                f"[INFO] Replacing source section: "
+                f"{source_name}"
             )
 
+            print(
+                f"[INFO] Old channels: "
+                f"{old_channel_count}"
+            )
+
+            print(
+                f"[INFO] New channels: "
+                f"{len(source_channels)}"
+            )
+
+            # -----------------------------------------------
+            # THIS IS THE IMPORTANT PART
+            #
+            # Old source section is completely removed.
+            # New source section is inserted.
+            #
+            # Therefore:
+            #
+            # OLD channel gone from source
+            # -> OLD channel gone from main playlist
+            #
+            # OLD URL
+            # -> gone
+            #
+            # NEW URL
+            # -> inserted
+            # -----------------------------------------------
+
+            lines = replace_source_section(
+                lines,
+                section,
+                name_line,
+                last_update_line,
+                source_channels
+            )
+
+        # ---------------------------------------------------
+        # NEW SOURCE
+        # ---------------------------------------------------
+
         else:
+
+            print(
+                f"[INFO] New source section: "
+                f"{source_name}"
+            )
 
             lines = append_new_source_section(
                 lines,
                 name_line,
                 last_update_line,
-                new_channels
+                source_channels
             )
 
-    # ========================================================
-    # WRITE ONLY IF CHANGED
-    # ========================================================
+    # =======================================================
+    # CREATE FINAL TEXT
+    # =======================================================
 
     new_text = "\n".join(lines)
 
@@ -863,6 +689,10 @@ def main():
     if original_text.endswith("\n"):
 
         new_text += "\n"
+
+    # =======================================================
+    # WRITE ONLY WHEN ACTUALLY CHANGED
+    # =======================================================
 
     if new_text != original_text:
 
@@ -882,8 +712,11 @@ def main():
     else:
 
         print(
-            "[INFO] No changes. "
-            "File was not rewritten."
+            "[INFO] No changes."
+        )
+
+        print(
+            "[INFO] Main playlist was NOT rewritten."
         )
 
 
