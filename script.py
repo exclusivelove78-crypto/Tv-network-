@@ -41,8 +41,9 @@ def get_source_header(text):
         stripped = line.strip()
         lower = stripped.lower()
 
-        if lower.startswith("#name:")
-            or lower.startswith("# name:") 
+        if (
+            lower.startswith("#name:")
+            or lower.startswith("# name:")
         ):
             name_line = line
 
@@ -302,10 +303,10 @@ def get_section_name(lines, section):
 
         line = lines[i].strip()
 
-        if line.lower().startswith("# name:")
-            or lower.startswith("#name:") 
+        if (
+            line.lower().startswith("# name:")
+            or line.lower().startswith("#name:")
         ):
-
             return line.split(
                 ":",
                 1
@@ -321,7 +322,6 @@ def get_section_name(lines, section):
                     "updated time:"
                 )
             ):
-
                 return value
 
     return ""
