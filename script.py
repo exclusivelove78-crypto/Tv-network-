@@ -42,7 +42,8 @@ def get_source_header(text):
         lower = stripped.lower()
 
         if lower.startswith("#name:")
-            or lower.startswith("# name:") ):
+            or lower.startswith("# name:") 
+        ):
             name_line = line
 
         elif lower.startswith("#last update time:"):
@@ -302,7 +303,8 @@ def get_section_name(lines, section):
         line = lines[i].strip()
 
         if line.lower().startswith("# name:")
-            or lower.startswith("#name:") ):
+            or lower.startswith("#name:") 
+        ):
 
             return line.split(
                 ":",
