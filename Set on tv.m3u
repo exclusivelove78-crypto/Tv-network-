@@ -766,18 +766,117 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #----
 #name: Axsports Auto Update Playlist
-#last update time: 6:47:23 PM 27-09-2026
+#last update time: 1:21:11 AM 28-09-2026
 #----
 
-#EXTINF:-1 tvg-id="85157" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="LIVE", ATP Chengdu - ATP Chengdu
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1790498564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-289460a8eda692052a150c42e2dcf9d4
-#EXTINF:-1 tvg-id="85159" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="LIVE", ATP Hangzhou - ATP Hangzhou
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1790497654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a5ea4190b5baad12dfaf39a7290f50f
-#EXTINF:-1 tvg-id="70015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India%20vs%20West%20Indies.jpg" group-title="LIVE", India vs West Indies - 1st ODI
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790498626-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-60951da20b7f36618a134fe511e6212c
+#EXTINF:-1 tvg-id="79782" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers.jpg" group-title="LIVE", Buffalo Bills vs Los Angeles Chargers - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52456%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79790" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots.jpg" group-title="LIVE", Jacksonville Jaguars vs New England Patriots - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52464%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79789" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Seattle%20Seahawks.jpg" group-title="LIVE", Washington Commanders vs Seattle Seahawks - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52463%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79788" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals.jpg" group-title="LIVE", Pittsburgh Steelers vs Cincinnati Bengals - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52462%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79783" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Browns%20vs%20Carolina%20Panthers.jpg" group-title="LIVE", Cleveland Browns vs Carolina Panthers - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52457%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79784" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Lions%20vs%20New%20York%20Jets.jpg" group-title="LIVE", Detroit Lions vs New York Jets - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52458%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79785" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indianapolis%20Colts%20vs%20Houston%20Texans.jpg" group-title="LIVE", Indianapolis Colts vs Houston Texans - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52459%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79787" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Tennessee%20Titans.jpg" group-title="LIVE", New York Giants vs Tennessee Titans - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52461%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79786" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs.jpg" group-title="LIVE", Miami Dolphins vs Kansas City Chiefs - NFL
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52460%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Washington Nationals vs New York Mets - MLB
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55835%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67481" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg" group-title="LIVE", Israel vs Rep. Of Ireland - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5215-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67481" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg" group-title="LIVE", Israel vs Rep. Of Ireland - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5215%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67480" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg" group-title="LIVE", Norway vs Portugal - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5216-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67480" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg" group-title="LIVE", Norway vs Portugal - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5216%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67479" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg" group-title="LIVE", Germany vs Greece - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5217-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67479" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg" group-title="LIVE", Germany vs Greece - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5217%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79228" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Tampa%20Bay%20Rays.jpg" group-title="LIVE", Philadelphia Phillies vs Tampa Bay Rays - MLB
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55840%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="79226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", San Francisco Giants vs Los Angeles Dodgers - MLB
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55839%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67470" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg" group-title="LIVE", U.N.A.M. - Pumas vs Atletico San Luis - Liga MX [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520b-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67470" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg" group-title="LIVE", U.N.A.M. - Pumas vs Atletico San Luis - Liga MX [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520b%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67472" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puebla%20W%20vs%20Monterrey%20W.jpg" group-title="LIVE", Puebla W vs Monterrey W - Liga MX Femenil
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520e%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67473" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20vs%20United%20Arab%20Emirates.jpg" group-title="LIVE", Bahrain vs United Arab Emirates - Gulf Cup of Nations
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520f%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="70071" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg" group-title="LIVE", TBA vs TBA - WNBA
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F510821%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="69947" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guyana%20vs%20Cayman%20Islands.jpg" group-title="LIVE", Guyana vs Cayman Islands - CONCACAF Nations League
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9fe3b95c0020a997ffc998%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67486" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg" group-title="LIVE", Oviedo vs Sporting Gijon - Segunda División [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735-fancode%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="67486" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg" group-title="LIVE", Oviedo vs Sporting Gijon - Segunda División [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
+#EXTINF:-1 tvg-id="70103" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%20Day%204.jpg" group-title="LIVE", Chicago | Day 4 - PGA Tour
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F287%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D
 #----
 #name: Crichd 24/7 live channels
 #last update time: 07:02:19 PM 27-09-2026
@@ -843,23 +942,9 @@ https://mz02.bhalocast.com:7060/hls/dodosky2.m3u8?md5=FSwQn4PIhhrH5LxsgP0GlA&exp
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090545053" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025065/1790514203659101_AG26_Generic_live_landscape_thumb_clean.jpg" group-title="Sports", Day 9 - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/AG_strea2709/ENG/master.m3u8?hdnea=exp=1790554841~acl=/*~id=68326701250436770933672825905347~hmac=7de4781578b23691956d7335bc069a53cc845fc7dbfa32894477e118755abeb9
-#EXTINF:-1 tvg-id="sonyliv-1090544843" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg" group-title="Cricket", 3rd ODI - 27 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/master.m3u8?hdnea=exp=1790544032~acl=/*~id=94549746042195441414919381662442~hmac=95e09da6d7e4a59ae5f2740e0effa5928c46e5a24f6d0caec0fa865e3f3e91da
-#EXTINF:-1 tvg-id="sonyliv-1090544845" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025003/1790479514944310_Lavercup26_Cobolli_Mensik_vs_deMinaur_Fritz_day3_S1_landscape_thumb.jpg" group-title="Tennis", Cobolli/Mensik vs de Minaur/Fritz - Day 3 - Session 1 - 27 Sep 2026 | Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/master.m3u8?hdnea=exp=1790549436~acl=/*~id=98862390410023550836936546842121~hmac=091505630495c62d603898ba9e96f008fc17a1e34a2727d2fc7715a6935a9816
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/AG_MDS1_2709/ENG/master.m3u8?hdnea=exp=1790558438~acl=/*~id=09815392095130694158243541282795~hmac=186525542cd5dfc71a198d1d84aebfb7f358bbb543577e01f2eda44cce626a47
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790508985334_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", WANG vs SUN - Women's Singles - Table Tennis - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX5_22709/ENG/master.m3u8?hdnea=exp=1790556635~acl=/*~id=04854563185923557216503288717913~hmac=dbd07f113ea2d5aa1de9ab1a46c7d2edf973b646bd7863c2e24069c82fa314e0
-#EXTINF:-1 tvg-id="sonyliv-1090544865" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032547188628_UNL2627_Lithuania_vs_Azerbaijan_landscape_thumb.jpg" group-title="Football", Lithuania vs Azerbaijan - 27 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120302/footlive2709/ENG/master.m3u8?hdnea=exp=1790554875~acl=/*~id=95816831027354962885806280937627~hmac=6d440868940ca3d2f27845984303108b6923db041bffe966ddd3f8d6b7a1f9f7
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8?hdnea=exp=1790553031~acl=/*~id=63797574805889858158325049203287~hmac=2a7cedebe815730d5868cad670f5bab3e7ba528914ca5ad7da6005d20b2edf32
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293150940348_AG26_Baseball_pictogram_landscape_thumb.jpg" group-title="Baseball", Baseball - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_MDS3_2609/ENG/master.m3u8?hdnea=exp=1790554883~acl=/*~id=04450182104189775280777557252877~hmac=c41be720e7baf98d5844c89766502344f3d593a35e9ce98f20900a8d423f5eda
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/master.m3u8?hdnea=exp=1790545831~acl=/*~id=97689321005122329663584087739744~hmac=de3a902fcbd2e51d43f5c17d8820f227dfb402e3481b3ec6aaa07d3857c38017
-#EXTINF:-1 tvg-id="sonyliv-1090544844" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844966332657_DP_World_Tour_FedEx_Open_de_France_Day4_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 4 - 27 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/master.m3u8?hdnea=exp=1790547641~acl=/*~id=99942259528161264500458548336024~hmac=8aa954c30ba0cde166b0f700b10853649214d8dbdfbd702e6aaa8ab3e51f65d0
+#EXTINF:-1 tvg-id="sonyliv-1090544916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Football", Norway vs Portugal - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2
+#EXTINF:-1 tvg-id="sonyliv-1090544915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Football", Germany vs Greece - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781
+#EXTINF:-1 tvg-id="sonyliv-1090544917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Football", Israel vs Republic of Ireland - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03
