@@ -606,12 +606,14 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
+#https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 #https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+http://198.195.239.50:8095/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
@@ -623,12 +625,12 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373198&exte
 
 
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-
+http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 
@@ -646,7 +648,7 @@ https://m3uworld4k.s.gy/ssport2hd.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/213049.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3
-http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:40:2B&stream=373203&extension=m3u8
+http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 
@@ -687,10 +689,11 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="ASports.pk" tvg-name="A Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1", A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PTV-SPORTS.png" group-title="Sports" , PTV SPORTS HD
 https://flussonic.defineatoz.com/PTV/index.m3u8
-http://line.4k-beast.top:80/live/LeeMartins/4DD741/99708.ts
+http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1", ESPN Premium
