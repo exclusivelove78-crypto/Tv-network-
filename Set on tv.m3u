@@ -798,86 +798,64 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=d7de44e18df82585d0
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=d7de44e18df82585d005842ae4a5103dfbf8866a&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead524b%2Fchunks.m3u8&verify=1790596800-CRBRQvVuPfhsO%2BltN1Mp5HwVO4I8mMKTN%2FMfrGL%2FauA%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 07:02:19 PM 27-09-2026
+#last update time: 08:32:26 PM 30-09-2026
 #----
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Willow Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Willow Xtra
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=-DG6IVdHUzWEbVL_sWR96A&expires=1790518873&ch=wextres5&s=6bd21b090d13dea9db2daf2d597a70e5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - A Sports HD
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=FMhTNeMaBHHE7L_2wrlI_w&expires=1790781644&ch=wextres5&s=50f6b666d0927a3b2087a14ab07205f8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - A Sports HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/asportspk.m3u8?md5=WCc0McPsMaqXQAxxe3-WFQ&expires=1790518876&ch=asportspk&s=6176460ad77d7da9fab436f5a8a5742e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - CricGo 5
+https://mz01.bhalocast.com:7060/hls/asportspk.m3u8?md5=LS6fREGaIW68gAMjEI6CIw&expires=1790781649&ch=asportspk&s=32f3323bac92c3e1cd2dd75ffc07256a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - CricGo 5
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/cricgo5.m3u8?md5=Ho_7mLweZr9lkBiaC8D-9w&expires=1790518880&ch=cricgo5&s=ecf9274ebb853d02108bc6284c03a877
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Fox Cricket
+https://mz01.bhalocast.com:7060/hls/cricgo5.m3u8?md5=Y0owmZm-H13IhXkbhZ0Czw&expires=1790781651&ch=cricgo5&s=b55d9ef6d8d9d38031fa351c1f1be1e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Fox Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=sZASRxmdd_A3FTqWea5EVA&expires=1790518882&ch=cf0sp1&s=42a7b85ee768a061295e5ba4fd9ccd69
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Sky Cricket
+https://mz02.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=fhLT7efP1Fj51YsnOIxtlw&expires=1790781656&ch=cf0sp1&s=888bb5dcd880b9a136a5b659f2956fbf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Sky Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/dadoskymoxo.m3u8?md5=sybVGnSaYKLomtKEhRrShg&expires=1790518887&ch=dadoskymoxo&s=a8343096d1950abdb68c730c208da869
+https://mz02.bhalocast.com:7060/hls/dodosky2.m3u8?md5=wc99BONQAD-KrsAsKDaw6A&expires=1790781659&ch=dodosky2&s=d697d25ba2c6b34064ee24b7e157a463
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=PcPf3Bpv4Lk0zg4uEGVL3g&expires=1790518891&ch=willowsd&s=d859babd815ae97ece7747c42f65891b
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=8tVnOlqCbkjPyEvLbE4qhA&expires=1790781663&ch=willowsd&s=5310e09cb68b0b1280b3d1dec51cb8a7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Star Sports 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/star2cl5.m3u8?md5=Dp1atZ6rKNIquvOtcQy6Zg&expires=1790518893&ch=star2cl5&s=dcf50f316aaa6ad5f6c6dd4985d7fcc9
+https://mz02.bhalocast.com:7060/hls/star2cl5.m3u8?md5=hrTY5n_ePRxitJqbal8iJw&expires=1790781667&ch=star2cl5&s=0c451e34b0d877dc904ad4a79ce08db9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Star Sports Hindi
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/str1lhil5.m3u8?md5=mmNPbuan7ueq8xXl4RicFA&expires=1790518897&ch=str1lhil5&s=74c82b7576b2586f62e9128de5b0b856
+https://mz02.bhalocast.com:7060/hls/str1lhil5.m3u8?md5=1iWscaiRRT2THplNHdmB3w&expires=1790781670&ch=str1lhil5&s=bdf16ed62b3acaa872935ae9c2eb3f29
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=EAM7qgb-41-7_hUQkfbsIA&expires=1790518899&ch=hdwillos5&s=bb933deaa691ba509f58c025f3830e87
+https://mz02.bhalocast.com:7060/hls/willowhd.m3u8?md5=juAGTOnIGhDwHHaGMl8RMA&expires=1790781678&ch=willowhd&s=4beb023e84c7c4a51a837f235422721e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Astro Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/astrocric.m3u8?md5=LNnJDrbDinHwDssnOOckrA&expires=1790518902&ch=astrocric&s=67f4f62e85830a81695377de38f2c8bd
+https://mz02.bhalocast.com:7060/hls/astrocric.m3u8?md5=_cNjuCJMjDWUqIeNoc1pgQ&expires=1790781683&ch=astrocric&s=54f432fc8f5ed804205f885359d8f427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - TNT Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/bbtsip5.m3u8?md5=U0GGycyHIS18RIIPrhszdg&expires=1790518904&ch=bbtsip5&s=d3f9dcc25922d33fdd1bddd900fd8c03
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="Sri Lanka tour of England, 2026", England vs Sri Lanka - Sony Sports Ten 1
+https://mz02.bhalocast.com:7060/hls/bbtsip1.m3u8?md5=QMqaSMHxgmOL09of2n5gwQ&expires=1790781687&ch=bbtsip1&s=dce7a6bdb8705518ae9d8adbdbd61fdd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Star Sports 1 Tamil
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=giUpP399ttnS98jlb98TVw&expires=1790518908&ch=ten1co&s=35a21a5e62c010eaefbdfc30b1561889
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="Sri Lanka tour of England, 2026", England vs Sri Lanka - CricLife 1
+https://mz01.bhalocast.com:7060/hls/star1tamil5.m3u8?md5=APZNN7Hjsv2YAfUQgjdEnA&expires=1790781691&ch=star1tamil5&s=7e5126d7e29f7a907d6daa6eee72e7f3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20India.png" group-title="West Indies tour of India, 2026", West Indies vs India - Star Sports 1 Telugu
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/criclife1.m3u8?md5=E4cvBl1TkvsPvMZ5-JYffQ&expires=1790518910&ch=criclife1&s=6dbe082894fa41e6f99b0bae3753ebd6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Sri%20Lanka.png" group-title="Sri Lanka tour of England, 2026", England vs Sri Lanka - Sky Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/dodosky2.m3u8?md5=FSwQn4PIhhrH5LxsgP0GlA&expires=1790518914&ch=dodosky2&s=ebb7950913b43f70f215682e7d2154e1
+https://mz01.bhalocast.com:7060/hls/star1telu5.m3u8?md5=5-rYlVWA_xRjESRiIu8Deg&expires=1790781694&ch=star1telu5&s=14e195c5e1f1308d579760a20f8b8cd4
 #----
 # name: SonyLiv Matches Full Data
 #----
 
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Squash", Squash - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx1_32909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025347/1790728680024979_AG26_golf_india_in_action_live_landscape_thumb.jpg" group-title="Golf", India In Action - Golf - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_33009/ENG/master.m3u8?hdnea=exp=1790778033~acl=/*~id=50406613612023948957312797628286~hmac=405cc55c8c35983b0dd53509a6c3c72276b6d99d47bfbb57cfcb5d32a222c060
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Wrestling", Wrestling - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8?hdnea=exp=1790769088~acl=/*~id=86894233202059025580570457759464~hmac=14e26c4bfab9fa6092a251be500916a817ef61ea25c4c3c2083c05fb004ac2d9
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Judo", Judo - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790810431~acl=/*~id=72485697055333046493379522301852~hmac=de2821fff1944acfc233eb24642c465c6923cbf8876a5feaaafb4e8a8bfcabb4
