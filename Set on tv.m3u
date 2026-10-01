@@ -614,7 +614,7 @@ http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-http://198.195.239.50:8095/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
