@@ -874,45 +874,25 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 04:02:22 PM 09-10-2026
+#last update time: 12:02:19 AM 10-10-2026
 #----
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20Champions%20vs%20West%20Indies%20Champions.png" group-title="World Championship of Legends 2026", Bangladesh Champions vs West Indies Champions - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=willow
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - Willow HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20Champions%20vs%20West%20Indies%20Champions.png" group-title="World Championship of Legends 2026", Bangladesh Champions vs West Indies Champions - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=starsp2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20Champions%20vs%20West%20Indies%20Champions.png" group-title="World Championship of Legends 2026", Bangladesh Champions vs West Indies Champions - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=willowhd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - T Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20Champions%20vs%20West%20Indies%20Champions.png" group-title="World Championship of Legends 2026", Bangladesh Champions vs West Indies Champions - CricGo 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=gtv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - CricGo 3
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=willow
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - A Sports HD
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=asports
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - CricGo 5
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Fox Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=fox501
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Sky Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=crich2
+https://playerso.top/embed2.php?id=cricgo1
 #----
 # name: SonyLiv Matches Full Data
 #----
