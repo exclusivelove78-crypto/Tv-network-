@@ -872,7 +872,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 11:32:19 AM 13-10-2026
+#last update time: 10:32:16 PM 13-10-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -915,11 +915,9 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/HIN/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [Malayalam]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/MAL/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
-#EXTINF:-1 tvg-id="sonyliv-1090547693" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Golf", Open de Espana Presented By Madrid - Day 4 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb
+#EXTINF:-1 tvg-id="sonyliv-1090547794" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg" group-title="Volleyball", Namma Bengaluru Smashers vs Delhi Dynamites - 13 Oct 2026 | Volleyball Championship League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
+#EXTINF:-1 tvg-id="sonyliv-1090547842" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Football", Lens vs Sporting CP - MD2 - 13 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
+#EXTINF:-1 tvg-id="sonyliv-1090547843" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football", Sabah vs Slavia Praha - 13 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c
