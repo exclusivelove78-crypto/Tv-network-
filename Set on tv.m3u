@@ -872,7 +872,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 05:02:16 PM 15-10-2026
+#last update time: 10:32:22 PM 15-10-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -915,5 +915,7 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090548063" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf", DP World India Championship - Day 1 - 15 Oct 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
+#EXTINF:-1 tvg-id="sonyliv-1090548084" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg" group-title="Football", Lyon vs Crystal Palace - MD2 - 15 Oct 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124445~acl=/*~id=83441655827982775503219465165216~hmac=cdfa9b328a535b7282bfc72ce107f5d3bea1b964d042e8b30d8c35d63ead91c0
+#EXTINF:-1 tvg-id="sonyliv-1090548068" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Tamil Titans - 15 Oct 2026 | Volleyball Championship League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
