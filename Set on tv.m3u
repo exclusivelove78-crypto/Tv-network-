@@ -636,14 +636,16 @@ https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
 http://103.172.29.30:9991/stream/channelid/2135784742
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1", STAR SPORTS 2 HD
-http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3 HD
