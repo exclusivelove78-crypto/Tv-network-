@@ -872,7 +872,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 04:02:18 PM 17-10-2026
+#last update time: 09:02:17 PM 17-10-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -915,9 +915,9 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090548555" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg" group-title="Sport", Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200036~acl=/*~id=89335275391496221868091268206146~hmac=019da81a3a69dda85c5157e7109f299f6075f15024436a640a8cf7d925ae6bf8
-#EXTINF:-1 tvg-id="sonyliv-1090548553" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg" group-title="Sport", Tamil Titans vs Ayodhya Garjan - Super 6 - 16 Oct 2026 | Volleyball Championship League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200036~acl=/*~id=89335275391496221868091268206146~hmac=019da81a3a69dda85c5157e7109f299f6075f15024436a640a8cf7d925ae6bf8
-#EXTINF:-1 tvg-id="sonyliv-1090548554" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959346936578_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="Sport", Prithviraj Yodhas vs Chero Archers - 16 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792201835~acl=/*~id=76018606941825064130889720225583~hmac=e63d87bf91a2b6c10b04ab4ec20209e0d1cc341c6786867458640d47e145c5d7
+#EXTINF:-1 tvg-id="sonyliv-1090548712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 | MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288233~acl=/*~id=34805945059129283810304293944113~hmac=0e11eb260a9ab60d2d49d4e6a744d65130046dcfd6ace367641e7460793ff508
+#EXTINF:-1 tvg-id="sonyliv-1090548711" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 | Volleyball Championship League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
+#EXTINF:-1 tvg-id="sonyliv-1090548715" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959652306578_APL26_Chero-Archers-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Archery", Chero Archers vs Chola Chiefs - 17 Oct 2026 | Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f
