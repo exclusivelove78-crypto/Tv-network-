@@ -874,7 +874,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 09:32:17 AM 18-10-2026
+#last update time: 04:32:16 PM 18-10-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -917,9 +917,5 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090548712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288233~acl=/*~id=34805945059129283810304293944113~hmac=0e11eb260a9ab60d2d49d4e6a744d65130046dcfd6ace367641e7460793ff508
-#EXTINF:-1 tvg-id="sonyliv-1090548711" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 | Volleyball Championship League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
-#EXTINF:-1 tvg-id="sonyliv-1090548715" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959652306578_APL26_Chero-Archers-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Archery", Chero Archers vs Chola Chiefs - 17 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f
+#EXTINF:-1 tvg-id="sonyliv-1090548740" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf", DP World India Championship - Day 4 - 18 Oct 2026 | DP World Tour
+https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
