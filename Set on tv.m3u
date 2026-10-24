@@ -874,7 +874,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 03:02:19 AM 24-10-2026
+#last update time: 09:32:15 AM 24-10-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -917,7 +917,7 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090550116" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041
-#EXTINF:-1 tvg-id="sonyliv-1090550072" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026769/1792489851034675_Delhi_Leaders_vs_Tamilnadu_Thunders_live_landscape_thumb.jpg" group-title="Cricket", Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792813839~acl=/*~id=42305937218722083498290741243272~hmac=cc48dbc77af7d05a4dfe1ca5c7f95b44d856afff1e2cd27d261e0f3609a32b17
+#EXTINF:-1 tvg-id="sonyliv-1090550213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket", 1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand
+https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
+#EXTINF:-1 tvg-id="sonyliv-1090550216" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf", Genesis Championship - Day 3 - 24 Oct 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c
