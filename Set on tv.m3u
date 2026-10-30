@@ -2,6 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
+https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 
@@ -696,6 +697,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PTV-SPORTS.png" group-title="Sports" , PTV SPORTS HD
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
 http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
