@@ -879,7 +879,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 03:02:19 AM 01-11-2026
+#last update time: 10:02:23 AM 01-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -922,11 +922,5 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120307/footlive3110/ENG/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
-#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive3110/HIN/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
-#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Malayalam]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120306/footlive3110/MAL/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
-#EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Tamil]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120304/footlive3110/TAM/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+#EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Cricket", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2018457/criclive3110/ENG/master.m3u8?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9
