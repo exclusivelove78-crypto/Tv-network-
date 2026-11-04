@@ -2,6 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", BTV
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
@@ -13,6 +14,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://livetv.akr4m.com:8080/bdtv/restrem/32.m3u8
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
+https://tvsen7.aynaott.com/Sports4/index.m3u8
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
@@ -611,6 +613,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports",Sky Sports Cricket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+
+
+#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1 [PAID]
+https://tvsen5.aynaott.com/asdfadsf/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
