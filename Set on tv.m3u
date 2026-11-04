@@ -35,8 +35,8 @@ http://198.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-24-bd.png" group-title="Bangla" tvg-server="Server 1", Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/391.ts
-https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Channel I
@@ -81,6 +81,7 @@ https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="MyTV.bd" tvg-name="MyTV" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla" tvg-server="Server 1", MyTV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1", Nagorik TV
@@ -158,7 +159,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla" tvg-server="Server 1", Channel 9
-https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 
 
@@ -189,7 +190,7 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ananda_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-id="JagoNews24.bd" tvg-name="Jago News24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="Bangla", Jago News
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
