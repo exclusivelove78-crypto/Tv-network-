@@ -904,7 +904,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 07:02:39 AM 05-11-2026
+#last update time: 04:02:21 PM 05-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -947,15 +947,5 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120305/Footlive0411/ENG/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120306/Footlive0411/HIN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Telugu]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120300/Footlive0411/TEL/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Tamil]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120302/Footlive0411/TAM/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Kannada]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120307/Footlive0411/KAN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
-#EXTINF:-1 tvg-id="sonyliv-1090551910" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg" group-title="Football", Fenerbahçe vs Liverpool | UEFA Champions League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2022316/Footlive0411/ENG/master.m3u8?hdnea=exp=1793857851~acl=/*~id=83659208939244399959378200455225~hmac=39b017283816784a366e9466b14a043890d0472ec7bb60b038f2c0d981809c00
+#EXTINF:-1 tvg-id="sonyliv-1090552580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg" group-title="Golf", Abu Dhabi HSBC Championship - Day 1 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2037141/Golf_Abu0511/ENG/master.m3u8?hdnea=exp=1793904650~acl=/*~id=28507298206890606559463641353992~hmac=73a0c85ef2ca2c6f3d1412c349b6979f321089b1f8edb312f97f23c4fa2abaa6
