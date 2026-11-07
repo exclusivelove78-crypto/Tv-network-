@@ -596,11 +596,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Sports",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
-#EXTINF:-1 tvg-id="019de785-39cc-73df-9b76-41868981948e" tvg-name="Fox Sports 1" tvg-logo="https://s3.aynaott.com/storage/75d182d517bbae0af248c5ee1a67f4d4" group-title="Channels, Sports",Fox Sports 1 [PAID]
-https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-id="019de785-39ce-70e7-948d-101e8a97fbd5" tvg-name="Fox Sports 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1798e8f27d0dcf7ecfdbea8390ff4366_playmist_fox_sports_2400x400.jpg" group-title="Channels, Sports",Fox Sports 2 [PAID]
-https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports",SuperSport Cricket
 
