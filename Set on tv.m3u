@@ -277,6 +277,7 @@ https://xtream.kbhub.online/live/kblivetv/kblivetv/23306.ts
 #http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1794231021~Starts=1794227421~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature=pLQ9L3GlNp5Gv6wX-pKT-xtXYD3zeppf-WOxWVBuRZ7QrSb6MTuV5iBfFJ1R_REyefVuZLMfjdo8wMUjqhEtDg
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 
