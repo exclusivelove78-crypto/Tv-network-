@@ -755,10 +755,6 @@ http://45.167.1.136:8000/play/a06d
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7NWzWcbg/CITYPNG-COM-Premier-League-Official-Logo-2000x2000.png",EPL PREMIER LEAGUE 2026
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/7sFq1Nq/cazetv-seeklogo.png",CAZE TV ᴴᴰ
-#
-
-
 ----------Cartoon--------
 
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo.png" group-title="Kids",Pogo
@@ -783,10 +779,6 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Kids", Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-######## TAPMAD + FANCODE UPDATED LIST ########
-
-#EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
 
 
 --------------Live Sports----------
