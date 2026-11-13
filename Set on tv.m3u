@@ -44,6 +44,7 @@ http://198.195.239.50:8095/channelI/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png",Channel 1
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 
 
@@ -58,7 +59,6 @@ http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1", Ekhon TV
-https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
 
@@ -85,6 +85,7 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1", Nagorik TV
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="News24.bd" tvg-name="News24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1", News 24 BD
@@ -152,7 +153,7 @@ https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="https://en.wikipedia.org/wiki/File:Logo_of_Deepto_TV.svg" group-title="Bangla" tvg-server="Server 1", Deepto TV
-
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrTkRG2_z_5KHfI_ur5-Ev5Q4kVl3zKmcAQ&s" group-title="Bangla" tvg-server="Server 1", Channel S HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
@@ -261,7 +262,7 @@ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1", ZEE Bangla HD 3
-
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD 0
@@ -269,7 +270,7 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 http://198.195.239.50:8095/colorsBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1", COLORS BANGLA HD
-https://xtream.kbhub.online/live/kblivetv/kblivetv/23306.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1", SUN BANGLA HD
@@ -332,6 +333,7 @@ http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://rgkkw.live:8080/live/531570/21DFDC/98884.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
 http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
@@ -402,6 +404,7 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
 #http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
@@ -470,6 +473,7 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Music" tvg-server="Server 1", Sangeet Bangla
 #http://198.195.239.50:8095/sangeetBangla/index.m3u8
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 
@@ -595,6 +599,9 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/DD_Sports_logo.svg" group-title="Sports", DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.fr@Asia" tvg-name="Eurosport" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png" tvg-chno="604" channel-id="Eurosport.fr@Asia" tvg-country="FR" tvg-language="und" group-title="Sports",Eurosport
+http://103.253.74.210:7070/stream/122/index.m3u8
+
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports", Willow Sports
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -655,6 +662,7 @@ http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
 #https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
+https://starsportshindiii.pages.dev/index.m3u8
 http://103.172.29.30:9991/stream/channelid/2135784742
 
 
