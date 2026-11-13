@@ -277,6 +277,7 @@ http://198.195.239.50:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 
@@ -310,6 +311,8 @@ http://103.180.212.191:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1", Sony Entertainment Television
 #http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8
+http://38.96.178.205/SONYHD/index.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 
@@ -334,6 +337,7 @@ http://rgkkw.live:8080/live/531570/21DFDC/98884.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
 https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+http://live.balajibroadband.com:3500/live/1657.m3u8
 http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
@@ -353,6 +357,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
 #http://66.102.126.10:8000/play/a00g/index.m3u8
+http://107.167.16.138/stargold2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
 #http://66.102.126.10:8000/play/a01s/index.m3u8
@@ -400,19 +405,24 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1", COLORS CINEPLEX HD
 #http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8
+http://live.balajibroadband.com:3500/live/1763.m3u8
 http://66.102.126.10:8000/play/a076/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX HD
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movies" tvg-server="Server 1", SONY MAX 1 HD
+http://live.balajibroadband.com:3500/live/3418.m3u8
+http://103.180.212.191:3500/live/3418.m3u8
 #http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max [Backup 4]" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" tvg-chno="209" group-title="Indian Movies",Sony Max 
-
+http://live.balajibroadband.com:3500/live/476.m3u8
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
+http://107.167.16.138/sonymax2/index.m3u8?token=test
+http://live.balajibroadband.com:3500/live/483.m3u8
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
 
@@ -631,6 +641,7 @@ https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
+http://live.balajibroadband.com:3500/live/162.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
@@ -638,13 +649,14 @@ https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
+http://live.balajibroadband.com:3500/live/891.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
 #https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+http://live.balajibroadband.com:3500/live/892.m3u8
 http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8 
 
 
@@ -654,6 +666,7 @@ http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+http://live.balajibroadband.com:3500/live/155.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
