@@ -885,7 +885,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 06:32:23 AM 13-11-2026
+#last update time: 03:02:20 PM 13-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -928,7 +928,7 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090553566" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg" group-title="Football", Türkiye vs Belgium | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT59bcprod-PlaybackConfig/2120303/Footlive1211/ENG/master.m3u8?hdnea=exp=1794545448~acl=/*~id=45710757988097459385176562298993~hmac=09326f5daefc2f76546d7e314995df1f54a891626d7f8b551c00e12204ef6f32
-#EXTINF:-1 tvg-id="sonyliv-1090553571" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg" group-title="Football", Armenia vs Cyprus | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5181prod-PlaybackConfig/2120302/Footlive1211/ENG/master.m3u8?hdnea=exp=1794543668~acl=/*~id=69146673202856795240416329280514~hmac=053ac30c3b7fa84cdcf558f1222a50f4f53a0fa6f5360721092408ba778fab1e
+#EXTINF:-1 tvg-id="sonyliv-1090553600" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Sport", 4th ODI | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa
+#EXTINF:-1 tvg-id="sonyliv-1090553604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg" group-title="Sport", DP World Tour Championship, Dubai - Day 2 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Golf_DPW1311/ENG/master.m3u8?hdnea=exp=1794595849~acl=/*~id=03767627049733077604475844300847~hmac=25feb3ee1305758e911a81dc6594d209bb01d60a87a9cd45448ff2b1fad5a78b
