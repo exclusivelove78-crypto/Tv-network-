@@ -281,10 +281,11 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
-http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1", Sony AATH 0
+http://live.balajibroadband.com:3500/live/697.m3u8
 https://xtream.kbhub.online/live/kblivetv/kblivetv/4083.ts
 
 
@@ -302,7 +303,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony WAH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1", Sony Wah
-
+http://live.balajibroadband.com:3500/live/1393.m3u8
 
 
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-name="Sony SAB" tvg-logo="https://en.wikipedia.org/wiki/File:SONY_SAB_SD_Logo_2022.png",SONY SAB SD
@@ -330,8 +331,9 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/23304.ts
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co.com/hRZY4z61/pngwing-com.png",JALSHA MOVIES ᴴᴰ
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://live.balajibroadband.com:3500/live/457.m3u8
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movies" tvg-server="Server 1", JALSHA MOVIES HD 1
 #http://198.195.239.50:8095/jalshaMovies/tracks-v1a1/mono.m3u8
@@ -342,7 +344,7 @@ http://rgkkw.live:8080/live/531570/21DFDC/98884.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
 https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
-http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
@@ -363,7 +365,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/9375.ts
 
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies" tvg-server="Server 1", Star Gold 2 HD
 #http://66.102.126.10:8000/play/a00g/index.m3u8
-http://107.167.16.138/stargold2/index.m3u8?token=test
+http://live.balajibroadband.com:3500/live/3096.m3u8
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies" tvg-server="Server 1", Star Gold Select HD
 #http://66.102.126.10:8000/play/a01s/index.m3u8
