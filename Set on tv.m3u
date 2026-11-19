@@ -13,8 +13,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
+https://toffee.aliflaila.live/channel/1.m3u8
 https://tvsen7.aynaott.com/Sports4/index.m3u8
-https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1", Jamuna TV
@@ -60,6 +60,7 @@ http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1", Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+https://toffee.aliflaila.live/channel/37.m3u8
 
 
 #EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Bangla" tvg-server="Server 1", Global TV
@@ -68,6 +69,7 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1", Independent TV
+https://toffee.aliflaila.live/channel/55.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
@@ -412,6 +414,7 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2102fac092ee28f75652131b19d74260.png" group-title="Movies" tvg-server="Server 1", SONY MAX 1 HD
 http://live.balajibroadband.com:3500/live/3418.m3u8
+https://toffee.aliflaila.live/channel/54.m3u8
 http://103.180.212.191:3500/live/3418.m3u8
 #http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
@@ -420,11 +423,13 @@ https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max [Backup 4]" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" tvg-chno="209" group-title="Indian Movies",Sony Max 
 http://live.balajibroadband.com:3500/live/476.m3u8
+https://toffee.aliflaila.live/channel/65.m3u8
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 http://live.balajibroadband.com:3500/live/483.m3u8
+https://toffee.aliflaila.live/channel/57.m3u8
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
 
@@ -613,6 +618,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 tvg-id="Eurosport.fr@Asia" tvg-name="Eurosport" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png" tvg-chno="604" channel-id="Eurosport.fr@Asia" tvg-country="FR" tvg-language="und" group-title="Sports",Eurosport
 http://103.253.74.210:7070/stream/122/index.m3u8
+https://toffee.aliflaila.live/channel/74.m3u8
 
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://d2779tscntxxsw.cloudfront.net/collection_697406b993cda.png" group-title="Sports", Willow Sports
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
@@ -638,12 +644,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 
-#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1 [PAID]
+#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1
 https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
 http://live.balajibroadband.com:3500/live/162.m3u8
+https://toffee.aliflaila.live/channel/18.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
@@ -669,6 +676,7 @@ http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
 http://live.balajibroadband.com:3500/live/155.m3u8
+https://toffee.aliflaila.live/channel/14.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
