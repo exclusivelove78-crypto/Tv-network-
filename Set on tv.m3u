@@ -33,9 +33,9 @@ http://198.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-24-bd.png" group-title="Bangla" tvg-server="Server 1", Channel 24
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
-
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/1369523.ts
 
 
 #EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1", Channel I
@@ -650,6 +650,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports",Sky Sports Cricket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="SPORTS ⚽",Sky sports FOOTBALL
+http://vca.easy747.com:80/live/0578694/1295K6K/17288.ts
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="SPORTS ⚽",Sky sports CRICKET 🏏
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/250199.ts
 
 #EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Sports, Channels",TNT Sport 1
 https://tvsen5.aynaott.com/asdfadsf/index.m3u8
@@ -690,10 +695,10 @@ http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports1HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star%20Sports%201%20HD.png" group-title="Sports", Star Sports 1 HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/955662.ts
 #https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8
-https://starsportshindiii.pages.dev/index.m3u8
-http://103.172.29.30:9991/stream/channelid/2135784742
+
 
 
 
@@ -704,13 +709,14 @@ http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 Hindi HD" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports" , Star Sports 3 HD
-http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/846950.ts
+#http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png" group-title="Sports" tvg-server="Server 1", Star Sports Khel
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1", Star Sports Select 1 HD
-
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/247161.ts
 #https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 
