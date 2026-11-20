@@ -915,7 +915,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 02:02:21 AM 20-11-2026
+#last update time: 08:32:27 AM 20-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -958,9 +958,5 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-id="sonyliv-1090554490" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg" group-title="Football", Iceland vs Luxembourg | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2005444/Footlive1611/ENG/master.m3u8?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8
-#EXTINF:-1 tvg-id="sonyliv-1090554494" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg" group-title="Football", Estonia vs Bulgaria | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2018457/Footlive1611/ENG/master.m3u8?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8
-#EXTINF:-1 tvg-id="sonyliv-1090554495" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg" group-title="Football", Lithuania vs Liechtenstein | UEFA Nations League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2094589/Footlive1611/ENG/master.m3u8?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8
+#EXTINF:-1 tvg-id="sonyliv-1090554835" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg" group-title="Cricket", 1st Test - Day 2 | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795170049~acl=/*~id=97019079267400676936531596987262~hmac=4137e08945a5c31f1b0d6cf7b5fbb52ff9865f101c0035fb0f265a7bff74c911
