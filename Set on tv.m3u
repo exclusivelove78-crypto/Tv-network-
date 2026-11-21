@@ -343,13 +343,13 @@ http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://rgkkw.live:8080/live/531570/21DFDC/98884.ts
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies" tvg-server="Server 1", Colors Bangla Cinema
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+#https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
-https://toffee.aliflaila.live/channel/40.m3u8
+#https://toffee.aliflaila.live/channel/40.m3u8
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/955393.ts
 http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8
