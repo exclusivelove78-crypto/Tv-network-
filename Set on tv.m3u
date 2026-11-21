@@ -13,7 +13,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-https://toffee.aliflaila.live/channel/1.m3u8
+#https://toffee.aliflaila.live/channel/1.m3u8
 https://tvsen7.aynaott.com/Sports4/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
