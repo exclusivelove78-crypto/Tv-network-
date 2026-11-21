@@ -429,7 +429,7 @@ http://103.180.212.191:3500/live/3418.m3u8
 #http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max [Backup 4]" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png" tvg-chno="209" group-title="Indian Movies",Sony Max 
 http://live.balajibroadband.com:3500/live/476.m3u8
@@ -437,10 +437,10 @@ https://toffee.aliflaila.live/channel/65.m3u8
 
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="Movies" tvg-server="Server 1", Sony MAX 2 HD
-http://107.167.16.138/sonymax2/index.m3u8?token=test
 http://live.balajibroadband.com:3500/live/483.m3u8
+http://107.167.16.138/sonymax2/index.m3u8?token=test
 https://toffee.aliflaila.live/channel/57.m3u8
-https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
+#https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
 
 
