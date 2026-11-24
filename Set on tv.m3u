@@ -13,7 +13,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1", Somoy TV
-#https://toffee.aliflaila.live/channel/1.m3u8
 https://tvsen7.aynaott.com/Sports4/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
@@ -664,7 +663,7 @@ https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
 http://live.balajibroadband.com:3500/live/162.m3u8
-https://toffee.aliflaila.live/channel/18.m3u8
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/52083.ts
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
@@ -672,6 +671,7 @@ https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/52085.ts
 http://live.balajibroadband.com:3500/live/891.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
@@ -679,6 +679,7 @@ http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/52086.ts
 http://live.balajibroadband.com:3500/live/892.m3u8
 http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8 
 
@@ -689,8 +690,8 @@ http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/453435.ts
 http://live.balajibroadband.com:3500/live/155.m3u8
-https://toffee.aliflaila.live/channel/14.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
