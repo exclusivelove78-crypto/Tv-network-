@@ -925,7 +925,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 08:32:17 AM 24-11-2026
+#last update time: 08:32:22 PM 24-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -968,5 +968,7 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Bangladesh A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/criclive2311/ENG/master.m3u8?hdnea=exp=1795486567~acl=/*~id=06627541382356916592914448638808~hmac=50877615dc3f315bebf181871e0225ef1fe472aee6e4faa6732fca0a4d8d542e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795572964~acl=/*~id=54594302964472728333277760344325~hmac=407b1fff73ec2c353f3b7267a6b0905ec59aa3da5d30a75d9a5980049527433d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="Live Sports",NorthEast United vs Sporting Club Delhi - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795580031~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=90195361d43fab3adaf7a84c73943a6ca7d84d04f559156feb7476f057a5bed4
