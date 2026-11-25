@@ -665,6 +665,16 @@ https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 #EXTINF:-1 , SONY TEN 1
 https://stream-through-spark.lovable.app/api/proxy?u=http%3A%2F%2Flive.ftpbdlive.com%3A8080%2Flive%2FFTPBD-LIVETV%2FFTPBD-2026%2F12.m3u8
 
+#EXTINF:-1 , SONY TEN 2
+
+
+#EXTINF:-1 , SONY TEN 3
+https://stream-through-spark.lovable.app/api/proxy?u=http%3A%2F%2Flive.ftpbdlive.com%3A8080%2Flive%2FFTPBD-LIVETV%2FFTPBD-2026%2F14.m3u8
+
+#EXTINF:-1 , SONY TEN 5
+https://stream-through-spark.lovable.app/api/proxy?u=http%3A%2F%2Flive.ftpbdlive.com%3A8080%2Flive%2FFTPBD-LIVETV%2FFTPBD-2026%2F15.m3u8
+
+
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
 #http://live.balajibroadband.com:3500/live/162.m3u8
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/52083.ts
@@ -740,6 +750,7 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/514856.ts
 https://toffee.aliflaila.live/channel/67.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports1.pk" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports", Unite8 Sports 1
+https://stream-through-spark.lovable.app/api/proxy?u=http%3A%2F%2Flive.ftpbdlive.com%3A8080%2Flive%2FFTPBD-LIVETV%2FFTPBD-2026%2F35.m3u8
 http://198.195.239.50:8095/UNITE8.1.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Unite8Sports2.pk" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" group-title="Sports", Unite8 Sports 2
