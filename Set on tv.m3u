@@ -940,7 +940,7 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03
 https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=a236dd2f707f0ced03aee7eee755f9031326c26b&url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a9c3591cf074f0d50aa5c2e%2Fchunks.m3u8&verify=1790769600-UsDwfWOU99ZekZzEZo%2BryNAsByp68PQv2A3IMjGDTfw%3D
 #----
 #name: Crichd 24/7 live channels
-#last update time: 10:02:26 AM 26-11-2026
+#last update time: 10:32:21 PM 26-11-2026
 #----
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Nepal%20vs%20Canada.png" group-title="ICC Cricket World Cup League Two 2023-27", Nepal vs Canada - CricGo 6
@@ -983,17 +983,5 @@ https://playerso.top/embed2.php?id=crich2
 # name: SonyLiv Matches Full Data
 #----
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Live Sports",Inter Milan vs VfB Stuttgart - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Live Sports",PSG vs AS Roma - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Live Sports",Club Brugge vs Liverpool - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Live Sports",Atlético de Madrid vs Viking FK - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Live Sports",Lille vs Bayern Munich - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Live Sports",Sporting CP vs Manchester United - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1d5ae05d18fd3ea9fc741c7c3045ca3203f632ceb9a7d237c9c42b42e956b537
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Live Sports",Shakhtar Donetsk vs Fenerbahçe - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795691628~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f37117ccb12c49d0fa75ebf2e93b284cd628a2fd53536b255df7344bdf271e2f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg" group-title="Live Sports",FC Kairat Almaty vs Mjällby AIF - UEFA Conference League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2611/ENG/master.m3u8?hdnea=exp=1795759970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=90d996d824dbdcad4df2f2489db4838c841f43c6224f1128f83b8b843d4028bf
